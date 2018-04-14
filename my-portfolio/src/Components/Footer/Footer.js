@@ -5,11 +5,11 @@ const Footer = () => (
 		<div className="container">
 			<div className="row centered">
 				<div className="col-lg-4">
-					<p><strong>Web Developer, Tester &amp; Meme Lover</strong></p>
+					<p><strong>Web Developer &amp; Meme Lover</strong></p>
 				</div>
 
 				<div className="col-lg-4">
-					<p>Living in the beautiful city called Sarajevo.</p>
+					<p>Living in the beautiful city of Sarajevo.</p>
 				</div>
 				<div className="col-lg-4">
 					<p>info@mirzasisic.com</p>
