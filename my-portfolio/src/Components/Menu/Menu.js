@@ -10,13 +10,13 @@ const Menu = () => (
         <span className="icon-bar"></span>
         <span className="icon-bar"></span>
       </button>
-      <a className="navbar-brand" href="index.html">INSTANT</a>
+      <a className="navbar-brand" href="#headerwrap">INSTANT</a>
     </div>
     <div className="navbar-collapse collapse">
       <ul className="nav navbar-nav navbar-right">
-        <li className="active"><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="#works">Works</a></li>
+        <li className="active"><a href="#headerwrap">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#works">Projects</a></li>
       </ul>
     </div>
   </div>

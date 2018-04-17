@@ -1,15 +1,17 @@
 import React from 'react';
 
+const today = new Date();
+
 const Footer = () => (
 	<div id="footerwrap">
 		<div className="container">
 			<div className="row centered">
 				<div className="col-lg-4">
-					<p><strong>Web Developer &amp; Meme Lover</strong></p>
+					<p><strong>Web Developer &amp; Meme Lover</strong>
+					<br/>Living in the beautiful city of Sarajevo.</p>
 				</div>
-
 				<div className="col-lg-4">
-					<p>Living in the beautiful city of Sarajevo.</p>
+					<p>	&copy; <span>{today.getFullYear()}</span></p>
 				</div>
 				<div className="col-lg-4">
 					<p>info@mirzasisic.com</p>

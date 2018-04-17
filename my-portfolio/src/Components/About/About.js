@@ -1,7 +1,7 @@
 import React from 'react';
 
 const About = () => (
-	<div className="container">
+	<div id="about" className="container">
 		<div className="row centered mt mb">
 			<div className="col-lg-8 col-lg-offset-2">
 				<h2>About</h2>

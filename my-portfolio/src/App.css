@@ -1,19 +1,5 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://Alvarez.is
- *
- * Project Name: NYC Design
- * Version: 1.0
- * Date: 04-20-2014
- * URL: 
- */
 
-
-/* ==========================================================================
-   Base Styles, Bootstrap Modifications & Fonts Import
-   ========================================================================== */
-
-   @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+   @import url(http://fonts.googleapis.com/css?family=Cabin:400,700);
 
 
    ::-moz-selection {
@@ -23,7 +9,7 @@
    }
    
    ::selection {
-       background: #16a085;
+       background: #81fce3;
        color: #a4003a;
        text-shadow: none;
    }
@@ -59,7 +45,7 @@
    
    
    body {
-       font-family: 'Montserrat', sans-serif;
+       font-family: 'Cabin', sans-serif;
        font-weight: 400;
        font-size: 16px;
    
@@ -82,7 +68,7 @@
    }
    
    .navbar-default {
-     background-color: transparent;
+     /* background-color: transparent; */
      border-color: transparent;
    }
    
@@ -141,13 +127,14 @@
    }
    
    #social {
-     padding-top: 50px;
-     padding-bottom: 50px;
+     padding-top: 5px;
+     padding-bottom: 5px;
      background-color: #f2f2f2;
    }
    
    #social i {
      font-size: 40px;
+     padding: 5px;
      color: #4a4a4a
    }
    
@@ -156,8 +143,8 @@
    }
    
    #footerwrap {
-     padding-top: 70px;
-     padding-bottom: 50px;
+     padding-top: 40px;
+     padding-bottom: 20px;
      background-color: #2f2f2f;
    }
    
