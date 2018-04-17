@@ -8,6 +8,7 @@ const Header = () => (
 					<h4>Greetings and salutations, my name is</h4>
 					<h1>Mirza Sisic</h1>
 					<h4>Web Developer &amp; Meme Lover</h4>
+					<h5><i>Living in the beautiful city of Sarajevo</i></h5>
 				</div>
 			</div>
 	    </div> 

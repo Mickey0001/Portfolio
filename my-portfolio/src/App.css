@@ -47,7 +47,7 @@
    body {
        font-family: 'Cabin', sans-serif;
        font-weight: 400;
-       font-size: 16px;
+       font-size: 2em;
    
        -webkit-font-smoothing: antialiased;
        -webkit-overflow-scrolling: touch;
@@ -55,7 +55,7 @@
    
    h1, h2, h3, h4, h5, h6 {
      font-weight: 700;
-       color: #4a4a4a;
+       color: #000;
    }
    
    
@@ -98,7 +98,7 @@
      text-align:center;
      background-attachment: relative;
      background-position: center center;
-     height: 120vh;
+     height: 115vh;
      width: 100%;
      
        -webkit-background-size: 100%;
