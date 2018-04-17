@@ -93,12 +93,12 @@
      background: -webkit-linear-gradient(to right, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
      background: linear-gradient(to right, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-     margin-top: -70px;
-     padding-top: 250px;
+     margin-top: 0px;
+     padding-top: 90px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
-     height: 115vh;
+     height: 80vh;
      width: 100%;
      
        -webkit-background-size: 100%;
@@ -127,13 +127,10 @@
    }
    
    #social {
-     padding-top: 1em;
-     padding-bottom: 1em;
      background-color: #f2f2f2;
    }
    
    #social i {
-     font-size: 40px;
      padding: 5px;
      color: #4a4a4a
    }
@@ -143,7 +140,7 @@
    }
    
    #footerwrap {
-     padding-top: 40px;
+     padding-top: 20px;
      padding-bottom: 20px;
      background-color: #2f2f2f;
    }
