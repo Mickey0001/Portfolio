@@ -11,7 +11,7 @@ const Footer = () => (
 					<br/>Living in the beautiful city of Sarajevo.</p>
 				</div>
 				<div className="col-lg-4">
-					<p>	&copy; <span>{today.getFullYear()}</span></p>
+					<p>	&copy;<span>{today.getFullYear()}</span> mirzasisic.com</p>
 				</div>
 				<div className="col-lg-4">
 					<p>info@mirzasisic.com</p>
