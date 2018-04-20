@@ -10,7 +10,7 @@ const Menu = () => (
         <span className="icon-bar"></span>
         <span className="icon-bar"></span>
       </button>
-      <a className="navbar-brand" href="#headerwrap">INSTANT</a>
+      <a className="navbar-brand" href="#headerwrap">Mirza Sisic</a>
     </div>
     <div className="navbar-collapse collapse">
       <ul className="nav navbar-nav navbar-right">
