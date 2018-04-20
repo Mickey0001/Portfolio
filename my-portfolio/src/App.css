@@ -31,13 +31,13 @@
      text-align: center
    }
    
-   .mt {
+   /* .mt {
      margin-top: 80px;
    }
    
    .mb {
      margin-bottom: 80px;
-   }
+   } */
    
    /* ==========================================================================
       General styles
@@ -145,7 +145,7 @@
    }
    
    #workwrap {	
-     /* background: url(../img/work.jpg) no-repeat center top; */
+     /* background: url(../src/Images/work.jpg) no-repeat center top; */
      margin-top: -70px;
      padding-top: 250px;
      text-align:center;
@@ -178,7 +178,6 @@
    }
    
    #aboutwrap {	
-     /* background: url(../img/about.jpg) no-repeat center top; */
      margin-top: -70px;
      padding-top: 250px;
      text-align:center;

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Menu = () => (
-  <div className="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div className="navbar navbar-inverse navbar-fixed-top" role="navigation">
   <div className="container">
     <div className="navbar-header">
       <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -15,8 +15,10 @@ const Menu = () => (
     <div className="navbar-collapse collapse">
       <ul className="nav navbar-nav navbar-right">
         <li className="active"><a href="#headerwrap">Home</a></li>
-        <li><a href="#about">About</a></li>
+        <li><a href=" #aboutwrap">About</a></li>
         <li><a href="#works">Projects</a></li>
+        <li><a href="#works">Contact</a></li>
+        <li><a href="https://juniorlearnstocode.blogspot.ba" target="_blank" rel="noopener noreferrer">Blog</a></li>
       </ul>
     </div>
   </div>
