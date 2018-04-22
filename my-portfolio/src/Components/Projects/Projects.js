@@ -4,7 +4,7 @@ const Projects = () => (
   <div className="container" id="workwrap">
   <h2>Projects</h2>
   
-    <div  className="row">
+    <div className="row">
         <div className="col-sm-6 col-md-4">
             <div className="thumbnail">
               <img className="img-responsive" src="https://safetbeg.com/images/safetPainting@2x.jpg" alt="..."/>

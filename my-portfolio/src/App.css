@@ -83,6 +83,7 @@
    .navbar-default .navbar-nav > li > a {
      color: #1abc9c;
    }
+
    
    /* ==========================================================================
       Wrap Sections
@@ -147,7 +148,8 @@
    #workwrap {	
      /* background: url(../src/Images/work.jpg) no-repeat center top; */
      margin-top: -70px;
-     padding-top: 250px;
+     padding-top: 100px;
+     padding-bottom: 100px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
@@ -166,6 +168,7 @@
    }
    
    #workwrap h1, h2 {
+    padding-bottom: 50px;
      color:#000;
      letter-spacing: 4px;
      font-size: 80px;
@@ -179,7 +182,7 @@
    
    #aboutwrap {	
      margin-top: -70px;
-     padding-top: 250px;
+     padding-top: 100px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
