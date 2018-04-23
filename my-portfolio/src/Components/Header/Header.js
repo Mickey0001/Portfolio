@@ -5,10 +5,9 @@ const Header = () => (
 	    <div className="container">
 			<div className="row">
 				<div className="col-lg-6 col-lg-offset-3">
-					<h3>Greetings, my name is</h3>
+					<h4>Greetings, my name is</h4>
 					<h1>Mirza Sisic</h1>
-					<h3>Web Developer &amp; Meme Lover</h3>
-					<h4><i>Living in the beautiful city of Sarajevo</i></h4>
+					<h4>Web Developer &amp; Meme Lover</h4>
 				</div>
 			</div>
 	    </div> 
@@ -16,4 +15,3 @@ const Header = () => (
 );
 
 export default Header;
-
