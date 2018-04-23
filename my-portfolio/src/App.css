@@ -199,8 +199,20 @@
        -o-background-size: cover;
        background-size: cover;
    }
-   
-   
+   .carousel-item {
+     padding:3em 5em 5em 5em; 
+     
+     background: red;
+   }
+   .carousel-item, p {
+    padding-left: 50px;
+    padding-right: 50px;
+   }
+   #carousel, img {
+     height: 100px;
+     width: 100px;
+     border-radius: 50%;
+   }
    
    
    /* Gallery */
