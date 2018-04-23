@@ -16,9 +16,9 @@ const Menu = () => (
       <ul className="nav navbar-nav navbar-right">
         <li className="active"><a href="#headerwrap">Home</a></li>
         <li><a href="#aboutwrap">About</a></li>
-        <li><a href="#works">Projects</a></li>
+        <li><a href="#workwrap">Projects</a></li>
         <li><a href="#Recommendations">Recommendations</a></li>
-        <li><a href="#works">Contact</a></li>
+        <li><a href="#contact">Contact</a></li>
         <li><a href="https://juniorlearnstocode.blogspot.ba" target="_blank" rel="noopener noreferrer">Blog</a></li>
       </ul>
     </div>
