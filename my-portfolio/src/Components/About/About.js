@@ -1,8 +1,8 @@
 import React from 'react';
 
 const About = () => (
-	<div  className="container">
-		<div id="aboutwrap"  className="row centered mt mb">
+	<div id="aboutwrap"  className="container">
+		<div  className="row centered mt mb">
 			<div  className="col-lg-8 col-lg-offset-2">
 				<h2>About</h2>
 				<p className="text-justify">I've always been a technology geek, friends and family would come to me to solve their computer related problems, so one fine day I  realized that since I love doing it as a hobby why not do it professionally! I decided to drop out of college (I used to study history, I still love reading history books but I love tech even more) and I started fixing PC's on the side. After that, I took a few <a href="http://www.mycertprofile.com/Profile/1947938383" target="_blank" rel="noopener noreferrer">Microsoft Certificates</a> and those helped me land my first full time IT job - I got a remote position as a tech support specialist working for a 
