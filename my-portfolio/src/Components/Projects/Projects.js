@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = () => (
   <div className="container" id="workwrap">
-  <h2>Projects</h2>
+  <h3 className="text-center"><strong>Projects</strong></h3>
   
     <div className="row">
         <div className="col-sm-6 col-md-4">

@@ -114,7 +114,7 @@
      font-size: 4em;
    }
    
-   #headerwrap h3, h4, h5{
+   #headerwrap h4, h5{
      font-weight: 700;
      color: #fff;
      padding-top: 15px;
@@ -201,17 +201,24 @@
    }
    .carousel-item {
      padding:3em 5em 5em 5em; 
-     
-     background: red;
    }
    .carousel-item, p {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 2em;
+    padding-right: 2em;
    }
-   #carousel, img {
+   .ClientImage {
      height: 100px;
      width: 100px;
      border-radius: 50%;
+   }
+   .ClientQuote {
+     color: #000;
+   }
+   .ClientInfo {
+     color: darkgrey;
+   }
+   .slider-control-bottomcenter{
+     display: none;
    }
    
    

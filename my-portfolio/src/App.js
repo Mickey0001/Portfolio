@@ -3,6 +3,7 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
+import Recommendations from './Components/Recommendations/Recommendations';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Footer from './Components/Footer/Footer';
@@ -16,6 +17,7 @@ class App extends Component {
         <Header/>
         <About/>
         <Projects/>
+        <Recommendations/>
         <Carousel/>
         <Footer/>
       </div>

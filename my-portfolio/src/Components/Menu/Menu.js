@@ -17,6 +17,7 @@ const Menu = () => (
         <li className="active"><a href="#headerwrap">Home</a></li>
         <li><a href="#aboutwrap">About</a></li>
         <li><a href="#works">Projects</a></li>
+        <li><a href="#Recommendations">Recommendations</a></li>
         <li><a href="#works">Contact</a></li>
         <li><a href="https://juniorlearnstocode.blogspot.ba" target="_blank" rel="noopener noreferrer">Blog</a></li>
       </ul>
