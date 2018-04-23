@@ -1,7 +1,7 @@
 import React from 'react';
 
 const About = () => (
-	<div id="aboutwrap"  className="container">
+	<div id="aboutwrap" className="container">
 		<div  className="row centered mt mb">
 			<div  className="col-lg-8 col-lg-offset-2">
 				<h3><strong>About</strong></h3>
