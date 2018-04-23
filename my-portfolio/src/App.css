@@ -1,5 +1,4 @@
-
-   @import url(http://fonts.googleapis.com/css?family=Cabin:400,700);
+ @import url(http://fonts.googleapis.com/css?family=Cabin:400,700);
 
 
    ::-moz-selection {
@@ -109,7 +108,7 @@
        background-size: cover;
    }
    
-   #headerwrap h1 {
+   #headerwrap h1, h3 {
     color: #fff;
      letter-spacing: 4px;
      font-size: 80px;
