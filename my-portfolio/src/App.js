@@ -4,6 +4,7 @@ import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
 import Projects from './Components/Projects/Projects';
+import Carousel from './Components/Carousel/Carousel';
 import Footer from './Components/Footer/Footer';
 import './App.css';
 
@@ -15,6 +16,7 @@ class App extends Component {
         <Header/>
         <About/>
         <Projects/>
+        <Carousel/>
         <Footer/>
       </div>
     );
