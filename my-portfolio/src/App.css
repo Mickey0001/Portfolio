@@ -52,7 +52,7 @@
        -webkit-overflow-scrolling: touch;
    }
    
-   h1, h2, h3, h4, h5, h6 {
+   h1, h2, h4, h5, h6 {
      font-weight: 700;
        color: #000;
    }
@@ -111,7 +111,6 @@
    #headerwrap h1, h3 {
     color: #fff;
      letter-spacing: 4px;
-     font-size: 80px;
      font-weight: bold;
    }
    
