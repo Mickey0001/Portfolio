@@ -6,6 +6,7 @@ import About from './Components/About/About';
 import Recommendations from './Components/Recommendations/Recommendations';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
+import ContactForm from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
 import './App.css';
 
@@ -19,6 +20,7 @@ class App extends Component {
         <Projects/>
         <Recommendations/>
         <Carousel/>
+        <ContactForm/>
         <Footer/>
       </div>
     );
