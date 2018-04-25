@@ -30,13 +30,16 @@
      text-align: center
    }
    
-   /* .mt {
-     margin-top: 80px;
-   }
-   
-   .mb {
-     margin-bottom: 80px;
-   } */
+  .heading {
+    font-size: 2em;
+    padding-bottom: 0.5em;
+  }
+  .slider-control-centerleft, .slider-control-centerright {
+    display: none;
+  }
+  .longQuote {
+    margin-bottom: 300px;
+  }
    
    /* ==========================================================================
       General styles
@@ -135,6 +138,7 @@
   }
    
    #footerwrap {
+     margin-top: 50px;
      padding-top: 20px;
      padding-bottom: 20px;
      background-color: #2f2f2f;

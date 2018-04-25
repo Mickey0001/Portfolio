@@ -18,7 +18,7 @@ export default class extends React.Component {
               <img className="ClientImage" alt="Safet Begic" src={Safet}/>
               <p>Safet Begic<br/><span className="ClientInfo">Painter and Photographer</span></p>
           </div>
-          <div className="carousel-item">
+          <div className="longQuote carousel-item">
               <p className="text-center ClientQuote">"It was wonderful to work with Mirza. Efficient, skilled, was fast, easy going, fast at responding to my requests, managed to learn how to work things out and communicated his progress and challenges. I will hire him again and fully recommend. Thank you so much for your reliability, professionalism and caring nature."</p>
               <img className="ClientImage" alt="Dilma Morais"  src={Dilma}/>
               <p>Dilma Morais<br/><span className="ClientInfo">Upwork Client</span></p>
