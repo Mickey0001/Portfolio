@@ -6,7 +6,8 @@ import Dijana from '../../../src/Images/Dijana.jpg';
 import Zoran from '../../../src/Images/Zoran.jpg';
 import Emilis from '../../../src/Images/Emilis.jpg';
 import Titos from '../../../src/Images/Titos.jpg';
-
+import Nedim from '../../../src/Images/Nedim.jpg';
+import Lejla from '../../../src/Images/Lejla.jpg';
 
 export default class extends React.Component {
   render() {
@@ -41,6 +42,16 @@ export default class extends React.Component {
               <p className="text-center ClientQuote">"Great work, recommend."</p>
               <img className="ClientImage" alt="Titos Toupoyannis" src={Titos}/>
               <p>Titos Toupoyannis<br/><span className="ClientInfo">Upwork Client</span></p>
+          </div>
+          <div className="carousel-item">
+              <p className="text-center ClientQuote">"Mirza is bla bla."</p>
+              <img className="ClientImage" alt="Nedim Zlatar" src={Nedim}/>
+              <p>Nedim Zlatar<br/><span className="ClientInfo">Music Producer</span></p>
+          </div>
+          <div className="carousel-item">
+              <p className="text-center ClientQuote">"Mirza is bla bla."</p>
+              <img className="ClientImage" alt="Lejla Alimanovic" src={Lejla}/>
+              <p>Lejla Alimanovic<br/><span className="ClientInfo">Jazz Vocalist</span></p>
           </div>
       </Carousel>
     );
