@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Logo from '../../../src/Images/MirzaSisicLogo.png';
 
 const today = new Date();
 
@@ -10,6 +10,7 @@ const Footer = () => (
 				<div className="pull-left">
 					<p id="copyright">	&copy;<span>{today.getFullYear()}&nbsp;mirzasisic.com</span></p>
 				</div>
+				<img src={Logo}/>
 				<div className="row pull-right">
 							<div className="col-lg-2 col-md-2 col-xs-1">
 								<a href="https://stackoverflow.com/users/story/7443287" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow  fa-1x"></i></a>

@@ -1,7 +1,8 @@
 import React from 'react';
+import Logo from '../../../src/Images/MirzaSisicLogo.png';
 
 const Menu = () => (
-  <div className="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div className="navbar navbar-inverse navbar-fixed-top" role="navigation">
   <div className="container">
     <div className="navbar-header">
       <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -10,11 +11,11 @@ const Menu = () => (
         <span className="icon-bar"></span>
         <span className="icon-bar"></span>
       </button>
-      <a className="navbar-brand" href="#headerwrap">Mirza Sisic</a>
+      <a className="navbar-brand" href="#headerwrap"><img src={Logo}/></a>
     </div>
     <div className="navbar-collapse collapse">
       <ul className="nav navbar-nav navbar-right">
-        <li className="active"><a href="#headerwrap">Home</a></li>
+        <li><a href="#headerwrap">Home</a></li>
         <li><a href="#aboutwrap">About</a></li>
         <li><a href="#workwrap">Projects</a></li>
         <li><a href="#Recommendations">Recommendations</a></li>
