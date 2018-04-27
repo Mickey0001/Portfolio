@@ -1,17 +1,19 @@
 import React from 'react';
 import SafetBeg from '../../../src/Images/SafetBeg.jpg';
 import Dijana from '../../../src/Images/Dijana.science.jpg';
-import Dijana from '../../../src/Images/Dijana.science.jpg';
 import Basheskia from '../../../src/Images/BasheskiaEdward.jpg';
+import BuvaShop from '../../../src/Images/BuvaShop.jpg';
+import Amuleto from '../../../src/Images/AmuletoDesigns.jpg';
 
 const Projects = () => (
   <div className="container" id="workwrap">
   <h3 className="text-center heading"><strong>Projects</strong></h3>
+  <h4 className="minor-heading">Sites made by me</h4>
   
     <div className="row">
         <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src={SafetBeg} alt="Painting by Safet Begic"/>
+              <img className="img-responsive project" src={SafetBeg} alt="Painting by Safet Begic"/>
               <div className="caption">
                 <h3>Safetbeg.com</h3>
                 <p>Artist portfolio website.</p>
@@ -22,7 +24,7 @@ const Projects = () => (
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src={Dijana} alt="Dijana science"/>
+              <img className="img-responsive project" src={Dijana} alt="Dijana science"/>
               <div className="caption">
                 <h3>Dijana.science</h3>
                 <p>Chemist portfolio.</p>
@@ -33,7 +35,7 @@ const Projects = () => (
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src="https://basheskiawordpress.000webhostapp.com/wp-content/uploads/2018/02/baskoStage-2400x1800.jpg" alt="Basheskia and Edward EQ"/>
+              <img className="img-responsive project" src={Basheskia} alt="Basheskia and Edward EQ"/>
               <div className="caption">
                 <h3>Basheskia &amp; Edward EQ</h3>
                 <p>Band portfolio website.</p>
@@ -44,7 +46,7 @@ const Projects = () => (
 
            <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src="https://buvashop.com/wp-content/uploads/2018/02/cropped-BUVAbigLOGO-1.png" alt="BuvaShop logo"/>
+              <img className="img-responsive project" src={BuvaShop} alt="BuvaShop logo"/>
               <div className="caption">
                 <h3>BuvaShop</h3>
                 <p>eCommerce Website.</p>
@@ -52,7 +54,51 @@ const Projects = () => (
               </div>
             </div>
           </div>
+    </div>
+    <div className="row">
+    <h4 className="minor-heading">Sites I contributed to</h4>
+    
+        <div className="col-sm-6 col-md-3">
+                <div className="thumbnail">
+                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <div className="caption">
+                    <h3>AmuletoDesigns</h3>
+                    <p>eCommerce Website.</p>
+                    <p><a href="https://amuletodesigns.com/" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                  </div>
+                </div>
+          </div>
 
+          <div className="col-sm-6 col-md-3">
+                <div className="thumbnail">
+                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <div className="caption">
+                    <h3>Dilma Morais Kinesiology</h3>
+                    <p>eCommerce Website.</p>
+                    <p><a href="https://amuletodesigns.com/" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                  </div>
+                </div>
+          </div>
+          <div className="col-sm-6 col-md-3">
+                <div className="thumbnail">
+                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <div className="caption">
+                    <h3> Enterprise Auto Transport</h3>
+                    <p>eCommerce Website.</p>
+                    <p><a href="https://amuletodesigns.com/" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                  </div>
+                </div>
+          </div>
+          <div className="col-sm-6 col-md-3">
+                <div className="thumbnail">
+                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <div className="caption">
+                    <h3>Easy Fence Fix</h3>
+                    <p>eCommerce Website.</p>
+                    <p><a href="https://easyfencefix.co.uk" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                  </div>
+                </div>
+          </div>
     </div>
 
 </div>

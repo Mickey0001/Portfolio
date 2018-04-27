@@ -34,6 +34,11 @@
     font-size: 2em;
     padding-bottom: 0.5em;
   }
+  .minor-heading {
+    font-size: 1em;
+    padding-bottom: 0.5em;
+  }
+
   .slider-control-centerleft, .slider-control-centerright {
     display: none;
   }
@@ -223,12 +228,15 @@
      display: none;
    }
    
-   
+   .project {
+    height: 250px !important;
+    width: 100%;
+   }
    /* Gallery */
    .gallery {
      margin-top: 30px;
    }
-   
+
    .gallery img:hover {
      opacity: 0.4;
    }
