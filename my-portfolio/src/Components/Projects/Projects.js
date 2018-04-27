@@ -1,4 +1,8 @@
 import React from 'react';
+import SafetBeg from '../../../src/Images/SafetBeg.jpg';
+import Dijana from '../../../src/Images/Dijana.science.jpg';
+import Dijana from '../../../src/Images/Dijana.science.jpg';
+import Basheskia from '../../../src/Images/BasheskiaEdward.jpg';
 
 const Projects = () => (
   <div className="container" id="workwrap">
@@ -7,7 +11,7 @@ const Projects = () => (
     <div className="row">
         <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src="https://safetbeg.com/images/safetPainting@2x.jpg" alt="Painting by Safet Begic"/>
+              <img className="img-responsive" src={SafetBeg} alt="Painting by Safet Begic"/>
               <div className="caption">
                 <h3>Safetbeg.com</h3>
                 <p>Artist portfolio website.</p>
@@ -18,7 +22,7 @@ const Projects = () => (
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <img className="img-responsive" src="https://dijana.science/images/banner.gif" alt="Dijana science"/>
+              <img className="img-responsive" src={Dijana} alt="Dijana science"/>
               <div className="caption">
                 <h3>Dijana.science</h3>
                 <p>Chemist portfolio.</p>
