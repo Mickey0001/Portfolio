@@ -4,6 +4,9 @@ import Dijana from '../../../src/Images/Dijana.science.jpg';
 import Basheskia from '../../../src/Images/BasheskiaEdward.jpg';
 import BuvaShop from '../../../src/Images/BuvaShop.jpg';
 import Amuleto from '../../../src/Images/AmuletoDesigns.jpg';
+import Morais from '../../../src/Images/DilmaMorais.jpg';
+import Auto from '../../../src/Images/EnterpriseAutoTransport.jpg';
+import Fence from '../../../src/Images/EasyFenceFix.jpg';
 
 const Projects = () => (
   <div className="container" id="workwrap">
@@ -71,17 +74,17 @@ const Projects = () => (
 
           <div className="col-sm-6 col-md-3">
                 <div className="thumbnail">
-                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <img className="img-responsive project" src={Morais} alt="BuvaShop logo"/>
                   <div className="caption">
                     <h3>Dilma Morais Kinesiology</h3>
                     <p>eCommerce Website.</p>
-                    <p><a href="https://amuletodesigns.com/" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                    <p><a href="http://www.dilmamoraiskinesiology.com/" className="btn btn-success" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
                 </div>
           </div>
           <div className="col-sm-6 col-md-3">
                 <div className="thumbnail">
-                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <img className="img-responsive project" src={Auto} alt="BuvaShop logo"/>
                   <div className="caption">
                     <h3> Enterprise Auto Transport</h3>
                     <p>eCommerce Website.</p>
@@ -91,7 +94,7 @@ const Projects = () => (
           </div>
           <div className="col-sm-6 col-md-3">
                 <div className="thumbnail">
-                  <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
+                  <img className="img-responsive project" src={Fence} alt="BuvaShop logo"/>
                   <div className="caption">
                     <h3>Easy Fence Fix</h3>
                     <p>eCommerce Website.</p>
