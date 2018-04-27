@@ -19,7 +19,7 @@ export default class extends React.Component {
               <p>Safet Begic<br/><span className="ClientInfo">Painter and Photographer</span></p>
           </div>
           <div className="longQuote carousel-item">
-              <p className="text-center ClientQuote">"It was wonderful to work with Mirza. Efficient, skilled, was fast, easy going, fast at responding to my requests, managed to learn how to work things out and communicated his progress and challenges. I will hire him again and fully recommend. Thank you so much for your reliability, professionalism and caring nature."</p>
+              <p className="text-center ClientQuote">"It was wonderful to work with Mirza.  Thank you so much for your reliability, professionalism and caring nature."</p>
               <img className="ClientImage" alt="Dilma Morais"  src={Dilma}/>
               <p>Dilma Morais<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
@@ -44,12 +44,12 @@ export default class extends React.Component {
               <p>Titos Toupoyannis<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
           <div className="carousel-item">
-              <p className="text-center ClientQuote">"Mirza is bla bla."</p>
+              <p className="text-center ClientQuote">"A very thorough and reliable developer."</p>
               <img className="ClientImage" alt="Nedim Zlatar" src={Nedim}/>
               <p>Nedim Zlatar<br/><span className="ClientInfo">Music Producer</span></p>
           </div>
           <div className="carousel-item">
-              <p className="text-center ClientQuote">"Mirza is bla bla."</p>
+              <p className="text-center ClientQuote">"Mirza is the best!"</p>
               <img className="ClientImage" alt="Lejla Alimanovic" src={Lejla}/>
               <p>Lejla Alimanovic<br/><span className="ClientInfo">Jazz Vocalist</span></p>
           </div>
