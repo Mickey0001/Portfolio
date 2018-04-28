@@ -49,7 +49,7 @@ export default class extends React.Component {
               <p>Nedim Zlatar<br/><span className="ClientInfo">Music Producer</span></p>
           </div>
           <div className="carousel-item">
-              <p className="text-center ClientQuote">"Mirza is the best!"</p>
+              <p className="text-center ClientQuote">"Mirza is the best! He stands by his code."</p>
               <img className="ClientImage" alt="Lejla Alimanovic" src={Lejla}/>
               <p>Lejla Alimanovic<br/><span className="ClientInfo">Jazz Vocalist</span></p>
           </div>

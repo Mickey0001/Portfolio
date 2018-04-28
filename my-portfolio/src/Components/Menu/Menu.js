@@ -11,7 +11,7 @@ const Menu = () => (
         <span className="icon-bar"></span>
         <span className="icon-bar"></span>
       </button>
-      <a className="navbar-brand" href="#headerwrap"><img src={Logo}/></a>
+      <a className="navbar-brand" href="#headerwrap"><img alt="MS logo" src={Logo}/></a>
     </div>
     <div className="navbar-collapse collapse">
       <ul className="nav navbar-nav navbar-right">
