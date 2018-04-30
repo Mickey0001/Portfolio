@@ -8,6 +8,7 @@ import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
+import Navbar from 'react-bootstrap';
 import './App.css';
 
 
