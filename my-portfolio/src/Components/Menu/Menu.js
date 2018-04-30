@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../../../src/Images/MirzaSisicLogo.png';
-import { Button, Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
   
 const Menu = () => (
