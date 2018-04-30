@@ -3,7 +3,7 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
-import Recommendations from './Components/Recommendations/Recommendations';
+import Clients from './Components/Clients/Clients';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Contact from './Components/Contact/Contact';
@@ -20,7 +20,7 @@ class App extends Component {
         <Header/>
         <About/>
         <Projects/>
-        <Recommendations/>
+        <Clients/>
         <Carousel/>
         <Contact/>
         <Footer/>

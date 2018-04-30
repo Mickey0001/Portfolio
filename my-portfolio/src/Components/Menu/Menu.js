@@ -19,8 +19,8 @@ const Menu = () => (
       <NavItem eventKey={2} href="#workwrap">
          Projects
       </NavItem>
-      <NavItem eventKey={2} href="#Recommendations">
-        Recommendations
+      <NavItem eventKey={2} href="#Clients">
+        Clients
       </NavItem>
       <NavItem eventKey={2} href="#contact">
            Contact

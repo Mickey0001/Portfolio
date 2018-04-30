@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Recommendations = () => (
-	<div id="Recommendations">
+const Clients = () => (
+	<div id="Clients">
 	    <div className="container">
 			<div className="row">
 				<div className="col-lg-6 col-lg-offset-3">
@@ -12,4 +12,4 @@ const Recommendations = () => (
 	</div>
 );
 
-export default Recommendations;
+export default Clients;

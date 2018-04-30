@@ -129,19 +129,11 @@
      font-size: 1em;
    }
    
-   #social {
-    background-color: #f2f2f2;
+  #social, i {
+   display: inline-flex;
+   margin-bottom: 15px;
   }
-  
-  #social i {
-    padding: 5px;
-    color: #4a4a4a
-  }
-  
-  #social i:hover {
-    color: #1abc9c
-  }
-   
+
    #footerwrap {
      margin-top: 50px;
      padding-top: 20px;
@@ -208,10 +200,6 @@
    }
    .carousel-item {
      padding:3em 5em 5em 5em; 
-   }
-   .carousel-item, p {
-    padding-left: 2em;
-    padding-right: 2em;
    }
    .ClientImage {
      height: 100px;
