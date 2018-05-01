@@ -1,4 +1,4 @@
- @import url(http://fonts.googleapis.com/css?family=Cabin:400,700);
+ @import url(http://fonts.googleapis.com/css?family=Hind:400,700);
 
 
    ::-moz-selection {
@@ -12,11 +12,7 @@
        color: #000;
        text-shadow: none;
    }
-   
-   /*
-    * A better looking default horizontal rule
-    */
-   
+
     hr {
        display: block;
        height: 1px;
@@ -24,19 +20,24 @@
        border-top: 1px solid #ccc;
        margin: 1em 0;
        padding: 0;
+       width: 15%;
+       margin: 0 auto;
    }
-
+   #Mirza {
+     padding-bottom: 15px;
+   }
+   input {
+     width: 50%;
+   }
    .centered {
      text-align: center
    }
    
   .heading {
     font-size: 2em;
-    padding-bottom: 0.5em;
   }
   .minor-heading {
     font-size: 1em;
-    padding-bottom: 0.5em;
   }
 
   .slider-control-centerleft, .slider-control-centerright {
@@ -44,15 +45,10 @@
   }
   .longQuote {
     margin-bottom: 300px;
-  }
-   
-   /* ==========================================================================
-      General styles
-      ========================================================================== */
-   
+  }   
    
    body {
-       font-family: 'Cabin', sans-serif;
+       font-family: 'Hind', sans-serif;
        font-weight: 400;
        font-size: 2em;
    
@@ -75,13 +71,18 @@
    .navbar-brand {
      font-weight: 700;
    }
-   
+   i:hover {
+     color: #fff;
+   }
+   .Form {
+     width: 30%;
+     margin: 0 auto;
+   }
    .navbar-default .navbar-brand {
      color: #1abc9c;
    }
    
    .navbar-default {
-     /* background-color: transparent; */
      border-color: transparent;
    }
    
@@ -127,21 +128,20 @@
    
    #headerwrap h4, h5{
      font-weight: 700;
-     color: #fff;
-     padding-top: 15px;
+     padding-top: 5px;
      font-size: 1em;
    }
    
   #social, i {
    display: inline-flex;
    margin-bottom: 15px;
-   color: #fff;
+   color: #D3D3D3;
   }
 
    #footerwrap {
      margin-top: 50px;
-     padding-top: 20px;
-     padding-bottom: 20px;
+     padding-top: 10px;
+     padding-bottom: 5px;
      background-color: #2f2f2f;
    }
    
@@ -151,9 +151,8 @@
    }
    
    #workwrap {	
-     /* background: url(../src/Images/work.jpg) no-repeat center top; */
-     padding-top: 100px;
-     padding-bottom: 100px;
+     padding-top: 10px;
+     padding-bottom: 10px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
@@ -172,7 +171,7 @@
    }
    
    #workwrap h1, h2 {
-    padding-bottom: 50px;
+    padding-bottom: 5px;
      color:#000;
      letter-spacing: 4px;
      font-size: 80px;
@@ -181,11 +180,26 @@
    
    #workwrap h4 {
      font-weight: 400;
-     color: #000
+     color: #9d9d9d;
    }
-   
+   .ClientName {
+     font-weight: bold;
+   }
+   .GreyHeading {
+    color: #D3D3D3;
+   }
+   .DarkGreyHeading {
+     color: #A9A9A9;
+   }
+   .DarkGreyBackground {
+    background-color: #A9A9A9;
+   }
+   .LightGreyBackground {
+     background-color: #D3D3D3;
+   }
+
    #aboutwrap {	
-     padding-top: 50px;
+     padding-top: 10px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
@@ -202,9 +216,7 @@
        -o-background-size: cover;
        background-size: cover;
    }
-   .carousel-item {
-     padding:3em 5em 5em 5em; 
-   }
+
    .ClientImage {
      height: 100px;
      width: 100px;
@@ -224,14 +236,7 @@
     height: 250px !important;
     width: 100%;
    }
-   /* Gallery */
-   .gallery {
-     margin-top: 30px;
-   }
 
-   .gallery img:hover {
-     opacity: 0.4;
-   }
    .row {
     margin-left: 0 !important;
     margin-right: 0 !important;

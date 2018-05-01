@@ -32,7 +32,7 @@ const Footer = () => (
 					</div>		
 			</div>		
 		</div>
-		<p id="copyright" className="text-center">	&copy;<span>{today.getFullYear()}&nbsp;mirzasisic.com</span></p>
+		<p id="copyright" className="text-center">	&copy;<span>{today.getFullYear()}&nbsp;mirzasisic.com</span> <br/>Powered by React</p>
 	</div>
 );
 
