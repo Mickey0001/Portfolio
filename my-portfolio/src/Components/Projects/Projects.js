@@ -65,7 +65,7 @@ const Projects = () => (
                 <div className="thumbnail">
                   <img className="img-responsive project" src={Amuleto} alt="BuvaShop logo"/>
                   <div className="caption">
-                    <h3>AmuletoDesigns</h3>
+                    <h3>Amuleto Designs</h3>
                     <p className="DarkGreyHeading">eCommerce Website</p>
                     <p><a href="https://amuletodesigns.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
@@ -75,7 +75,7 @@ const Projects = () => (
                 <div className="thumbnail">
                   <img className="img-responsive project" src={Auto} alt="BuvaShop logo"/>
                   <div className="caption">
-                    <h3> Enterprise Auto Transport</h3>
+                    <h3>EnterpriseAutoTransport</h3>
                     <p className="DarkGreyHeading">Company Website</p>
                     <p><a href="https://amuletodesigns.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
@@ -85,7 +85,7 @@ const Projects = () => (
                 <div className="thumbnail">
                   <img className="img-responsive project" src={Morais} alt="BuvaShop logo"/>
                   <div className="caption">
-                    <h3>Dilma Morais Kinesiology</h3>
+                    <h3>Dilma Morais</h3>
                     <p className="DarkGreyHeading">Personal Website</p>
                     <p><a href="http://www.dilmamoraiskinesiology.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
