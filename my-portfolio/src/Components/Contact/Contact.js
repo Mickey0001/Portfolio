@@ -39,6 +39,14 @@ class FormExample extends React.Component {
             placeholder="Enter text"
             onChange={this.handleChange}
           />
+           <ControlLabel></ControlLabel>
+          <FormControl 
+            className="Form"
+            type="text"
+            value={this.state.value}
+            placeholder="Enter text"
+            onChange={this.handleChange}
+          />
           <FormControl.Feedback />
           <HelpBlock>Or connect with me over social media.</HelpBlock>
         </FormGroup>
