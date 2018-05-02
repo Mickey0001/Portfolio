@@ -20,6 +20,7 @@ class App extends Component {
         <Projects/>
         <Clients/>
         <Carousel/>
+          {/* use with react router */}
         <Contact/>
         <Footer/>
       </div>
