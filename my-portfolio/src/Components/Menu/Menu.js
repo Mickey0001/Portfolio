@@ -22,7 +22,7 @@ const Menu = () => (
       <NavItem eventKey={2} href="#Clients">
         Clients
       </NavItem>
-      <NavItem eventKey={2} href="#contact">
+      <NavItem eventKey={2} href="#Contact">
            Contact
       </NavItem>
       <NavItem target="_blank" rel="noopener noreferrer" eventKey={2} href="https:juniorlearnstocode.blogspot.ba">

@@ -26,7 +26,7 @@ class FormExample extends React.Component {
 
   render() {
     return (
-      <form className="text-center">
+      <form className="text-center" id="Contact">
         <FormGroup
           controlId="formBasicText"
           validationState={this.getValidationState()}

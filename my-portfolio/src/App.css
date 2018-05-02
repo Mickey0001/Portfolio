@@ -149,9 +149,12 @@
      color: #f2f2f2;
      margin-left: 10px;
    }
-   
+   #Clients {
+    padding-top: 50px;
+    padding-bottom: 10px;
+   }
    #workwrap {	
-     padding-top: 10px;
+     padding-top: 50px;
      padding-bottom: 10px;
      text-align:center;
      background-attachment: relative;
@@ -199,7 +202,7 @@
    }
 
    #aboutwrap {	
-     padding-top: 10px;
+     padding-top: 50px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
