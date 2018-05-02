@@ -6,15 +6,14 @@ import About from './Components/About/About';
 import Clients from './Components/Clients/Clients';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
-import Contact from './Components/Contact/Contact';
 import Footer from './Components/Footer/Footer';
+import Contact from './Components/Contact/Contact';
 import './App.css';
-
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+        <div className="App">
         <Menu/>
         <Header/>
         <About/>

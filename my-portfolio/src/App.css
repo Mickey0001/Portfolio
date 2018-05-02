@@ -153,6 +153,9 @@
     padding-top: 50px;
     padding-bottom: 10px;
    }
+   .carousel-item {
+     padding-bottom: 50px;
+   }
    #workwrap {	
      padding-top: 50px;
      padding-bottom: 10px;
@@ -219,7 +222,9 @@
        -o-background-size: cover;
        background-size: cover;
    }
-
+   #Contact {
+     padding-top: 50px; 
+   }
    .ClientImage {
      height: 100px;
      width: 100px;
