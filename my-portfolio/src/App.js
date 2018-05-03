@@ -7,7 +7,6 @@ import Clients from './Components/Clients/Clients';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Footer from './Components/Footer/Footer';
-import Contact from './Components/Contact/Contact';
 import './App.css';
 
 class App extends Component {
@@ -20,8 +19,6 @@ class App extends Component {
         <Projects/>
         <Clients/>
         <Carousel/>
-          {/* use with react router */}
-        <Contact/>
         <Footer/>
       </div>
     );
