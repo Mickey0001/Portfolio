@@ -7,6 +7,7 @@ import Clients from './Components/Clients/Clients';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Footer from './Components/Footer/Footer';
+import { render } from 'react-dom'
 import './App.css';
 
 class App extends Component {

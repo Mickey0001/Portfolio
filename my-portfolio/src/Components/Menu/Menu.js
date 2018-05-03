@@ -1,7 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
 import Logo from '../../../src/Images/MirzaSisicLogo.png';
+import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
   
 const Menu = () => (
@@ -23,8 +22,8 @@ const Menu = () => (
       <NavItem eventKey={2} href="#Clients">
         Clients
       </NavItem>
-      <NavItem eventKey={2}>
-          <Link to="/">Home</Link>
+      <NavItem eventKey={2} href="./Contact.js">
+           Contact
       </NavItem>
       <NavItem target="_blank" rel="noopener noreferrer" eventKey={2} href="https:juniorlearnstocode.blogspot.ba">
            Blog

@@ -3,6 +3,7 @@ import Wufoo from 'react-wufoo-embed';
  
 const WufooForm = Wufoo;
 
+<Header/>
 const Contact = () => (
 	<div id="Contact" className="container">
   {/* use with react router */}
@@ -12,5 +13,6 @@ const Contact = () => (
     </div>
 	</div>
 );
+<Footer/>
 
 export default Contact;
