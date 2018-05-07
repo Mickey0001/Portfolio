@@ -4,6 +4,7 @@ import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
 import About from './Components/About/About';
 import Clients from './Components/Clients/Clients';
+import Resume from './Components/Resume/Resume';
 import Projects from './Components/Projects/Projects';
 import Carousel from './Components/Carousel/Carousel';
 import Contact from './Components/Contact/Contact';
@@ -18,6 +19,7 @@ class App extends Component {
         <Menu/>
         <Header/>
         <About/>
+        <Resume/>
         <Projects/>
         <Clients/>
         <Carousel/>
