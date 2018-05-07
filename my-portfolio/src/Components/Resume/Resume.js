@@ -47,9 +47,9 @@ const Resume = () => (
             <div className="timeline-heading">
               <h4 className="timeline-title">Pc Repairs - Self Employed </h4>
             </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> February 2012 - September 2014 </small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> February 2012 - September 2014</small></p>
             <div className="timeline-body">
-              <p>Installing operation systems and troubleshooting hardware and software issues.</p>
+              <p>Installing operation systems and troubleshooting hardware and software issues.I'm one of those coderes who actually know a thing or two about hardware.</p>
             </div>
           </div>
         </li>
