@@ -10,7 +10,7 @@ const Resume = () => (
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">Freelance Web Developer</h4>
-              <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> September 2017 - Current</small></p>
+              <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - Current</small></p>
             </div>
             <div className="timeline-body">
               <p>I made a few websites for local clients and done some freelancing on <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e/" target="_blank" rel="noopener noreferrer">Upwork</a> as well. Mostly part time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery and React and little bit of PHP - every junior has to start from somewhere.</p>
@@ -23,7 +23,7 @@ const Resume = () => (
             <div className="timeline-heading">
               <h4 className="timeline-title">QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
-            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> April 2017 - Current </small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - Current </small></p>
             <div className="timeline-body">
               <p>Testing company's online courses and over 50 web portals and reporting found issues.</p>
             </div>
@@ -35,7 +35,7 @@ const Resume = () => (
             <div className="timeline-heading">
             <h4 className="timeline-title">Technical Support Specialist - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
-            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> October 2014 - April 2017 </small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
               <p>Providing tech support for the customers, over chat, email, phone and RDP.</p>
             </div>
@@ -47,7 +47,7 @@ const Resume = () => (
             <div className="timeline-heading">
               <h4 className="timeline-title">Pc Repairs - Self Employed </h4>
             </div>
-            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> February 2012 - September 2014 </small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> February 2012 - September 2014 </small></p>
             <div className="timeline-body">
               <p>Installing operation systems and troubleshooting hardware and software issues.</p>
             </div>
