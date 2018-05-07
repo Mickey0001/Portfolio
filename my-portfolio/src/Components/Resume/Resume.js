@@ -1,64 +1,55 @@
 import React from 'react';
 
 const Resume = () => (
-<div id="Resume" className="container">
+<div id="Resume" className="container text-justify">
 <div className="row">
 <h3 className="text-center heading"><strong>Resume</strong></h3>
     <ul className="timeline">
         <li>
-          <div className="timeline-badge"><i className="glyphicon glyphicon-check"></i></div>
+          <div className="timeline-badge"><i className="fa fa-code"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Mussum ipsum cacilds</h4>
-              <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small></p>
+              <h4 className="timeline-title">Freelance Web Developer</h4>
+              <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> September 2017 - Current</small></p>
             </div>
             <div className="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              <p>I made a few websites for local clients and done some freelancing on <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e/" target="_blank" rel="noopener noreferrer">Upwork</a> as well. Mostly part time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery and React and little bit of PHP - every junior has to start from somewhere.</p>
             </div>
           </div>
         </li>
         <li>
-          <div className="timeline-badge danger"><i className="glyphicon glyphicon-credit-card"></i></div>
+          <div className="timeline-badge"><i className="fa fa-search"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Mussum ipsum cacilds</h4>
+              <h4 className="timeline-title">QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
+            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> April 2017 - Current </small></p>
             <div className="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              <p>Testing company's online courses and over 50 web portals and reporting found issues.</p>
             </div>
           </div>
         </li>
         <li>
-          <div className="timeline-badge info"><i className="glyphicon glyphicon-floppy-disk"></i></div>
+          <div className="timeline-badge"><i className="fa fa-headphones"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Mussum ipsum cacilds</h4>
+            <h4 className="timeline-title">Technical Support Specialist - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
+            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
-              <hr/>
-              <div className="btn-group">
-                <button type="button" className="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown">
-                  <i className="glyphicon glyphicon-cog"></i> <span className="caret"></span>
-                </button>
-                <ul className="dropdown-menu" role="menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li className="divider"></li>
-                  <li><a href="#">Separated link</a></li>
-                </ul>
-              </div>
+              <p>Providing tech support for the customers, over chat, email, phone and RDP.</p>
             </div>
           </div>
         </li>
         <li>
+        <div className="timeline-badge"><i className="fa fa-wrench"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Mussum ipsum cacilds</h4>
+              <h4 className="timeline-title">Pc Repairs - Self Employed </h4>
             </div>
+            <p><small className="text-muted"><i className="glyphicon glyphicon-time"></i> February 2012 - September 2014 </small></p>
             <div className="timeline-body">
-              <p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.</p>
+              <p>Installing operation systems and troubleshooting hardware and software issues.</p>
             </div>
           </div>
         </li>
