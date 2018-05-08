@@ -2,13 +2,13 @@
 
 
    ::-moz-selection {
-       background: #f2c2c9;
-       color: #a4003a;
+    background: #ccc;
+    color: #000;
        text-shadow: none;
    }
    
    ::selection {
-       background: #81fce3;
+       background: #ccc;
        color: #000;
        text-shadow: none;
    }
@@ -41,6 +41,7 @@
   }
   .minor-heading {
     font-size: 1em;
+    color: #5b5a5a;
   }
 
   .slider-control-centerleft, .slider-control-centerright {
@@ -252,13 +253,6 @@
     margin-left: 0 !important;
     margin-right: 0 !important;
 }
-
-
-
-
-
-
-
 
 .timeline {
   list-style: none;

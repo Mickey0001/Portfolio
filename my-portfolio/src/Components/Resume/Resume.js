@@ -4,6 +4,7 @@ const Resume = () => (
 <div id="Resume" className="container text-justify">
 <div className="row">
 <h3 className="text-center heading"><strong>Resume</strong></h3>
+<h5 className="text-center  minor-heading">Employment History</h5>
     <ul className="timeline">
         <li>
           <div className="timeline-badge"><i className="fa fa-code"></i></div>
