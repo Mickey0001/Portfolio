@@ -43,6 +43,25 @@
     font-size: 1em;
     color: #5b5a5a;
   }
+  .email {
+    margin: 40px;
+    width: 200px;
+    height: 100px;
+    border: 0px solid;
+    padding: 10px;
+    box-shadow: 3px 3px #888888;
+  }
+
+  .email:hover {
+    transform: scale(1.4);
+    border: 0px solid;
+    padding: 10px;
+    box-shadow: 6px 6px #888888;
+   }
+   .btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
 
   .slider-control-centerleft, .slider-control-centerright {
     display: none;
@@ -75,30 +94,19 @@
    .navbar-brand {
      font-weight: 700;
    }
-   i:hover {
-     color: #fff;
+
+   .fa-at {
+     color: #9d9d9d;
    }
    .Form {
      width: 30%;
      margin: 0 auto;
    }
-   .navbar-default .navbar-brand {
-     color: #1abc9c;
-   }
-   
+
    .navbar-default {
      border-color: transparent;
    }
    
-   .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-     color: #1abc9c;
-     background-color: transparent;
-   }
-   
-   .navbar-default .navbar-nav > li > a {
-     color: #1abc9c;
-   }
-
    
    /* ==========================================================================
       Wrap Sections
