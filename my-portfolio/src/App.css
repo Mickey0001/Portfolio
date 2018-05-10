@@ -12,6 +12,9 @@
        color: #000;
        text-shadow: none;
    }
+   i {
+     color: #fff;
+   }
 
     hr {
        display: block;
@@ -96,7 +99,7 @@
    }
 
    .fa-at {
-     color: #9d9d9d;
+     color: #000;
    }
    .Form {
      width: 30%;
@@ -388,4 +391,21 @@
 }
 .timeline-body > p + p {
   margin-top: 5px;
+}
+
+.navbar-fixed-top {
+  min-height: 80px;
+}
+
+.navbar-nav > li > a {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 80px;
+}
+
+@media (max-width: 767px) {
+  .navbar-nav > li > a {
+  line-height: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;}
 }

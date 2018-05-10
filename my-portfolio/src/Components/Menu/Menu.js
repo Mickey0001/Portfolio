@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../../src/Images/MirzaSisicLogo.png';
+import Logo from '../../../src/Images/MirzaLogo.png';
 import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
   
