@@ -4,7 +4,7 @@ import Mirza from '../../../src/Images/MirzaSisic.jpg';
 const About = () => (
 	<div id="aboutwrap" className="container">
 		<div  className="row">
-			<div  className="col-lg-8 col-lg-offset-2">
+			<div  className="col-lg-12">
 				<h3 className="heading"><strong>About</strong></h3>
 				<img src={Mirza} alt="Mirza Sisic" id="Mirza"  className="img-circle"/>
 				<p className="text-justify">I've always been a technology geek, friends and family would come to me to solve their computer related problems, so one fine day I  realized that since I love doing it as a hobby why not do it professionally! I decided to drop out of college (I used to study history, I still love reading history books but I love tech even more) and I started fixing PC's on the side. After that, I took a few <a href="http://www.mycertprofile.com/Profile/1947938383" target="_blank" rel="noopener noreferrer">Microsoft Certificates</a> and those helped me land my first full time IT job - I got a remote position as a tech support specialist working for a 
