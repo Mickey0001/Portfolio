@@ -40,7 +40,7 @@ const Projects = () => (
             <div className="thumbnail">
               <img className="img-responsive project" src={Basheskia} alt="Basheskia and Edward EQ"/>
               <div className="caption">
-                <h3>Basheskia &amp; Edward EQ</h3>
+                <h3>Basheskia &amp; Edward</h3>
                 <p className="DarkGreyHeading">Band Website</p>
                 <p><a href="https://basheskiawordpress.000webhostapp.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a> <a href="https://github.com/Mickey0001/Basko/" target="_blank" rel="noopener noreferrer" className="btn btn-default DarkGreyBackground" role="button">View Code</a></p>
               </div>

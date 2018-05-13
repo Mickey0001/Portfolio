@@ -37,7 +37,8 @@
     font-size: 2em;
   }
   #Resume {
-    padding-top: 40px; 
+    padding-top: 100px;
+    margin-top: -100px;
   }
   .minor-heading {
     font-size: 1em;
@@ -162,14 +163,16 @@
      margin-left: 10px;
    }
    #Clients {
-    padding-top: 50px;
+    padding-top: 100px;
+    margin-top: -100px;
     padding-bottom: 10px;
    }
    .carousel-item {
      padding-bottom: 50px;
    }
    #workwrap {	
-     padding-top: 50px;
+    padding-top: 100px;
+    margin-top: -100px;
      padding-bottom: 10px;
      text-align:center;
      background-attachment: relative;
@@ -217,7 +220,8 @@
    }
 
    #aboutwrap {	
-     padding-top: 50px;
+     padding-top: 100px;
+     margin-top: -100px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
@@ -235,7 +239,8 @@
        background-size: cover;
    }
    #Contact {
-     padding-top: 50px; 
+    padding-top: 100px;
+    margin-top: -100px;
    }
    .ClientImage {
      height: 100px;

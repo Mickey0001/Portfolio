@@ -12,7 +12,7 @@ import Lejla from '../../../src/Images/Lejla.jpg';
 export default class extends React.Component {
   render() {
     return (
-      <Carousel wrapAround={true} autoplay={true} speed={300} id="Carousel" className="text-center">
+      <Carousel wrapAround={true} autoplay={true} speed={5000} id="Carousel" className="text-center">
           <div className="carousel-item">
               <p className="text-center ClientQuote">"Mirza is a very competent developer, patient and efficient."</p>
               <img className="ClientImage" alt="Safet Begic" src={Safet}/>
