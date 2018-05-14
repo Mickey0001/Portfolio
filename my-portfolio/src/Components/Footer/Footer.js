@@ -10,12 +10,9 @@ const Footer = () => (
 				<div className="">
 				<img alt="Mirza Sisic logo" src={Logo}/>
 				</div>
-				<div className="row social" >
+				<div className="row social">
 							<div>
-								<a title="StackOverflowe" href="https://stackoverflow.com/users/story/7443287" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow "></i></a>
-							</div>
-							<div>
-								<a title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
+								<a title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
 							</div>
 							<div>
 								<a title="Twitter" href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
@@ -24,10 +21,13 @@ const Footer = () => (
 								<a title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
 							</div>
 							<div>
-								<a title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+								<a title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
 							</div>
 							<div>
 								<a title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus"></i></a>
+							</div>
+							<div>
+								<a title="StackOverflowe" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile&&__=1119013831" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow "></i></a>
 							</div>
 							<div>
 								<a title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
