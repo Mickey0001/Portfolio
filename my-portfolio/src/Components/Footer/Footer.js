@@ -27,7 +27,7 @@ const Footer = () => (
 								<a title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus"></i></a>
 							</div>
 							<div>
-								<a title="StackOverflowe" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile&&__=1119013831" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow "></i></a>
+								<a title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow"></i></a>
 							</div>
 							<div>
 								<a title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
