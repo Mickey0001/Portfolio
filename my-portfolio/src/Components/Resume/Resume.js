@@ -14,7 +14,7 @@ const Resume = () => (
               <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - Current</small></p>
             </div>
             <div className="timeline-body">
-              <p>I made a few websites for local clients and done some freelancing on Upwork as well. Mostly part time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery and React and little bit of PHP - every junior has to start from somewhere.</p>
+              <p>I made a few websites for local clients and done some freelancing on Upwork as well. Mostly part time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React and little bit of PHP - every junior has to start from somewhere.</p>
             </div>
           </div>
         </li>
@@ -26,7 +26,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - Current </small></p>
             <div className="timeline-body">
-              <p>Testing company's online courses and over 50 web portals and reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack and Wrike project management software. </p>
+              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack and Wrike project management software. </p>
             </div>
           </div>
         </li>
