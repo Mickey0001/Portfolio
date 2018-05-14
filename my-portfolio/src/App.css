@@ -45,28 +45,16 @@
     color: #5b5a5a;
   }
   .email {
-    margin: 40px;
-    width: 200px;
-    height: 100px;
-    border: 0px solid;
-    padding: 10px;
-    box-shadow: 3px 3px #888888;
-  }
+    color: #000;
+   }
 
   .email:hover {
-    transform: scale(1.4);
-    border: 0px solid;
-    padding: 10px;
-    box-shadow: 6px 6px #888888;
+    transform: scale(1.6);
    }
-   .btn:focus,.btn:active {
-    outline: none !important;
-    box-shadow: none;
- }
 
-  .slider-control-centerleft, .slider-control-centerright {
+  /* .slider-control-centerleft, .slider-control-centerright {
     display: none;
-  }
+  } */
   .longQuote {
     margin-bottom: 300px;
   }   
@@ -145,7 +133,7 @@
      font-size: 1em;
    }
    
-  #social, i {
+  .social, i {
    display: inline-flex;
    margin-bottom: 15px;
    color: #D3D3D3;

@@ -8,26 +8,32 @@ const Footer = () => (
 		<div className="container">
 			<div className="row centered">
 				<div className="">
-				<img alt="MS logo" src={Logo}/>
+				<img alt="Mirza Sisic logo" src={Logo}/>
 				</div>
-				<div className="row" id="social">
+				<div className="row social" >
 							<div>
-								<a href="https://stackoverflow.com/users/story/7443287" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow  fa-1x"></i></a>
+								<a title="StackOverflowe" href="https://stackoverflow.com/users/story/7443287" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow "></i></a>
 							</div>
 							<div>
-								<a href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook fa-1x"></i></a>
+								<a title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
 							</div>
 							<div>
-								<a href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter fa-1x"></i></a>
+								<a title="Twitter" href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
 							</div>
 							<div>
-								<a href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin fa-1x"></i></a>
+								<a title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
 							</div>
 							<div>
-								<a href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-1x"></i></a>
+								<a title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
 							</div>
 							<div>
-								<a href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus fa-1x"></i></a>
+								<a title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus"></i></a>
+							</div>
+							<div>
+								<a title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
+							</div>
+							<div>
+								<a title="Free Code Camp" href="https://www.freecodecamp.org/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
 							</div>
 					</div>		
 			</div>		

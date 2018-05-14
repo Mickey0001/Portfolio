@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../../../src/Images/MirzaLogo.png';
-import { Navbar, Nav, NavItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem, MenuItem } from 'react-bootstrap';
 
 const externalLink = "https://juniorlearnstocode.blogspot.ba";
   
@@ -31,9 +31,9 @@ const Menu = () => (
       <NavItem eventKey={2} href="#Contact">
            Contact
       </NavItem>
-      <NavItem href={externalLink} rel="noopener noreferrer" eventKey={2}>
+      <MenuItem href={externalLink} target="_blank" rel="noopener noreferrer" eventKey={2}>
            Blog
-      </NavItem>
+      </MenuItem>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
