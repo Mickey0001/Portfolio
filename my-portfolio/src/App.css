@@ -38,7 +38,7 @@
   }
   #Resume {
     padding-top: 100px;
-    margin-top: -100px;
+    margin-top: -50px;
   }
   .minor-heading {
     font-size: 1em;
@@ -209,7 +209,7 @@
 
    #aboutwrap {	
      padding-top: 100px;
-     margin-top: -100px;
+     margin-top: -50px;
      text-align:center;
      background-attachment: relative;
      background-position: center center;
