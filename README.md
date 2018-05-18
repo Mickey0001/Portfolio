@@ -1,5 +1,5 @@
 # Protfolio
 
-Personal portfolio.
+Personal portfolio made with React.
 
-Test deployment available here: https://mirza-sisic.firebaseapp.com/
+Live site available here: https://mirzasisic.com
