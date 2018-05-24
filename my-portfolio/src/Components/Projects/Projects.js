@@ -11,7 +11,7 @@ import Fence from '../../../src/Images/EasyFenceFix.jpg';
 const Projects = () => (
   <div className="container" id="workwrap">
   <h3 className="text-center heading"><strong>Projects</strong></h3>
-  <h4 className="minor-heading">Sites made by me</h4>
+  <h4 className="minor-heading"><strong>Sites made by me</strong></h4>
   
     <div className="row">
         <div className="col-sm-6 col-md-3">
@@ -59,7 +59,7 @@ const Projects = () => (
           </div>
     </div>
     <div className="row"> 
-    <h4 className="minor-heading">Sites I contributed to</h4>
+    <h4 className="minor-heading"><strong>Sites I contributed to</strong></h4>
     
         <div className="col-sm-6 col-md-3">
                 <div className="thumbnail">

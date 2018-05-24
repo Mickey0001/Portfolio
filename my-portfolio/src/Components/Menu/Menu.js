@@ -16,21 +16,12 @@ const Menu = () => (
   </Navbar.Header>
   <Navbar.Collapse>
     <Nav pullRight>
-      <NavItem eventKey={1} href="#aboutwrap">
-          About
-      </NavItem>
-      <NavItem eventKey={1} href="#Resume">
-          Resume
-      </NavItem>
-      <NavItem eventKey={2} href="#workwrap">
-         Projects
-      </NavItem>
-      <NavItem eventKey={2} href="#Clients">
-        Clients
-      </NavItem>
-      <NavItem eventKey={2} href="#Contact">
-           Contact
-      </NavItem>
+      <NavItem eventKey={1} href="#headerwrap">Home</NavItem>
+      <NavItem eventKey={1} href="#aboutwrap">About</NavItem>
+      <NavItem eventKey={1} href="#Resume">Resume</NavItem>
+      <NavItem eventKey={2} href="#workwrap">Projects</NavItem>
+      <NavItem eventKey={2} href="#Clients">Clients</NavItem>
+      <NavItem eventKey={2} href="#Contact">Contact</NavItem>
       <MenuItem href={externalLink} target="_blank" rel="noopener noreferrer" eventKey={2}>
            Blog
       </MenuItem>

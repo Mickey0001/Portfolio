@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => (
 	<div id="headerwrap">
 	    <div className="container">
-			<div className="row">
+			<div className="row align-middle">
 				<div className="col-lg-6 col-lg-offset-3">
 					<h4 className="GreyHeading">Greetings, my name is</h4>
 					<h1>Mirza Sisic</h1>

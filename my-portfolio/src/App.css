@@ -13,16 +13,6 @@
      color: #fff;
    }
 
-    hr {
-       display: block;
-       height: 1px;
-       border: 0;
-       border-top: 1px solid #ccc;
-       margin: 1em 0;
-       padding: 0;
-       width: 15%;
-       margin: 0 auto;
-   }
    #Mirza {
      padding-bottom: 15px;
    }
@@ -35,6 +25,7 @@
    
   .heading {
     font-size: 2em;
+    text-shadow: 2px 2px lightgrey;
   }
   #Resume {
     padding-top: 100px;
@@ -42,7 +33,11 @@
   }
   .minor-heading {
     font-size: 1em;
-    color: #5b5a5a;
+    color: #5b5a5a !important;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-shadow: 1px 1px lightgrey;
+
   }
   .email {
     color: #000;
@@ -119,12 +114,19 @@
        -moz-background-size: cover;
        -o-background-size: cover;
        background-size: cover;
+       
+       min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+       min-height: 100vh; /* These two lines are counted as one :-)       */
+     
+       display: flex;
+       align-items: center;
    }
    
    #headerwrap h1 {
     color: #fff;
      font-weight: bold;
      font-size: 4em;
+     text-shadow: 1px 1px #5b5a5a;
    }
    
    #headerwrap h4, h5{
@@ -245,10 +247,7 @@
      display: none;
    }
    
-   .project {
-    height: 250px !important;
-    width: 100%;
-   }
+
 
    .row {
     margin-left: 0 !important;
@@ -404,3 +403,7 @@
    margin-bottom: 25px;
   }
  }
+.slider-control-centerleft,
+.slider-control-centerright {
+  display: none;
+}

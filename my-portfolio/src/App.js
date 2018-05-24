@@ -2,12 +2,7 @@ import React, { Component } from 'react';
 import '../node_modules/font-awesome/css/font-awesome.min.css'; 
 import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
-import About from './Components/About/About';
-import Clients from './Components/Clients/Clients';
-import Resume from './Components/Resume/Resume';
-import Projects from './Components/Projects/Projects';
-import Carousel from './Components/Carousel/Carousel';
-import Contact from './Components/Contact/Contact';
+import Wrapper from './Components/Wrapper/Wrapper';
 import Footer from './Components/Footer/Footer';
 import './App.css';
 
@@ -17,12 +12,7 @@ class App extends Component {
         <div className="App">
         <Menu/>
         <Header/>
-        <About/>
-        <Resume/>
-        <Projects/>
-        <Clients/>
-        <Carousel/>
-        <Contact/>
+        <Wrapper/>
         <Footer/>
       </div>
     );
