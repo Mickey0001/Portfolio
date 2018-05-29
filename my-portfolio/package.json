@@ -1,10 +1,9 @@
 {
   "name": "my-portfolio",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/react-fontawesome": "0.0.20",
-    "font-awesome": "^4.7.0",
+    "font-awesome": "4.7.0",
     "nuka-carousel": "^4.1.0",
     "react": "^16.3.2",
     "react-bootstrap": "^0.32.1",

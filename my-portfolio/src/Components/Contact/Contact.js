@@ -5,7 +5,7 @@ const Contact = () => (
     <h3 className="text-center heading"><strong>Contact</strong></h3>
     <h4 className="text-center  minor-heading">Send me an email.</h4>
     <a href="mailto:mirzasisic57@gmail.com?Subject=Website%20visitor" target="_top">
-    <i class="fa fa-envelope-o fa-5x email" aria-hidden="true">
+    <i className="fa fa-envelope-o fa-5x email" aria-hidden="true">
     </i></a><br/>
     <h4 className="text-center  minor-heading">Or connect with me over social media.</h4>
 	</div>
