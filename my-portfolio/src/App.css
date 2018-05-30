@@ -13,9 +13,12 @@
      color: #fff;
    }
    svg {
-     height: 150px;
-     width: 100px
+     height: 100px;
+     width: 70px
    }
+   .svg {
+    margin: 1px;
+    }
 
    #Mirza {
      padding-bottom: 15px;
