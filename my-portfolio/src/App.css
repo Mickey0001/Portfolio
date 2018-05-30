@@ -9,6 +9,12 @@
        color: #000;
        text-shadow: none;
    }
+   #Skills {
+    padding-top: 100px;
+    margin-top: -50px;
+   }
+
+
    i {
      color: #fff;
    }
@@ -237,7 +243,7 @@
    }
    #Contact {
     padding-top: 100px;
-    margin-top: -100px;
+    margin-top: -50px;
    }
    .ClientImage {
      height: 100px;

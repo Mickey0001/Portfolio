@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../../../src/Images/MirzaLogo.png';
-import { Navbar, Nav, NavItem, MenuItem } from 'react-bootstrap';
+import { Navbar, Nav, NavItem} from 'react-bootstrap';
 
 const externalLink = "https://juniorlearnstocode.blogspot.ba";
   
@@ -10,21 +10,20 @@ const Menu = () => (
 
   <Navbar.Header>
     <Navbar.Brand>
-    <a href="#headerwrap"><img alt="MS logo" src={Logo}/></a>
+    <a href="#headerwrap"><img alt="Mirza Sisic Web Developer logo" src={Logo}/></a>
     </Navbar.Brand>
     <Navbar.Toggle />
   </Navbar.Header>
   <Navbar.Collapse>
     <Nav pullRight>
-      <NavItem eventKey={1} href="#headerwrap">Home</NavItem>
-      <NavItem eventKey={2} href="#aboutwrap">About</NavItem>
-      <NavItem eventKey={3} href="#Resume">Resume</NavItem>
-      <NavItem eventKey={4} href="#workwrap">Projects</NavItem>
-      <NavItem eventKey={5} href="#Clients">Clients</NavItem>
-      <NavItem eventKey={6} href="#Contact">Contact</NavItem>
-      <MenuItem href={externalLink} target="_blank" rel="noopener noreferrer" eventKey={2}>
-           Blog
-      </MenuItem>
+      <NavItem  href="#headerwrap">Home</NavItem>
+      <NavItem  href="#aboutwrap">About</NavItem>
+      <NavItem  href="#Resume">Resume</NavItem>
+      <NavItem  href="#workwrap">Projects</NavItem>
+      <NavItem  href="#Clients">Clients</NavItem>
+      <NavItem  href="#Contact">Contact</NavItem>
+      <NavItem  href="#Skills">Skills</NavItem>
+      <NavItem href={externalLink} target="_blank" rel="noopener noreferrer">Blog</NavItem>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
