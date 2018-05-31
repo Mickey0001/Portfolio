@@ -14,8 +14,11 @@
     margin-top: -50px;
    }
    .skills {
-     margin-bottom: 10px;
+     padding-bottom: 10px;
      margin-top: 20px;
+   }
+   .skills-bottom {
+     margin-bottom: 20px;
    }
 
    i {

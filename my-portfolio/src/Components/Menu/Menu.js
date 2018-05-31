@@ -21,8 +21,8 @@ const Menu = () => (
       <NavItem  href="#Resume">Resume</NavItem>
       <NavItem  href="#workwrap">Projects</NavItem>
       <NavItem  href="#Clients">Clients</NavItem>
-      <NavItem  href="#Contact">Contact</NavItem>
       <NavItem  href="#Skills">Skills</NavItem>
+      <NavItem  href="#Contact">Contact</NavItem>
       <NavItem href={externalLink} target="_blank" rel="noopener noreferrer">Blog</NavItem>
     </Nav>
   </Navbar.Collapse>

@@ -75,7 +75,7 @@ const Projects = () => (
                 <div className="thumbnail">
                   <img className="img-responsive project" src={Auto} alt="BuvaShop logo"/>
                   <div className="caption">
-                    <h3>EnterpriseAutoTransport</h3>
+                    <h3>EnterpriseAuto</h3>
                     <p className="DarkGreyHeading">Company Website</p>
                     <p><a href="https://amuletodesigns.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
