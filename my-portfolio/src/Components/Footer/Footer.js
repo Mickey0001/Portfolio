@@ -33,7 +33,7 @@ const Footer = () => (
 								<a title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
 							</div>
 							<div>
-								<a title="Free Code Camp" href="https://www.freecodecamp.org/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
+								<a title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
 							</div>
 					</div>		
 			</div>		
