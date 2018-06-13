@@ -32,37 +32,28 @@ const Skills = () => (
                 <HTML/>
                 <CSS/>
                 <JavaScript/>
-                <Sass/>
-                <Jquery/>
-                <Reactjs/> 
+                <PHP/>
+                <WordPress/>
+                <Laravel/>
         </div>
 
         <div className="row skills">
                 <Vue/>
+                <Reactjs/> 
+                <Jquery/>
                 <Bootstrap/>
-                <PHP/>
-                <Laravel/>
-                <WordPress/>
                 <Git/>
+                <Vagrant/>
         </div>
 
-        <div className="row">
+        <div className="row skills-bottom">
                 <MySql/>
                 <Mongo/>
-                <GitHub/>
-                <TypeScript/>
-                <Vagrant/>
-                <Webpack/>
-        </div>
-
-         <div className="row skills-bottom">
+                <Sass/>
                 <Less/>
+                <Webpack/>
                 <Gulp/>
-                <Handlebars/>
-                <Express/>
-                <Docker/>
-                <Babel/>
-          </div>
+        </div>
   </div>
 );
 
