@@ -13,16 +13,10 @@ import WordPress from '../SVG/WordPress';
 import Git from '../SVG/Git';
 import MySql from '../SVG/MySql';
 import Mongo from '../SVG/Mongo';
-import GitHub from '../SVG/GitHub';
-import TypeScript from '../SVG/TypeScript';
 import Vagrant from '../SVG/Vagrant';
 import Webpack from '../SVG/Webpack';
 import Less from '../SVG/Less';
 import Gulp from '../SVG/Gulp'; 
-import Handlebars from '../SVG/Handlebars';
-import Express from '../SVG/Express';
-import Docker from '../SVG/Docker';
-import Babel from '../SVG/Babel';
   
 const Skills = () => (
   <div>
