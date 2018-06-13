@@ -1,4 +1,4 @@
-# Protfolio
+# Portfolio
 
 Personal portfolio made with React.
 
