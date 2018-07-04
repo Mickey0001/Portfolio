@@ -45,8 +45,8 @@ const Skills = () => (
                 <Mongo/>
                 <Sass/>
                 <Less/>
-                <Webpack/>
                 <Gulp/>
+                <Webpack/>
         </div>
   </div>
 );
