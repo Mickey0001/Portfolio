@@ -61,7 +61,7 @@ export default class extends React.Component {
               <p className="ClientName">David Gao<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
           <div className="carousel-item">
-              <p className="text-center ClientQuote">"It was a pleasure with Mirza. He did his work extremely well and he did good doing our WordPress Theme from scratch. I'm looking forward working with him again."</p>
+              <p className="text-center ClientQuote">"It was a pleasure with Mirza. He did his work extremely well and he did good job on our WordPress Theme from scratch. I'm looking forward working with him again."</p>
               <img className="ClientImage" alt="Gamaliel Rausch" src={Gamaliel}/>
               <p className="ClientName">Gamaliel Rausch<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
