@@ -8,6 +8,8 @@ import Emilis from '../../../src/Images/Emilis.jpg';
 import Titos from '../../../src/Images/Titos.jpg';
 import Nedim from '../../../src/Images/Nedim.jpg';
 import Lejla from '../../../src/Images/Lejla.jpg';
+import David from '../../../src/Images/DavidGao.jpg';
+import Gamaliel from '../../../src/Images/GamalielRausch.jpg';
 
 export default class extends React.Component {
   render() {
@@ -52,6 +54,16 @@ export default class extends React.Component {
               <p className="text-center ClientQuote">"A truly pleasant person to work with."</p>
               <img className="ClientImage" alt="Lejla Alimanovic" src={Lejla}/>
               <p className="ClientName">Lejla Alimanovic<br/><span className="ClientInfo">Jazz Vocalist</span></p>
+          </div>
+          <div className="carousel-item">
+              <p className="text-center ClientQuote">"The job was finished successfully. I am satisfied with that."</p>
+              <img className="ClientImage" alt="David Gao" src={David}/>
+              <p className="ClientName">David Gao<br/><span className="ClientInfo">Upwork Client</span></p>
+          </div>
+          <div className="carousel-item">
+              <p className="text-center ClientQuote">"It was a pleasure with Mirza. He did his work extremely well and he did good doing our WordPress Theme from scratch. I'm looking forward working with him again."</p>
+              <img className="ClientImage" alt="Gamaliel Rausch" src={Gamaliel}/>
+              <p className="ClientName">Gamaliel Rausch<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
       </Carousel> 
     );
