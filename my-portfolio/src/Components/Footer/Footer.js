@@ -35,6 +35,9 @@ const Footer = () => (
 							<div>
 								<a title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
 							</div>
+							<div>
+								<a title="Free Code Camp" href="https://www.pinterest.co.uk/mirzasisic57" target="_blank" rel="noopener noreferrer"><i className="fa fa-pinterest-p"></i></a>
+							</div>
 					</div>		
 			</div>		
 		</div>
