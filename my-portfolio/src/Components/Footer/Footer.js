@@ -12,31 +12,31 @@ const Footer = () => (
 				</div>
 				<div className="row social">
 							<div>
-								<a title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+								<a class="social-icons" title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
 							</div>
 							<div>
-								<a title="Twitter" href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
+								<a class="social-icons" title="Twitter" href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter"></i></a>
 							</div>
 							<div>
-								<a title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
+								<a class="social-icons" title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
 							</div>
 							<div>
-								<a title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
+								<a class="social-icons" title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a>
 							</div>
 							<div>
-								<a title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus"></i></a>
+								<a class="social-icons" title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus"></i></a>
 							</div>
 							<div>
-								<a title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow"></i></a>
+								<a class="social-icons" title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow"></i></a>
 							</div>
 							<div>
-								<a title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
+								<a class="social-icons" title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen"></i></a>
 							</div>
 							<div>
-								<a title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
+								<a class="social-icons" title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp"></i></a>
 							</div>
 							<div>
-								<a title="Free Code Camp" href="https://www.pinterest.co.uk/mirzasisic57" target="_blank" rel="noopener noreferrer"><i className="fa fa-pinterest-p"></i></a>
+								<a class="social-icons" title="Free Code Camp" href="https://www.pinterest.co.uk/mirzasisic57" target="_blank" rel="noopener noreferrer"><i className="fa fa-pinterest-p"></i></a>
 							</div>
 					</div>		
 			</div>		
