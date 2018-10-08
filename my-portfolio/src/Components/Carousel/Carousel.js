@@ -10,6 +10,7 @@ import Nedim from '../../../src/Images/Nedim.jpg';
 import Lejla from '../../../src/Images/Lejla.jpg';
 import David from '../../../src/Images/DavidGao.jpg';
 import Gamaliel from '../../../src/Images/GamalielRausch.jpg';
+import Rebecca from '../../../src/Images/RebeccaChalach.jpg';
 
 export default class extends React.Component {
   render() {
@@ -64,6 +65,11 @@ export default class extends React.Component {
               <p className="text-center ClientQuote">"It was a pleasure with Mirza. He did his work extremely well and he did good job on our WordPress Theme from scratch. I'm looking forward working with him again."</p>
               <img className="ClientImage" alt="Gamaliel Rausch" src={Gamaliel}/>
               <p className="ClientName">Gamaliel Rausch<br/><span className="ClientInfo">Upwork Client</span></p>
+          </div>
+          <div className="carousel-item">
+              <p className="text-center ClientQuote">"I loved working with Mirza. A charming guy, always available and easy to work with. The project was seamless and sounded effortless. He knows his stuff."</p>
+              <img className="ClientImage" alt="Rebecca Chalach" src={Rebecca}/>
+              <p className="ClientName">Rebecca Chalach<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
       </Carousel> 
     );
