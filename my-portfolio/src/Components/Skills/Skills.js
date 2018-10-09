@@ -14,9 +14,9 @@ import Git from '../SVG/Git';
 import MySql from '../SVG/MySql';
 import Mongo from '../SVG/Mongo';
 import Vagrant from '../SVG/Vagrant';
-import Webpack from '../SVG/Webpack';
 import Less from '../SVG/Less';
 import Gulp from '../SVG/Gulp'; 
+import CSharp from '../SVG/CSharp'; 
   
 const Skills = () => (
   <div>
@@ -46,7 +46,7 @@ const Skills = () => (
                 <Sass/>
                 <Less/>
                 <Gulp/>
-                <Webpack/>
+                <CSharp/>
         </div>
   </div>
 );
