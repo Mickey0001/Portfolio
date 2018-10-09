@@ -26,27 +26,27 @@ const Skills = () => (
                 <HTML/>
                 <CSS/>
                 <JavaScript/>
+                <CSharp/>
+                <DotNet/>
                 <PHP/>
-                <WordPress/>
-                <Laravel/>
         </div>
 
         <div className="row skills">
+                <WordPress/>
+                <Laravel/>
                 <Vue/>
                 <Reactjs/> 
                 <Jquery/>
                 <Bootstrap/>
-                <Git/>
-                <DotNet/>
         </div>
 
         <div className="row skills-bottom">
+                <Git/>
                 <MySql/>
                 <Mongo/>
                 <Sass/>
                 <Less/>
                 <Gulp/>
-                <CSharp/>
         </div>
   </div>
 );
