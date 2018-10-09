@@ -13,7 +13,7 @@ import WordPress from '../SVG/WordPress';
 import Git from '../SVG/Git';
 import MySql from '../SVG/MySql';
 import Mongo from '../SVG/Mongo';
-import Vagrant from '../SVG/Vagrant';
+import DotNet from '../SVG/DotNet';
 import Less from '../SVG/Less';
 import Gulp from '../SVG/Gulp'; 
 import CSharp from '../SVG/CSharp'; 
@@ -37,7 +37,7 @@ const Skills = () => (
                 <Jquery/>
                 <Bootstrap/>
                 <Git/>
-                <Vagrant/>
+                <DotNet/>
         </div>
 
         <div className="row skills-bottom">
