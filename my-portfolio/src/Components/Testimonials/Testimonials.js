@@ -25,7 +25,7 @@ const Testimonials = () => (
           <div className="carousel-item col-md-12 col-sm-12" align="center">
               <p className="text-center ClientQuote">"It was wonderful to work with Mirza. <br/>  Thank you so much for your reliability, professionalism and caring nature."</p>
               <img className="ClientImage" alt="Dilma Morais"  src={Dilma}/>
-              <p className="ClientName">Dilma Morais<br/><span className="ClientInfo">Upwork Client</span></p>
+              <p className="ClientName">Dilma Morais<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
           </div>
      </div>
 
@@ -47,13 +47,13 @@ const Testimonials = () => (
             <div className="carousel-item col-md-12 col-sm-12" align="center">
                         <p className="text-center ClientQuote">"It was a pleasing experience working together. <br/> Everything was done according to the instructions and in timely manner. <br/>Recommended!"</p>
                         <img className="ClientImage" alt="Emilis Strimaitis" src={Emilis}/>
-                        <p className="ClientName">Emilis Strimaitis<br/><span className="ClientInfo">Upwork Client</span></p>
+                        <p className="ClientName">Emilis Strimaitis<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                     </div>
 
                     <div className="carousel-item col-md-12 col-sm-12" align="center">
                         <p className="text-center ClientQuote">"Great work, recommend."</p>
                         <img className="ClientImage" alt="Titos Toupoyannis" src={Titos}/>
-                        <p className="ClientName">Titos Toupoyannis<br/><span className="ClientInfo">Upwork Client</span></p>
+                        <p className="ClientName">Titos Toupoyannis<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                     </div>
             </div>
 
@@ -76,13 +76,13 @@ const Testimonials = () => (
                 <div className="carousel-item col-md-12 col-sm-12" align="center">
                             <p className="text-center ClientQuote">"The job was finished successfully.<br/> I am satisfied with that."</p>
                             <img className="ClientImage" alt="David Gao" src={David}/>
-                            <p className="ClientName">David Gao<br/><span className="ClientInfo">Upwork Client</span></p>
+                            <p className="ClientName">David Gao<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                         </div>
 
                         <div className="carousel-item col-md-12 col-sm-12" align="center">
                             <p className="text-center ClientQuote">"It was a pleasure with Mirza.<br/> He did his work extremely well and he did good job on our WordPress theme from scratch.<br/> I'm looking forward working with him again."</p>
                             <img className="ClientImage" alt="Gamaliel Rausch" src={Gamaliel}/>
-                            <p className="ClientName">Gamaliel Rausch<br/><span className="ClientInfo">Upwork Client</span></p>
+                            <p className="ClientName">Gamaliel Rausch<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                         </div>
                 </div>
 
@@ -91,13 +91,13 @@ const Testimonials = () => (
             <div className="carousel-item col-md-12 col-sm-12" align="center">
                     <p className="text-center ClientQuote">"Great to work with and is someone that can deliver.<br/> Would work with Mirza again."</p>
                     <img className="ClientImage" alt="Mamo Singh" src={Mamo}/>
-                    <p className="ClientName">Mamo Singh<br/><span className="ClientInfo"><a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></span></p>
+                    <p className="ClientName">Mamo Singh<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                 </div>
 
             <div className="carousel-item col-md-12 col-sm-12" align="center">
                     <p className="text-center ClientQuote">"I loved working with Mirza.<br/> A charming guy, always available and easy to work with.<br/> The project was seamless and sounded effortless. <br/>He knows his stuff."</p>
                     <img className="ClientImage" alt="Rebecca Chalach" src={Rebecca}/>
-                    <p className="ClientName">Rebecca Chalach<br/><span className="ClientInfo"><a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></span></p>
+                    <p className="ClientName">Rebecca Chalach<br/><a className="ClientInfo" href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></p>
                 </div>
 
             </div>
