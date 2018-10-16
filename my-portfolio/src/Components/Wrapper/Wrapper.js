@@ -3,7 +3,7 @@ import About from '../../Components/About/About';
 import Clients from '../../Components/Clients/Clients';
 import Resume from '../../Components/Resume/Resume';
 import Projects from '../../Components/Projects/Projects';
-import Carousel from '../../Components/Carousel/Carousel';
+import Testimonials from '../../Components/Testimonials/Testimonials';
 import Skills from '../../Components/Skills/Skills';
 import Contact from '../../Components/Contact/Contact';
 
@@ -13,7 +13,7 @@ const Wrapper = () => (
         <Resume/>
         <Projects/>
         <Clients/>
-        <Carousel/>
+        <Testimonials/>
         <Skills/>
         <Contact/>
 	</div>

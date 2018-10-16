@@ -1,5 +1,4 @@
 import React from 'react';
-import Carousel from 'nuka-carousel';
 import Safet from '../../../src/Images/Safet.jpg';
 import Dilma from '../../../src/Images/Dilma.jpg';
 import Dijana from '../../../src/Images/Dijana.jpg';
@@ -12,11 +11,9 @@ import David from '../../../src/Images/DavidGao.jpg';
 import Gamaliel from '../../../src/Images/GamalielRausch.jpg';
 import Rebecca from '../../../src/Images/RebeccaChalach.jpg';
 
-export default class extends React.Component {
-  render() {
-    return (
-      <Carousel wrapAround={true} easeInElastic autoplay={true} speed={1800} id="Carousel" className="text-center">
-          <div className="carousel-item">
+const Testimonials = () => (
+	<div className="container">
+            <div className="carousel-item">
               <p className="text-center ClientQuote">"Mirza is a very competent developer, patient and efficient."</p>
               <img className="ClientImage" alt="Safet Begic" src={Safet}/>
               <p className="ClientName">Safet Begic<br/><span className="ClientInfo">Painter and Photographer</span></p>
@@ -71,7 +68,7 @@ export default class extends React.Component {
               <img className="ClientImage" alt="Rebecca Chalach" src={Rebecca}/>
               <p className="ClientName">Rebecca Chalach<br/><span className="ClientInfo">Upwork Client</span></p>
           </div>
-      </Carousel> 
-    );
-  }
-}
+	</div>
+);
+
+export default Testimonials;
