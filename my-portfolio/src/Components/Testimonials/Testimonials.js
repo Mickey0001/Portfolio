@@ -10,6 +10,7 @@ import Lejla from '../../../src/Images/Lejla.jpg';
 import David from '../../../src/Images/DavidGao.jpg';
 import Gamaliel from '../../../src/Images/GamalielRausch.jpg';
 import Rebecca from '../../../src/Images/RebeccaChalach.jpg';
+import Mamo from '../../../src/Images/MamoSingh.jpg';
 
 const Testimonials = () => (
 	<div className="container">
@@ -88,9 +89,15 @@ const Testimonials = () => (
             <div className="row">
             
             <div className="carousel-item col-md-12 col-sm-12" align="center">
+                    <p className="text-center ClientQuote">"Great to work with and is someone that can deliver.<br/> Would work with Mirza again."</p>
+                    <img className="ClientImage" alt="Mamo Singh" src={Mamo}/>
+                    <p className="ClientName">Mamo Singh<br/><span className="ClientInfo"><a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></span></p>
+                </div>
+
+            <div className="carousel-item col-md-12 col-sm-12" align="center">
                     <p className="text-center ClientQuote">"I loved working with Mirza.<br/> A charming guy, always available and easy to work with.<br/> The project was seamless and sounded effortless. <br/>He knows his stuff."</p>
                     <img className="ClientImage" alt="Rebecca Chalach" src={Rebecca}/>
-                    <p className="ClientName">Rebecca Chalach<br/><span className="ClientInfo">Upwork Client</span></p>
+                    <p className="ClientName">Rebecca Chalach<br/><span className="ClientInfo"><a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e">Upwork Client</a></span></p>
                 </div>
 
             </div>
