@@ -19,7 +19,7 @@ const Testimonials = () => (
      <div className="carousel-item col-md-12 col-sm-12" align="center">
               <p className="text-center ClientQuote">"Mirza is a very competent developer, patient and efficient."</p>
               <img className="ClientImage" alt="Safet Begic" src={Safet}/>
-              <p className="ClientName">Safet Begic<br/><span className="ClientInfo">Painter and Photographer</span></p>
+              <p className="ClientName">Safet Begic<br/><a className="ClientInfo" href="https://www.facebook.com/rob.granap">Painter and Photographer</a></p>
           </div>
 
           <div className="carousel-item col-md-12 col-sm-12" align="center">
@@ -39,7 +39,7 @@ const Testimonials = () => (
                 <div className="carousel-item col-md-12 col-sm-12" align="center">
                     <p className="text-center ClientQuote">"If you want a professional looking website <br/> Mirza is the guy you're looking for."</p>
                     <img className="ClientImage" alt="Zoran Milanovic" src={Zoran}/>
-                    <p className="ClientName">Zoran Milanovic<br/><span className="ClientInfo">eCommerce Owner</span></p>
+                    <p className="ClientName">Zoran Milanovic<br/><a className="ClientInfo"  href="https://www.facebook.com/zoranmilanovic14">eCommerce Owner</a></p>
                 </div>
         </div>
 
