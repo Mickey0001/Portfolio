@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import '../node_modules/font-awesome/css/font-awesome.min.css'; 
 import Menu from './Components/Menu/Menu';
 import Header from './Components/Header/Header';
 import Wrapper from './Components/Wrapper/Wrapper';
