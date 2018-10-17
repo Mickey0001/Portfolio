@@ -445,3 +445,9 @@
 .social-icons{
   padding: 0px 5px 0px;
 }
+
+@media only screen and (max-width: 600px) {
+  .header-intro-mobile {
+      padding-bottom:40%;
+  }
+}

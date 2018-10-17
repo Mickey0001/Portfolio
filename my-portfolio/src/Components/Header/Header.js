@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => (
 	<div id="headerwrap">
-	    <div className="container">
+	    <div className="container header-intro-mobile">
 			<div className="row align-middle">
 				<div className="col-lg-6 col-lg-offset-3">
 					<h4 className="GreyHeading">Greetings, my name is</h4>
