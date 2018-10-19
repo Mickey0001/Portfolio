@@ -367,7 +367,7 @@
   top: 16px;
   right: 0px;
   margin-left: -25px;
-  background-color: #999999;
+  background-color: #ccc;
   z-index: 100;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
@@ -444,6 +444,10 @@
 }
 .social-icons{
   padding: 0px 5px 0px;
+}
+
+.resume-icons{
+  color: #fff;
 }
 
 @media only screen and (max-width: 600px) {

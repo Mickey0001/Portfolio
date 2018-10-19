@@ -7,7 +7,7 @@ const Resume = () => (
 <h5 className="text-center  minor-heading">Employment History</h5>
     <ul className="timeline">
         <li>
-          <div className="timeline-badge"><i className="fa fa-code"></i></div>
+          <div className="timeline-badge"><i className="fa fa-code resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">Web Developer - <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e/" target="_blank" rel="noopener noreferrer">Freelance</a></h4>
@@ -19,7 +19,7 @@ const Resume = () => (
           </div>
         </li>
         <li>
-          <div className="timeline-badge"><i className="fa fa-search"></i></div>
+          <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
@@ -31,7 +31,7 @@ const Resume = () => (
           </div>
         </li>
         <li>
-          <div className="timeline-badge"><i className="fa fa-headphones"></i></div>
+          <div className="timeline-badge"><i className="fa fa-headphones resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
             <h4 className="timeline-title">Technical Support Specialist - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
@@ -43,7 +43,7 @@ const Resume = () => (
           </div>
         </li>
         <li>
-        <div className="timeline-badge"><i className="fa fa-wrench"></i></div>
+        <div className="timeline-badge"><i className="fa fa-wrench resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">Pc Repairs - Self Employed </h4>
