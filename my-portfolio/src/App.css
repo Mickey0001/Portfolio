@@ -24,6 +24,10 @@
    i {
      color: #fff;
    }
+  
+   p{
+     line-height: 35px;
+   }
    svg {
      height: 100px;
      width: 75px;
