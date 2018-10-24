@@ -57,8 +57,8 @@
   .heading {
     font-size: 2em;
     text-shadow: 2px 2px lightgrey;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
   }
   #Resume {
     padding-top: 100px;
@@ -269,9 +269,11 @@
      height: 100px;
      width: 100px;
      border-radius: 50%;
+     vertical-align: middle;
    }
    .ClientQuote {
      color: #000;
+     vertical-align: middle;
    }
    .ClientInfo {
      color: #827e7e;
