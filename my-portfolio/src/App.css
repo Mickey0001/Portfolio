@@ -461,3 +461,12 @@
       padding-bottom:40%;
   }
 }
+.quotations{
+  color: #000;
+  font-weight: thin;
+  text-shadow: 1px 1px #9d9d9d;
+  font-size: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
