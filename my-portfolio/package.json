@@ -16,7 +16,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "merge": "^1.2.1"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
