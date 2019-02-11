@@ -12,36 +12,23 @@ const Contact = () => (
 							<div>
 								<a className="social-icons" title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-2x"></i></a>
 							</div>
-                            <div>
-								<a className="social-icons" title="CodePen" href="https://codepen.io/mickey0001/" target="_blank" rel="noopener noreferrer"><i className="fa fa-codepen fa-2x"></i></a>
-							</div>
 							<div>
-								<a className="social-icons" title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin fa-2x"></i></a>
+								<a className="social-icons" title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow fa-2x"></i></a>
 							</div>
                             <div>
 								<a className="social-icons" title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp fa-2x"></i></a>
 							</div>
-                            <div>
-								<a className="social-icons" title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow fa-2x"></i></a>
-							</div>
 					</div>	
                     <br/>	
                     <div className="row social">
-                     
-                            <div>
+							<div>
+								<a className="social-icons" title="LinkedIn" href="https://www.linkedin.com/in/sisicmirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin fa-2x"></i></a>
+							</div>
+							<div>
 								<a className="social-icons" title="Twitter" href="https://twitter.com/MickeySisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter fa-2x"></i></a>
 							</div>
                             <div>
 								<a className="social-icons" title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook fa-2x"></i></a>
-							</div>
-							<div>
-								<a className="social-icons" title="Free Code Camp" href="https://www.pinterest.co.uk/mirzasisic57" target="_blank" rel="noopener noreferrer"><i className="fa fa-pinterest-p fa-2x"></i></a>
-							</div>
-                            <div>
-								<a className="social-icons" title="Google Plus" href="https://plus.google.com/u/0/+mirzasisic" target="_blank" rel="noopener noreferrer"><i className="fa fa-google-plus fa-2x"></i></a>
-							</div>
-							<div>
-								<a className="social-icons" title="Free Code Camp" href="https://www.instagram.com/mirzasisic0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram fa-2x"></i></a>
 							</div>
                     </div>
 	</div>
