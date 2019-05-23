@@ -14,7 +14,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - Current</small></p>
             <div className="timeline-body">
-              <p>Working in a Agile/Scrum team is a rewarding experience due to it's dynamic nature - testing web and native apps as well. I'm learning a bunch of new stuff and improving my existing knowledge on SQL, APIs and QA processes in general. Doing E2E, Integration, Regression, UI, Smoke, Exploratory and other kinds of testing. Also, working on test automation with Selenium, NUnit and TestNG.</p>
+              <p>Working in a Agile/Scrum team is a rewarding experience due to it's dynamic nature - testing web and native apps as well. I'm learning a bunch of new stuff and improving my existing knowledge on SQL, Java, C#, Visual Studio, InteliJ, Jira, APIs and QA processes in general. Doing E2E, Integration, Regression, UI, Smoke, Exploratory and other kinds of testing. Also, working on test automation with Selenium, NUnit and TestNG.</p>
             </div>
           </div>
         </li>
