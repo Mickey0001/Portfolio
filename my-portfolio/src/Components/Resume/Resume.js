@@ -10,11 +10,11 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">QA Analyst - <a href="https://authoritypartners.com/" target="_blank" rel="noopener noreferrer">Authority Partners</a></h4>
+              <h4 className="timeline-title">QA Engineer - <a href="https://authoritypartners.com/" target="_blank" rel="noopener noreferrer">Authority Partners</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - Current</small></p>
             <div className="timeline-body">
-              <p>Working in a Agile/Scrum team is a rewarding experience due to it's dynamic nature - testing web and native apps as well. I'm learning a bunch of new stuff and improving my existing knowledge on SQL, APIs and QA processes in general. Doing E2E, Integration, Regression, UI, Smoke, Exploratory and other kinds of testing. Also, I'm learning more about test automation, which makes this a a very exciting journey for me!</p>
+              <p>Working in a Agile/Scrum team is a rewarding experience due to it's dynamic nature - testing web and native apps as well. I'm learning a bunch of new stuff and improving my existing knowledge on SQL, APIs and QA processes in general. Doing E2E, Integration, Regression, UI, Smoke, Exploratory and other kinds of testing. Also, working on test automation with Selenium, NUnit and TestNG.</p>
             </div>
           </div>
         </li>
@@ -34,7 +34,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+              <h4 className="timeline-title">QA Analyst - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
