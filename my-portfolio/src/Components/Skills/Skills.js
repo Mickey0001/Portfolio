@@ -12,11 +12,11 @@ import Laravel from '../SVG/Laravel';
 import WordPress from '../SVG/WordPress';
 import Git from '../SVG/Git';
 import MySql from '../SVG/MySql';
-import Mongo from '../SVG/Mongo';
 import DotNet from '../SVG/DotNet';
 import Less from '../SVG/Less';
 import Gulp from '../SVG/Gulp'; 
 import CSharp from '../SVG/CSharp'; 
+import Java from '../SVG/Java'; 
   
 const Skills = () => (
   <div>
@@ -43,7 +43,7 @@ const Skills = () => (
         <div className="row skills-bottom">
                 <Git/>
                 <MySql/>
-                <Mongo/>
+                <Java/>
                 <Sass/>
                 <Less/>
                 <Gulp/>
