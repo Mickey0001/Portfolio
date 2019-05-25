@@ -31,7 +31,7 @@ const Projects = () => (
               <div className="caption">
                 <h3>Dijana.Science</h3>
                 <p className="DarkGreyHeading">Chemist Portfolio</p>
-                <p><a href="https://dijana.science/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a> <a href="https://github.com/Mickey0001/Dixie/" target="_blank" rel="noopener noreferrer" className="btn btn-default DarkGreyBackground" role="button">View Code</a></p>
+                <p><a href=" https://mickey0001.github.io/Dixie" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a> <a href="https://github.com/Mickey0001/Dixie/" target="_blank" rel="noopener noreferrer" className="btn btn-default DarkGreyBackground" role="button">View Code</a></p>
               </div>
             </div>
           </div>
