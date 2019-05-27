@@ -87,7 +87,7 @@ const Projects = () => (
                   <div className="caption">
                     <h3>Dilma Morais</h3>
                     <p className="DarkGreyHeading">Personal Website</p>
-                    <p><a href="http://www.dilmamoraiskinesiology.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
+                    <p><a href="https://dilmamoraiskinesiology.com/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Live Site</a></p>
                   </div>
                 </div>
           </div>
