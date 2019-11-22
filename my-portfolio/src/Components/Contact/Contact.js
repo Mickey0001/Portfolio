@@ -16,7 +16,7 @@ const Contact = () => (
 								<a className="social-icons" title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow fa-2x"></i></a>
 							</div>
                             <div>
-								<a className="social-icons" title="Free Code Camp" href="https://www.freecodecamp.org/portfolio/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp fa-2x"></i></a>
+								<a className="social-icons" title="Free Code Camp" href="https://www.freecodecamp.org/mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-free-code-camp fa-2x"></i></a>
 							</div>
 					</div>	
                     <br/>	
