@@ -38,7 +38,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
-              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack and Wrike project management software. </p>
+              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack and Wrike and Jira project management products. </p>
             </div>
           </div>
         </li>
