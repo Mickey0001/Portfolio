@@ -15,7 +15,8 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - Current</small></p>
             <div className="timeline-body">
-              <p>Taking part in establishing testing process on new projects from scratch. Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with the team to standardize testing on the company level.  Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated.</p>
+              <p>Taking part in establishing testing process on new projects from scratch.
+               Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with multiple  teams to standardize testing on the company level.  Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated. Pair programiing with the developers in designing and developing an API end-to-end testing framework.</p>
             </div>
           </div>
         </li>
