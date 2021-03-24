@@ -6,15 +6,30 @@ const Resume = () => (
 <h3 className="text-center heading"><strong>Resume</strong></h3>
 <h5 className="text-center  minor-heading">Employment History</h5>
     <ul className="timeline">
-       <li>
-          <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
+
+    <li>
+          <div className="timeline-badge"><i className="fa fa-bug resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">QA Engineer - <a href="https://authoritypartners.com/" target="_blank" rel="noopener noreferrer">Authority Partners</a></h4>
+              <h4 className="timeline-title">Software QA Engineer - <a href="https://tacta.io" target="_blank" rel="noopener noreferrer">Tacta</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - Current</small></p>
             <div className="timeline-body">
-              <p>Working in a Agile/Scrum team is a rewarding experience due to it's dynamic nature - testing web and native apps as well. I'm learning a bunch of new stuff and improving my existing knowledge on SQL, Java, C#, Visual Studio, InteliJ, Jira, APIs and QA processes in general. Doing E2E, Integration, Regression, UI, Smoke, Exploratory and other kinds of testing. Also, working on test automation with Selenium, NUnit and TestNG.</p>
+              <p>Taking part in establishing testing process on new projects from scratch. Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with the team to standardize testing on the company level.  Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated.</p>
+            </div>
+          </div>
+        </li>
+
+       <li>
+          <div className="timeline-badge"><i className="fa fa-search-plus resume-icons"></i></div>
+          <div className="timeline-panel">
+            <div className="timeline-heading">
+              <h4 className="timeline-title">QA Analyst - <a href="https://authoritypartners.com" target="_blank" rel="noopener noreferrer">Authority Partners</a></h4>
+            </div>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - February 2021</small></p>
+            <div className="timeline-body">
+              <p>
+              I worked in several teams, mainly doing functional end-to-end testing of web and mobile apps for the first few months. Later in a production support team, triaging new tickets, checking logs, using SQL, reporting bugs, etc.</p>
             </div>
           </div>
         </li>
@@ -22,7 +37,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-code resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Web Developer - <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e/" target="_blank" rel="noopener noreferrer">Freelance</a></h4>
+              <h4 className="timeline-title">Web Developer - <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer">Freelance</a></h4>
               <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - January 2019</small></p>
             </div>
             <div className="timeline-body">
@@ -34,7 +49,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">QA Analyst - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+              <h4 className="timeline-title">Manual Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
@@ -46,7 +61,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-headphones resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-            <h4 className="timeline-title">Support Specialist - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+            <h4 className="timeline-title">Technical Support - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
