@@ -30,7 +30,7 @@ const Resume = () => (
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - February 2021</small></p>
             <div className="timeline-body">
               <p>
-              I worked in several teams, mainly doing functional end-to-end testing of web and mobile apps for the first few months. Later in a production support team, triaging new tickets, checking logs, using SQL, reporting bugs, etc.</p>
+              I worked in several teams, mainly doing functional end-to-end testing of web and mobile apps for the first few months. Later, I was in a production support team, triaging new tickets, checking logs, using SQL, reporting bugs, etc.</p>
             </div>
           </div>
         </li>
