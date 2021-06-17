@@ -20,7 +20,7 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
-    "merge": "^1.2.1"
+    "merge": "^2.1.1"
   },
   "browserslist": [
     ">0.2%",
