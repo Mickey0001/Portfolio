@@ -12,9 +12,6 @@ const Wrapper = () => (
         <About/>
         <Resume/>
         <Projects/>
-        <Clients/>
-        <Testimonials/>
-        <Skills/>
         <Contact/>
 	</div>
 );

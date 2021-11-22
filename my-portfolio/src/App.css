@@ -80,9 +80,14 @@
     transform: scale(1.6);
    }
 
-  /* .slider-control-centerleft, .slider-control-centerright {
-    display: none;
-  } */
+.spacer{
+  margin-top: 1px;
+  display:inline-block;
+}
+
+.thumbnail{
+  height: 445px;
+}
   .longQuote {
     margin-bottom: 300px;
   }   

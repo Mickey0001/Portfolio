@@ -5,7 +5,7 @@ const Clients = () => (
 	    <div className="container">
 			<div className="row">
 				<div className="col-lg-6 col-lg-offset-3">
-					<h3 className="text-center heading"><strong>Client Testimonials</strong></h3>
+				
 				</div>
 			</div>
 	    </div> 

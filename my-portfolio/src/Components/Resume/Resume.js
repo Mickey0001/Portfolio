@@ -15,8 +15,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - Current</small></p>
             <div className="timeline-body">
-              <p>Taking part in establishing testing process on new projects from scratch.
-               Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with multiple  teams to standardize testing on the company level.  Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated. Pair programiing with the developers in designing and developing an API end-to-end testing framework.</p>
+              <p>Taking part in establishing testing process on new projects from scratch. Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with multiple teams to standardize testing on the company level. Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated. Pair programming with the developers in designing and developing an API end-to-end testing framework.</p>
             </div>
           </div>
         </li>
@@ -42,7 +41,7 @@ const Resume = () => (
               <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - January 2019</small></p>
             </div>
             <div className="timeline-body">
-              <p>I made a few websites for local clients and done some freelancing on Upwork as well. Mostly part time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React and little bit of PHP - every junior has to start from somewhere.</p>
+              <p>I made a few websites for local clients and did some freelancing on Upwork as well. Mostly part-time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React, and PHP.</p>
             </div>
           </div>
         </li>
@@ -54,7 +53,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
-              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack and Wrike and Jira project management products. </p>
+              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack, and Wrike and Jira project management products.</p>
             </div>
           </div>
         </li>
@@ -66,19 +65,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
-              <p>Providing tech support for the customers, over chat, email, phone and RDP. Later on I was also tasked with making monthly ticket reports and training new team members.</p>
-            </div>
-          </div>
-        </li>
-        <li>
-        <div className="timeline-badge"><i className="fa fa-wrench resume-icons"></i></div>
-          <div className="timeline-panel">
-            <div className="timeline-heading">
-              <h4 className="timeline-title">Pc Repairs - Self Employed </h4>
-            </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i> February 2012 - September 2014</small></p>
-            <div className="timeline-body">
-              <p>Installing operation systems (Windows mostly) and troubleshooting hardware and software issues. I'm one of those coders who actually know a thing or two about hardware.</p>
+              <p>Providing tech support for the customers, over chat, email, phone, and RDP. Later on, I was also tasked with making monthly ticket reports and training new team members.</p>
             </div>
           </div>
         </li>
