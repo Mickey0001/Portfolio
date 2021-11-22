@@ -41,7 +41,7 @@ const Resume = () => (
               <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - January 2019</small></p>
             </div>
             <div className="timeline-body">
-              <p>I made a few websites for local clients and did some freelancing on Upwork as well. Mostly part-time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React, and PHP.</p>
+              <p>I made a few websites for local clients and did some freelancing on Upwork as well. Mostly part-time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React, and PHP. Fore more details, you can check my Upwrok profile <a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer" role="button">here</a>.</p>
             </div>
           </div>
         </li>
@@ -49,7 +49,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Manual Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+              <h4 className="timeline-title">Manual QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
@@ -61,11 +61,11 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-headphones resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-            <h4 className="timeline-title">Technical Support - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+            <h4 className="timeline-title">Technical Support Agent - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
-              <p>Providing tech support for the customers, over chat, email, phone, and RDP. Later on, I was also tasked with making monthly ticket reports and training new team members.</p>
+              <p>Providing tech support for the customers, over chat, email, phone, and remote desktop. Later on, I was also tasked with making monthly ticket reports, training new team members and handling high-priority issues reported by the client.</p>
             </div>
           </div>
         </li>
