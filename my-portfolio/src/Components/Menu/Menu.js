@@ -19,7 +19,7 @@ const Menu = () => (
       <NavItem  href="#headerwrap">Home</NavItem>
       <NavItem  href="#aboutwrap">About</NavItem>
       <NavItem  href="#Resume">Resume</NavItem>
-      <NavItem  href="#workwrap">Projects</NavItem>
+      <NavItem  href="#workwrap">Activities</NavItem>
       <NavItem  href="#Contact">Contact</NavItem>
       <NavItem href={externalLink} target="_blank" rel="noopener noreferrer">Blog</NavItem>
     </Nav>
