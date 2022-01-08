@@ -8,12 +8,25 @@ const Resume = () => (
     <ul className="timeline">
 
     <li>
+          <div className="timeline-badge"><i className="fa fa-laptop-code resume-icons"></i></div>
+          <div className="timeline-panel">
+            <div className="timeline-heading">
+              <h4 className="timeline-title">Software Tester - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
+            </div>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January  2022 - Current</small></p>
+            <div className="timeline-body">
+              <p>Working closely with the PO and SM to improve the testing process.Validating new user stories, reporting defects, conducting exploratory testing.Contributing to UI automation. Doing back-end GrapQL testing.</p>
+            </div>
+          </div>
+        </li>
+
+    <li>
           <div className="timeline-badge"><i className="fa fa-bug resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">Software QA Engineer - <a href="https://tacta.io" target="_blank" rel="noopener noreferrer">Tacta</a></h4>
             </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>February  2021 - Current</small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>February  2021 - December 2021</small></p>
             <div className="timeline-body">
               <p>Taking part in establishing testing process on new projects from scratch. Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with multiple teams to standardize testing on the company level. Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated. Pair programming with the developers in designing and developing an API end-to-end testing framework.</p>
             </div>
