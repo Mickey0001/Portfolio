@@ -2,6 +2,7 @@ import React from 'react';
 import LeadershipLessons from '../../../src/Images/LeassonsLearnedAboutLeadershipMotArticle.png';
 import ExploratoryTools from '../../../src/Images/ExploratoryToolsForBetterTesting.jpg';
 import MisconceptionsExploratory from '../../../src/Images/CommonMisconceptionsAboutExploratoryTesting.jpg';
+import ChallengesInTestingLegacySystems from '../../../src/Images/ChallengesInTestingLegacySystems.png';
 import TestingAMA from '../../../src/Images/MotAmaTestingToolsWithMirzaSisic.png';
 
 const Projects = () => (
