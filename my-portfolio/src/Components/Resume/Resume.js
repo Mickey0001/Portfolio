@@ -8,7 +8,7 @@ const Resume = () => (
     <ul className="timeline">
 
     <li>
-          <div className="timeline-badge"><i className="fa fa-laptop-code resume-icons"></i></div>
+          <div className="timeline-badge"><i className="fa fa-laptop resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">Software Tester - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
