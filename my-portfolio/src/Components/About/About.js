@@ -1,5 +1,5 @@
 import React from 'react';
-import Mirza from '../../../src/Images/MotMirza.png';
+import Mirza from '../../../src/Images/MotMirza.jpg';
 
 const About = () => (
 	<div id="aboutwrap" className="container">
