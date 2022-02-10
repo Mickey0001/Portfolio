@@ -62,7 +62,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-search resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Manual QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
+              <h4 className="timeline-title">Junior QA Tester - <a href="http://www.learninglibrary.com/education" target="_blank" rel="noopener noreferrer">Learning Library</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
