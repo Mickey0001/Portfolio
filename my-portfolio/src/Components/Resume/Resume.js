@@ -15,7 +15,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January  2022 - Current</small></p>
             <div className="timeline-body">
-              <p>Working closely with the PO and SM to improve the testing process.Validating new user stories, reporting defects, conducting exploratory testing.Contributing to UI automation. Doing back-end GrapQL testing.</p>
+              <p>Working closely with the PO and SM to improve the testing process, creating new user stories and improvement suggestions. Validating new user functionalities, reporting defects, and conducting exploratory testing. Doing back-end GrapQL testing.</p>
             </div>
           </div>
         </li>
@@ -28,7 +28,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>February  2021 - December 2021</small></p>
             <div className="timeline-body">
-              <p>Taking part in establishing testing process on new projects from scratch. Working closely with the developers, as the company is using Domain Driver Design and Test Driven Development. Collaborating with multiple teams to standardize testing on the company level. Writing testing documentation: policies, strategies, master and project level test plans. Doing a lot of API testing, both manual and automated. Pair programming with the developers in designing and developing an API end-to-end testing framework.</p>
+              <p>Working in a Domain Driver Design and Test-Driven Development environment. Improving the Testing processes on a new project. Writing testing documentation, and performing UI and API testing.</p>
             </div>
           </div>
         </li>
@@ -41,8 +41,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January 2019 - February 2021</small></p>
             <div className="timeline-body">
-              <p>
-              I worked in several teams, mainly doing functional end-to-end testing of web and mobile apps for the first few months. Later, I was in a production support team, triaging new tickets, checking logs, using SQL, reporting bugs, etc.</p>
+              <p>Functional end-to-end testing of web and mobile apps. Analysis and validation of new user stories. Design, execution, and maintenance of test cases. Member of a production support team, triaging new tickets, checking logs, using SQL, reporting bugs, mentoring new team members.</p>
             </div>
           </div>
         </li>
@@ -54,7 +53,7 @@ const Resume = () => (
               <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - January 2019</small></p>
             </div>
             <div className="timeline-body">
-              <p>I made a few websites for local clients and did some freelancing on Upwork as well. Mostly part-time front-end gigs, HTML, CSS, BootStrap, WordPress, jQuery, React, and PHP. Fore more details, you can check my Upwrok profile <a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer" role="button">here</a>.</p>
+              <p>Freelance front-end gigs, related mostly to WordPress. You can check my Upwrok profile <a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer" role="button">here</a>.</p>
             </div>
           </div>
         </li>
@@ -66,7 +65,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
-              <p>Testing company's online courses and over 50 web portals, reporting found issues. During this time I become very comfortable with using Chrome Developer tools, Browserstack, Wrike and Jira project management products.</p>
+              <p>Testing company's online courses and over 50 web portals, reporting found issues.  Using Browserstack for cross-browser testing, Wrike, and Jira for defect management.</p>
             </div>
           </div>
         </li>
@@ -78,7 +77,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> October 2014 - April 2017 </small></p>
             <div className="timeline-body">
-              <p>Providing tech support for the customers, over chat, email, phone, and remote desktop. Later on, I was also tasked with making monthly ticket reports, training new team members and handling high-priority issues reported by the client.</p>
+              <p>Providing tech support for the customers, over chat, email, phone, and remote desktop. Composing monthly ticket reports, handling urgent client issues, and training new members of the support team.</p>
             </div>
           </div>
         </li>
