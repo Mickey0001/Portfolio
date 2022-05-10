@@ -25,7 +25,7 @@ const Projects = () => (
           <img className="img-responsive project" src={LeadershipLessons} alt="Lessons Learned About Leadership, From Perspective Of An Aspiring Leader - For testers trying to get into Team Lead or similar roles, article by Mirza Sisic" />
           <div className="caption">
             <h3>Lessons Learned About Leadership, From Perspective Of An Aspiring Leader</h3>
-            <p className="DarkGreyHeading">Ministry of Testing - The Testing Planet 2021</p>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
             <span className="spacer"></span>
             <p><a href="https://www.ministryoftesting.com/dojo/lessons/lessons-learned-about-leadership-from-perspective-of-an-aspiring-leader" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
           </div>
@@ -37,7 +37,7 @@ const Projects = () => (
           <img className="img-responsive project" src={ExploratoryTools} alt="Software Tools For Easy, Effective Exploratory Testing, article by Mirza Sisic" />
           <div className="caption">
             <h3>Software Tools <br /> For Easy, Effective Exploratory Testing</h3><br />
-            <p className="DarkGreyHeading">Ministry of Testing - The Testing Planet 2021</p><br />
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p><br />
 
             <p><a href="https://www.ministryoftesting.com/dojo/lessons/software-tools-for-easy-effective-exploratory-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
           </div>
@@ -49,7 +49,7 @@ const Projects = () => (
           <img className="img-responsive project" src={MisconceptionsExploratory} alt="Common Misconceptions About Exploratory Testing - article" />
           <div className="caption">
             <h3>Common Misconceptions About Exploratory Testing</h3>
-            <p className="DarkGreyHeading">Ministry of Testing - The Testing Planet 2021</p>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
             <span className="spacer"></span>
             <p><a href="https://www.ministryoftesting.com/dojo/lessons/common-misconceptions-about-exploratory-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
           </div>
@@ -61,7 +61,7 @@ const Projects = () => (
           <img className="img-responsive project" src={TestingAMA} alt="Testing Ask Me Anything - Testing Tools with Mirza Sisic" />
           <div className="caption">
             <h3>Testing Ask Me Anything - Testing Tools with Mirza Sisic</h3>
-            <p className="DarkGreyHeading">Ministry of Testing - Testing Ask Me Anything</p>
+            <p className="DarkGreyHeading">MoT - Testing AMA</p>
             <span className="spacer"></span>
             <p><a href="https://www.ministryoftesting.com/dojo/lessons/testing-ask-me-anything-testing-tools-with-mirza-sisic" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the recording</a></p>
           </div>
@@ -88,7 +88,7 @@ const Projects = () => (
           <h3>Challenges in Testing Legacy Systems</h3>
           <p className="DarkGreyHeading">TestProject - Blog Article</p>
           <span className="spacer"></span>
-          <p><a href="https://blog.testproject.io/2021/08/16/challenges-in-testing-legacy-systems/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          <p><a href="https://blog.testproject.io/08/16/challenges-in-testing-legacy-systems/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@ const Projects = () => (
         <img className="img-responsive project" src={OrganizingYourVeryOwnTestingMeetup} alt="Organizing Your Very Own Testing Meetup - article" />
         <div className="caption">
           <h3>Organizing Your Very Own Testing Meetup</h3>
-          <p className="DarkGreyHeading">Ministry of Testing - The Testing Planet 2022</p>
+          <p className="DarkGreyHeading">MoT - The Testing Planet</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/dojo/lessons/organizing-your-very-own-testing-meetup" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
@@ -107,10 +107,10 @@ const Projects = () => (
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={ModernTestingBestPractices} alt="Modern Testing Best Practices with Venkat Ramakrishnan - online meetup" />
+        <img className="img-responsive project" src={ModernTestingBestPractices} alt="Modern Testing Best Practices with Venkat Ramakrishnan - meetup" />
         <div className="caption">
           <h3>Modern Testing Best Practices</h3>
-          <p className="DarkGreyHeading">Ministry of Testing Sarajevo - Online Meetup</p>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/dojo/lessons/organizing-your-very-own-testing-meetup" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
@@ -119,10 +119,10 @@ const Projects = () => (
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={TheRoleOfQaInSoftwareDevelopment} alt="The role of QA in software development with Velibor Mandžo - online meetup" />
+        <img className="img-responsive project" src={TheRoleOfQaInSoftwareDevelopment} alt="The role of QA in software development with Velibor Mandžo - meetup" />
         <div className="caption">
-          <h3>The role of QA in software development</h3>
-          <p className="DarkGreyHeading">Ministry of Testing Sarajevo - Online Meetup</p>
+          <h3>QA role in Software Development</h3>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/dojo/series/meetups/lessons/the-role-of-qa-in-software-development" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
@@ -131,10 +131,10 @@ const Projects = () => (
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={MotSarajevo1} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - online meetup" />
+        <img className="img-responsive project" src={MotSarajevo1} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
         <div className="caption">
           <h3>MoT Sarajevo's First Meetup</h3>
-          <p className="DarkGreyHeading">Ministry of Testing Sarajevo - Online Meetup</p>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/dojo/series/meetups/lessons/mot-sarajevo-s-first-meetup" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
@@ -143,22 +143,22 @@ const Projects = () => (
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - online meetup" />
+        <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
         <div className="caption">
-          <h3>Open Discussion ISTQB Certification: where to start?</h3>
-          <p className="DarkGreyHeading">Ministry of Testing Sarajevo - Online Meetup</p>
+          <h3>ISTQB Certification: where to start?</h3>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
-          <p><a href="https://www.ministryoftesting.com/dojo/series/meetups/lessons/mot-sarajevo-s-first-meetup" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
       </div>
     </div>
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={GeekleModerationCert} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - online meetup" />
+        <img className="img-responsive project" src={GeekleModerationCert} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
         <div className="caption">
           <h3>QA Global Summit 2022</h3>
-          <p className="DarkGreyHeading">Geekle - Online Conference</p>
+          <p className="DarkGreyHeading">Geekle - Conference</p>
           <span className="spacer"></span>
           <p><a href="https://youtu.be/RVDXWiqFX0M?t=594" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>

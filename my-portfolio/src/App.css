@@ -267,6 +267,10 @@
     padding-top: 100px;
     margin-top: -50px;
    }
+   .project{
+    height: 150px !important;
+    width: 100%;
+   }
    .ClientImage {
      height: 100px;
      width: 100px;
