@@ -148,7 +148,7 @@ const Projects = () => (
           <h3>ISTQB Certification: where to start?</h3>
           <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
-          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Recording Unavailable</a></p>
         </div>
       </div>
     </div>
