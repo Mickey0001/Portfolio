@@ -11,6 +11,8 @@ import TheRoleOfQaInSoftwareDevelopment from '../../../src/Images/TheRoleOfQaInS
 import MotSarajevo1 from '../../../src/Images/MotSarajevo1.jpg';
 import iSQI from '../../../src/Images/iSQI.jpg';
 import GeekleModerationCert from '../../../src/Images/GeekleModerationCert.png';
+import TestBashCareers from '../../../src/Images/TestBashCareers.jpg';
+
 
 
 
@@ -161,6 +163,18 @@ const Projects = () => (
           <p className="DarkGreyHeading">Geekle - Conference</p>
           <span className="spacer"></span>
           <p><a href="https://youtu.be/RVDXWiqFX0M?t=594" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={TestBashCareers} alt="How to Market Yourself Better as a Software Tester - online conference presentation with Q and A" />
+        <div className="caption">
+          <h3>TestBash Careers</h3>
+          <p className="DarkGreyHeading">MoT - Conference</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.ministryoftesting.com/events/testbash-careers-2022" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
       </div>
     </div>
