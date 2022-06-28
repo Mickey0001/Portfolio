@@ -8,6 +8,19 @@ const Resume = () => (
     <ul className="timeline">
 
     <li>
+          <div className="timeline-badge"><i className="fa fa-infinity resume-icons"></i></div>
+          <div className="timeline-panel">
+            <div className="timeline-heading">
+              <h4 className="timeline-title">Founder - <a href="/" target="_blank" rel="noopener noreferrer">TestOps</a></h4>
+            </div>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - Current</small></p>
+            <div className="timeline-body">
+              <p>Consulting agency providing testing-as-a-service (TaaS) and DevOps consulting services to our clients.</p>
+            </div>
+          </div>
+        </li>
+
+    <li>
           <div className="timeline-badge"><i className="fa fa-laptop resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
