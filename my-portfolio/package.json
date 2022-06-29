@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "ajv": "^6.5.4",
+    "cli": "^1.0.1",
     "cypress": "^7.5.0",
+    "firebase": "^9.8.4",
     "firebase-cli": "^1.2.0",
     "react": "^16.5.2",
     "react-bootstrap": "^0.32.4",

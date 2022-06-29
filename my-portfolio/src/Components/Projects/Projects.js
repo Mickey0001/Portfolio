@@ -12,7 +12,8 @@ import MotSarajevo1 from '../../../src/Images/MotSarajevo1.jpg';
 import iSQI from '../../../src/Images/iSQI.jpg';
 import GeekleModerationCert from '../../../src/Images/GeekleModerationCert.png';
 import TestBashCareers from '../../../src/Images/TestBashCareers.jpg';
-
+import TestBashWorldSarajevoWatchParty from '../../../src/Images/TestBashWorldSarajevoWatchParty.jpeg';
+import AutomationForJuniorTesters from '../../../src/Images/AutomationForJuniorTesters.png';
 
 
 
@@ -175,6 +176,30 @@ const Projects = () => (
           <p className="DarkGreyHeading">MoT - Conference</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/events/testbash-careers-2022" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={TestBashWorldSarajevoWatchParty} alt="Ministry of Testing Sarajevo Watch Party for TestBash World conference" />
+        <div className="caption">
+          <h3>Watch Party</h3>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.meetup.com/ministry-of-testing-sarajevo/events/286438226/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={AutomationForJuniorTesters} alt="Understanding what is required to start with test automation for junior testers" />
+        <div className="caption">
+          <h3>Test Automation</h3>
+          <p className="DarkGreyHeading">LambdaTest - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.lambdatest.com/blog/?s=Understanding+what+is+required+to+start+with+test+automation+for+junior+testers" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div>
