@@ -37,7 +37,7 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-laptop resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Software Tester - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
+              <h4 className="timeline-title">QA Lead - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January  2022 - Current</small></p>
             <div className="timeline-body">
