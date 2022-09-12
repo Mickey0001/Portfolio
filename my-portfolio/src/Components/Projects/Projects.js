@@ -14,7 +14,7 @@ import GeekleModerationCert from '../../../src/Images/GeekleModerationCert.png';
 import TestBashCareers from '../../../src/Images/TestBashCareers.jpg';
 import TestBashWorldSarajevoWatchParty from '../../../src/Images/TestBashWorldSarajevoWatchParty.jpeg';
 import AutomationForJuniorTesters from '../../../src/Images/AutomationForJuniorTesters.png';
-
+import MakeE2eTestingEasierWithTheRightTools from '../../../src/Images/MakeE2eTestingEasierWithTheRightTools.png';
 
 
 const Projects = () => (
@@ -200,6 +200,18 @@ const Projects = () => (
           <p className="DarkGreyHeading">LambdaTest - Blog</p>
           <span className="spacer"></span>
           <p><a href="https://www.lambdatest.com/blog/?s=Understanding+what+is+required+to+start+with+test+automation+for+junior+testers" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>E2E Testing</h3>
+          <p className="DarkGreyHeading">LambdaTest - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.lambdatest.com/blog/make-e2e-testing-easier/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div>

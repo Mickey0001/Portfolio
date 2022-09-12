@@ -34,7 +34,7 @@ const Resume = () => (
         </li>
 
     <li>
-          <div className="timeline-badge"><i className="fa fa-laptop resume-icons"></i></div>
+          <div className="timeline-badge"><i className="fa fa-fwfa-laptop resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
               <h4 className="timeline-title">QA Lead - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
@@ -42,6 +42,19 @@ const Resume = () => (
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January  2022 - Current</small></p>
             <div className="timeline-body">
               <p>Working closely with the PO and SM to improve the testing process, creating new user stories and improvement suggestions. Validating new user functionalities, reporting defects, and conducting exploratory testing. Doing back-end GrapQL testing.</p>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div className="timeline-badge"><i className="fa fa-mobile resume-icons"></i></div>
+          <div className="timeline-panel">
+            <div className="timeline-heading">
+              <h4 className="timeline-title">QA Consultant - <a href="https://snappmobile.io/" target="_blank" rel="noopener noreferrer">SnappMobile</a></h4>
+            </div>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - Jukly 2021</small></p>
+            <div className="timeline-body">
+              <p>Helping out with mobile testing, on a part-time freelance basis.</p>
             </div>
           </div>
         </li>
