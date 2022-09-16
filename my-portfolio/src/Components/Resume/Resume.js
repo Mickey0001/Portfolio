@@ -15,7 +15,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - Current</small></p>
             <div className="timeline-body">
-              <p>A team comprised of senior testers, using BDD and a shift-left approach to testing.</p>
+              <p>Fintech project, the teams are using BDD and a shift-left approach to testing.</p>
             </div>
           </div>
         </li>
@@ -28,7 +28,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - Current</small></p>
             <div className="timeline-body">
-              <p>Consulting agency providing testing-as-a-service (TaaS) and DevOps consulting services to our clients.</p>
+              <p>Consulting agency providing testing-as-a-service (TaaS) and DevOps services.</p>
             </div>
           </div>
         </li>
@@ -37,11 +37,11 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-fwfa-laptop resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">QA Lead - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
+              <h4 className="timeline-title">Lead QA - <a href="https://comberry.com" target="_blank" rel="noopener noreferrer">Comberry Studios</a></h4>
             </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>January  2022 - Current</small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>July  2021 - September 2022</small></p>
             <div className="timeline-body">
-              <p>Working closely with the PO and SM to improve the testing process, creating new user stories and improvement suggestions. Validating new user functionalities, reporting defects, and conducting exploratory testing. Doing back-end GrapQL testing.</p>
+              <p>Improving the testing process, creating new user stories, and improvement suggestions. Validating new user functionalities, reporting defects, and conducting exploratory testing. Doing back-end GrapQL testing.</p>
             </div>
           </div>
         </li>
@@ -52,7 +52,7 @@ const Resume = () => (
             <div className="timeline-heading">
               <h4 className="timeline-title">QA Consultant - <a href="https://snappmobile.io/" target="_blank" rel="noopener noreferrer">SnappMobile</a></h4>
             </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - Jukly 2021</small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>June  2022 - July 2022</small></p>
             <div className="timeline-body">
               <p>Helping out with mobile testing, on a part-time freelance basis.</p>
             </div>
@@ -65,9 +65,9 @@ const Resume = () => (
             <div className="timeline-heading">
               <h4 className="timeline-title">Software QA Engineer - <a href="https://tacta.io" target="_blank" rel="noopener noreferrer">Tacta</a></h4>
             </div>
-            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>February  2021 - December 2021</small></p>
+            <p><small className="text-muted"><i className="fa fa-calendar-o"></i>February  2021 - December 2022</small></p>
             <div className="timeline-body">
-              <p>Working in a Domain Driver Design and Test-Driven Development environment. Improving the Testing processes on a new project. Writing testing documentation, and performing UI and API testing.</p>
+              <p>Domain Driven Design and Test-Driven Development environment. Improving the Testing processes on a new project. Writing testing documentation, and performing UI and API testing.</p>
             </div>
           </div>
         </li>
@@ -88,11 +88,11 @@ const Resume = () => (
           <div className="timeline-badge"><i className="fa fa-code resume-icons"></i></div>
           <div className="timeline-panel">
             <div className="timeline-heading">
-              <h4 className="timeline-title">Web Developer - <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer">Freelance</a></h4>
-              <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - January 2019</small></p>
+              <h4 className="timeline-title">Freelance QA Consultant - <a href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer">Freelance</a></h4>
+              <p><small className="text-muted"><i className="fa fa-calendar-o"></i> September 2017 - Current </small></p>
             </div>
             <div className="timeline-body">
-              <p>Freelance front-end gigs, related mostly to WordPress. You can check my Upwrok profile <a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer" role="button">here</a>.</p>
+              <p>Occasional QA consulting for short projects, if they're interesting. You can check my Upwrok profile <a href="https://www.upwork.com/freelancers/~01a70d936afbbff30e" target="_blank" rel="noopener noreferrer" role="button">here</a>.</p>
             </div>
           </div>
         </li>
@@ -104,7 +104,7 @@ const Resume = () => (
             </div>
             <p><small className="text-muted"><i className="fa fa-calendar-o"></i> April 2017 - January 2019</small></p>
             <div className="timeline-body">
-              <p>Testing company's online courses and over 50 web portals, reporting found issues.  Using Browserstack for cross-browser testing, Wrike, and Jira for defect management.</p>
+              <p>Testing company's online courses and web portals, reporting found issues. Uing Browserstack for cross-browser testing, Wrike, and Jira for defect management.</p>
             </div>
           </div>
         </li>
