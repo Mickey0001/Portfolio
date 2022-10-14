@@ -391,7 +391,7 @@ deploy
 lib
 test-results
 package
-images
+#images
 MockAssemblyResult.xml
 PortabilityAnalysis*.html
 project.lock.json
