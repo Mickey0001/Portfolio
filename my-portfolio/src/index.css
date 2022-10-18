@@ -3,3 +3,9 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
