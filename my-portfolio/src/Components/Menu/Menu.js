@@ -1,9 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Logo from "../../../src/Images/MirzaLogo.png";
-import { Navbar, Nav, NavItem } from "react-bootstrap";
-
-const externalLink = "https://juniorlearnstocode.blogspot.ba";
+import { Navbar, Nav } from "react-bootstrap";
 
 const Menu = () => (
   <Navbar inverse fixedTop collapseOnSelect>
@@ -17,24 +15,14 @@ const Menu = () => (
     </Navbar.Header>
     <Navbar.Collapse>
       <Nav pullRight>
-        <NavItem>
-          <Link to="/">Home</Link>
-        </NavItem>
-        <NavItem>
-          <Link to="/about">About</Link>
-        </NavItem>
-        <NavItem>
-          <Link to="/resume">Resume</Link>
-        </NavItem>
-        <NavItem>
-          <Link to="/activities">Activities</Link>
-        </NavItem>
-        <NavItem>
-          <Link to="/contact">Contact</Link>
-        </NavItem>
-        <NavItem href={externalLink} target="_blank" rel="noopener noreferrer">
+        <Link to="/">Home</Link>
+        <Link to="/about">About</Link>
+        <Link to="/resume">Resume</Link>
+        <Link to="/activities">Activities</Link>
+        <Link to="/contact">Contact</Link>
+        <a target="_blank" href="https://juniorlearnstocode.blogspot.ba">
           Blog
-        </NavItem>
+        </a>
       </Nav>
     </Navbar.Collapse>
   </Navbar>
