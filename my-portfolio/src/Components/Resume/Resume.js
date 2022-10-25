@@ -69,39 +69,6 @@ const Resume = () => (
 
           <li>
             <div className="timeline-badge">
-              <i className="fa fa-fwfa-laptop resume-icons"></i>
-            </div>
-            <div className="timeline-panel">
-              <div className="timeline-heading">
-                <h4 className="timeline-title">
-                  Lead QA -{" "}
-                  <a
-                    href="https://comberry.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Comberry Studios
-                  </a>
-                </h4>
-              </div>
-              <p>
-                <small className="text-muted">
-                  <i className="fa fa-calendar-o"></i>July 2021 - September 2022
-                </small>
-              </p>
-              <div className="timeline-body">
-                <p>
-                  Improving the testing process, creating new user stories, and
-                  improvement suggestions. Validating new user functionalities,
-                  reporting defects, and conducting exploratory testing. Doing
-                  back-end GrapQL testing.
-                </p>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div className="timeline-badge">
               <i className="fa fa-mobile resume-icons"></i>
             </div>
             <div className="timeline-panel">
@@ -131,6 +98,68 @@ const Resume = () => (
             </div>
           </li>
 
+          <li>
+            <div className="timeline-badge">
+              <i className="fa fa-book resume-icons"></i>
+            </div>
+            <div className="timeline-panel">
+              <div className="timeline-heading">
+                <h4 className="timeline-title">
+                  Content Writer -{" "}
+                  <a
+                    href="https://www.lambdatest.com/blog/author/mirzasisictester"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    LambdaTest
+                  </a>
+                </h4>
+              </div>
+              <p>
+                <small className="text-muted">
+                  <i className="fa fa-calendar-o"></i>June 2022 - Present
+                </small>
+              </p>
+              <div className="timeline-body">
+                <p>
+                  Writing articles about software testing for the LambdaTest blog.
+                </p>
+              </div>
+            </div>
+          </li>
+
+          <li>
+            <div className="timeline-badge">
+              <i className="fa fa-laptop resume-icons"></i>
+            </div>
+            <div className="timeline-panel">
+              <div className="timeline-heading">
+                <h4 className="timeline-title">
+                  Lead QA -{" "}
+                  <a
+                    href="https://comberry.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Comberry Studios
+                  </a>
+                </h4>
+              </div>
+              <p>
+                <small className="text-muted">
+                  <i className="fa fa-calendar-o"></i>July 2021 - September 2022
+                </small>
+              </p>
+              <div className="timeline-body">
+                <p>
+                  Improving the testing process, creating new user stories, and
+                  improvement suggestions. Validating new user functionalities,
+                  reporting defects, and conducting exploratory testing. Doing
+                  back-end GrapQL testing.
+                </p>
+              </div>
+            </div>
+          </li>
           <li>
             <div className="timeline-badge">
               <i className="fa fa-bug resume-icons"></i>
