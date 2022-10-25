@@ -15,6 +15,12 @@ import TestBashCareers from '../../../src/Images/TestBashCareers.jpg';
 import TestBashWorldSarajevoWatchParty from '../../../src/Images/TestBashWorldSarajevoWatchParty.jpeg';
 import AutomationForJuniorTesters from '../../../src/Images/AutomationForJuniorTesters.png';
 import MakeE2eTestingEasierWithTheRightTools from '../../../src/Images/MakeE2eTestingEasierWithTheRightTools.png';
+import TwitterSpaceLetsExploreBDD from '../../../src/Images/TwitterSpaceLetsExploreBDD.png';
+import Testival2022 from '../../../src/Images/Testival2022.png';
+import SarajevoQaCrewIstqMeetup from '../../../src/Images/SarajevoQaCrewIstqMeetup.png';
+import ExploreAgileSpikesShiftLeftBdd from '../../../src/Images/ExploreAgileSpikesShiftLeftBdd.png';
+import MirzaAgileBosniaDays from '../../../src/Images/MirzaAgileBosniaDays.jpg';
+import bddMeme from '../../../src/Images/bddMeme.jpg';
 
 
 const Projects = () => (
@@ -424,6 +430,105 @@ const Projects = () => (
       </div>
     </div>
 
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={TwitterSpaceLetsExploreBDD} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>Explore BDD</h3>
+          <p className="DarkGreyHeading">MoT - Twitter Spaces</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.ministryoftesting.com/events/twitter-space-let-s-explore-bdd-with-co-hosts-mirza-sisic-and-simon-tomes" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={Testival2022} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>Keynote Speech</h3>
+          <p className="DarkGreyHeading">Testival - Conference</p>
+          <span className="spacer"></span>
+          <p><a href="https://testival.eu/testival-osijek-2022-sponsors-and-speakers/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={ExploreAgileSpikesShiftLeftBdd} alt="Let us Explore how Agile Architecture Spikes are used in Shift-Left Behavior Driven Development" />
+        <div className="caption">
+          <h3>Agile Spikes in BDD</h3>
+          <p className="DarkGreyHeading">LambdaTest - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.lambdatest.com/blog/agile-architecture-spikes-in-shift-left-bdd" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={MirzaAgileBosniaDays} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>Agile Testing</h3>
+          <p className="DarkGreyHeading">Agile Day - Conference</p>
+          <span className="spacer"></span>
+          <p><a href="https://conference.agile.ba/en/lectures/145/modern-testing-principles-natural-evolution-of-agile-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+        </div>
+      </div>
+    </div>
+    
+   {/* 
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={bddMeme} alt="Modern Testing trough BDD" />
+        <div className="caption">
+          <h3>Modern Testing trough BDD</h3>
+          <p className="DarkGreyHeading">Software Testing Board - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://softwaretestingboard.com/blogs/modern-testing-trough-bdd/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+
+ 
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>Utilizing a Product Owner with a Tester background to improve testing and promote quality</h3>
+          <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+          <span className="spacer"></span>
+          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>How to start freelancing and contracting, for software testers</h3>
+          <p className="DarkGreyHeading">Nicola Lindgren - YouTube</p>
+          <span className="spacer"></span>
+          <p><a href="https://conference.agile.ba/en/lectures/145/modern-testing-principles-natural-evolution-of-agile-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <div className="caption">
+          <h3>Freelancing for QAs</h3>
+          <p className="DarkGreyHeading">LambdaTest - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://testival.eu/testival-osijek-2022-sponsors-and-speakers/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div> 
+     */}
     </div>
   </div>
 );

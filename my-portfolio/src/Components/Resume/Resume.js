@@ -160,6 +160,7 @@ const Resume = () => (
               </div>
             </div>
           </li>
+          
           <li>
             <div className="timeline-badge">
               <i className="fa fa-bug resume-icons"></i>
