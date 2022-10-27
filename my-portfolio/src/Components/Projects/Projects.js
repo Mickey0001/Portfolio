@@ -21,7 +21,8 @@ import SarajevoQaCrewIstqMeetup from '../../../src/Images/SarajevoQaCrewIstqMeet
 import ExploreAgileSpikesShiftLeftBdd from '../../../src/Images/ExploreAgileSpikesShiftLeftBdd.png';
 import MirzaAgileBosniaDays from '../../../src/Images/MirzaAgileBosniaDays.jpg';
 import bddMeme from '../../../src/Images/bddMeme.jpg';
-
+import TactaJavaBlog from '../../../src/Images/TactaJavaBlog.png';
+import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
 
 const Projects = () => (
   <div className="container">
@@ -237,7 +238,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/dojo/lessons/organizing-your-very-own-testing-meetup"
+                href="https://www.crowdcast.io/e/mot-sarajevo-3"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -309,7 +310,7 @@ const Projects = () => (
           <h3>ISTQB Certification: where to start?</h3>
           <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
           <span className="spacer"></span>
-          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Recording Unavailable</a></p>
+          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" disabled type="button" role="button">Recording Unavailable</a></p>
         </div>
       </div>
     </div>
@@ -379,7 +380,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/286438226/"
+                href="https://www.ministryoftesting.com/dojo/series/testbash-world-2022"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -477,14 +478,13 @@ const Projects = () => (
         </div>
       </div>
     </div>
-    
-   {/* 
+
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
         <img className="img-responsive project" src={bddMeme} alt="Modern Testing trough BDD" />
         <div className="caption">
-          <h3>Modern Testing trough BDD</h3>
-          <p className="DarkGreyHeading">Software Testing Board - Blog</p>
+          <h3>MTP and BDD</h3>
+          <p className="DarkGreyHeading">STB - Blog</p>
           <span className="spacer"></span>
           <p><a href="https://softwaretestingboard.com/blogs/modern-testing-trough-bdd/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
@@ -495,36 +495,38 @@ const Projects = () => (
  
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <img className="img-responsive project" src={TactaJavaBlog} alt="Tacta Academy: How I started coding & finding myself as Quality Assurance Engineer" />
         <div className="caption">
-          <h3>Utilizing a Product Owner with a Tester background to improve testing and promote quality</h3>
+          <h3>Java and QA</h3>
+          <p className="DarkGreyHeading">Tacta - Blog</p>
+          <span className="spacer"></span>
+          <p><a href="https://tacta.io/en/news/tacta-academy-how-i-started-coding-finding-myself-as-quality-assurance-engineer/17" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
+        <div className="caption">
+          <h3>PO Tester</h3>
           <p className="DarkGreyHeading">MoT - The Testing Planet</p>
           <span className="spacer"></span>
-          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          <p><a href="https://www.ministryoftesting.com/dojo/lessons/how-product-owners-with-testing-experience-can-promote-quality" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
         </div>
       </div>
     </div>
+    
+   {/* 
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+        <img className="img-responsive project" src={} alt="Make e2e " />
         <div className="caption">
-          <h3>How to start freelancing and contracting, for software testers</h3>
-          <p className="DarkGreyHeading">Nicola Lindgren - YouTube</p>
-          <span className="spacer"></span>
-          <p><a href="https://conference.agile.ba/en/lectures/145/modern-testing-principles-natural-evolution-of-agile-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
-        </div>
-      </div>
-    </div>
-
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
-        <div className="caption">
-          <h3>Freelancing for QAs</h3>
+          <h3></h3>
           <p className="DarkGreyHeading">LambdaTest - Blog</p>
           <span className="spacer"></span>
-          <p><a href="https://testival.eu/testival-osijek-2022-sponsors-and-speakers/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div> 

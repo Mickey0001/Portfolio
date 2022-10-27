@@ -293,7 +293,7 @@ const Resume = () => (
               <div className="timeline-body">
                 <p>
                   Testing company's online courses and web portals, reporting
-                  found issues. Uing Browserstack for cross-browser testing,
+                  found issues. Using Browserstack for cross-browser testing,
                   Wrike, and Jira for defect management.
                 </p>
               </div>
