@@ -7,8 +7,8 @@ const Header = () => (
 				<div className="col-lg-6 col-lg-offset-3">
 					<h4 className="GreyHeading">Greetings and salutations, my name is</h4>
 					<h1>Mirza Šišić</h1>
-					<h4 className="GreyHeading">Software Tester | Community Leader | Meme Lord</h4>
-					<p className="GreyHeading"><em>Living in the beautiful city of Sarajevo</em></p>
+					<h4 className="GreyHeading">Tester | Blogger | Memer</h4>
+					<p className="GreyHeading"><em>Living and working in the city of Sarajevo</em></p>
 				</div>
 			</div>
 	    </div> 
