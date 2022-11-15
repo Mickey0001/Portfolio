@@ -406,7 +406,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.lambdatest.com/blog/?s=Understanding+what+is+required+to+start+with+test+automation+for+junior+testers"
+                href="https://www.lambdatest.com/blog/automation-for-junior-testers/"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
