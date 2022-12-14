@@ -30,6 +30,9 @@ const Contact = () => (
                             <div>
 								<a className="social-icons" title="Facebook" href="https://www.facebook.com/juniorlearnstocode/" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook fa-2x"></i></a>
 							</div>
+							<div>
+								<a className="social-icons" title="Pinterest" href="https://www.pinterest.com/mirzasisic57/my-blog-posts" target="_blank" rel="noopener noreferrer"><i className="fa fa-pinterest fa-2x"></i></a>
+							</div>
                     </div>
 	</div>
 );
