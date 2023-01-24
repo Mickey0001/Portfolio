@@ -23,6 +23,7 @@ import MirzaAgileBosniaDays from '../../../src/Images/MirzaAgileBosniaDays.jpg';
 import bddMeme from '../../../src/Images/bddMeme.jpg';
 import TactaJavaBlog from '../../../src/Images/TactaJavaBlog.png';
 import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
+import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePodcast.jpg';
 
 const Projects = () => (
   <div className="container">
@@ -513,6 +514,19 @@ const Projects = () => (
           <p className="DarkGreyHeading">MoT - The Testing Planet</p>
           <span className="spacer"></span>
           <p><a href="https://www.ministryoftesting.com/dojo/lessons/how-product-owners-with-testing-experience-can-promote-quality" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={TestshpereRoulettePodcast} alt="TestSphere Roulette Episode 14 - Lena Pejgan Wiberg and Mirza Sisic. 
+            Ministry Of Testing Software Testing / QA Podcast" />
+        <div className="caption">
+          <h3>TestSphere Roulette</h3>
+          <p className="DarkGreyHeading">MoT - Podcast</p>
+          <span className="spacer"></span>
+          <p><a href="https://soundcloud.com/ministryoftesting/1-testsphere-roulette-episode-14-lena-pejgan-wiberg-and-mirza-sisic" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Podcast Recording</a></p>
         </div>
       </div>
     </div>
