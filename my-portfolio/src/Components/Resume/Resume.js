@@ -105,7 +105,7 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  Content Writer -{" "}
+                  Technical Writer -{" "}
                   <a
                     href="https://www.lambdatest.com/blog/author/mirzasisictester"
                     target="_blank"
