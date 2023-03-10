@@ -17,13 +17,14 @@ import AutomationForJuniorTesters from '../../../src/Images/AutomationForJuniorT
 import MakeE2eTestingEasierWithTheRightTools from '../../../src/Images/MakeE2eTestingEasierWithTheRightTools.png';
 import TwitterSpaceLetsExploreBDD from '../../../src/Images/TwitterSpaceLetsExploreBDD.png';
 import Testival2022 from '../../../src/Images/Testival2022.png';
-import SarajevoQaCrewIstqMeetup from '../../../src/Images/SarajevoQaCrewIstqMeetup.png';
+import SarajevoQaCrewMeetup from '../../../src/Images/SarajevoQaCrewMeetup.jpg';
 import ExploreAgileSpikesShiftLeftBdd from '../../../src/Images/ExploreAgileSpikesShiftLeftBdd.png';
 import MirzaAgileBosniaDays from '../../../src/Images/MirzaAgileBosniaDays.jpg';
 import bddMeme from '../../../src/Images/bddMeme.jpg';
 import TactaJavaBlog from '../../../src/Images/TactaJavaBlog.png';
 import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
 import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePodcast.jpg';
+import TestBashSpringIanMirzaPokekon from '../../../src/Images/TestBashSpringIanMirzaPokekon.png';
 
 const Projects = () => (
   <div className="container">
@@ -52,7 +53,7 @@ const Projects = () => (
               <span className="spacer"></span>
               <p>
                 <a
-                  href="https://www.ministryoftesting.com/dojo/lessons/lessons-learned-about-leadership-from-perspective-of-an-aspiring-leader"
+                  href="https://www.ministryoftesting.com/articles/f0720cc9?s_id=14301141"
                   className="btn btn-default LightGreyBackground"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -82,7 +83,7 @@ const Projects = () => (
 
               <p>
                 <a
-                  href="https://www.ministryoftesting.com/dojo/lessons/software-tools-for-easy-effective-exploratory-testing"
+                  href="https://www.ministryoftesting.com/articles/113fa955?s_id=14301142"
                   className="btn btn-default LightGreyBackground"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -108,7 +109,7 @@ const Projects = () => (
               <span className="spacer"></span>
               <p>
                 <a
-                  href="https://www.ministryoftesting.com/dojo/lessons/common-misconceptions-about-exploratory-testing"
+                  href="https://www.ministryoftesting.com/articles/7bd1afdc?s_id=14301143"
                   className="btn btn-default LightGreyBackground"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -134,7 +135,7 @@ const Projects = () => (
               <span className="spacer"></span>
               <p>
                 <a
-                  href="https://www.ministryoftesting.com/dojo/lessons/testing-ask-me-anything-testing-tools-with-mirza-sisic"
+                  href="https://www.ministryoftesting.com/ask-me-anythings/607a3cd6?s_id=14301151"
                   className="btn btn-default LightGreyBackground"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -213,7 +214,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/dojo/lessons/organizing-your-very-own-testing-meetup"
+                href="https://www.ministryoftesting.com/articles/042e4019?s_id=14301152"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -265,7 +266,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/dojo/series/meetups/lessons/the-role-of-qa-in-software-development"
+                href="https://www.ministryoftesting.com/talks/e384569f?s_id=14301183"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -291,7 +292,7 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/dojo/series/meetups/lessons/mot-sarajevo-s-first-meetup"
+                href="https://www.ministryoftesting.com/talks/93d74186?s_id=14301185"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -513,7 +514,7 @@ const Projects = () => (
           <h3>PO Tester</h3>
           <p className="DarkGreyHeading">MoT - The Testing Planet</p>
           <span className="spacer"></span>
-          <p><a href="https://www.ministryoftesting.com/dojo/lessons/how-product-owners-with-testing-experience-can-promote-quality" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+          <p><a href="https://www.ministryoftesting.com/articles/2be3bc75?s_id=14301135" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div>
@@ -531,20 +532,58 @@ const Projects = () => (
       </div>
     </div>
     
-   {/* 
+   
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={} alt="Make e2e " />
+        <img className="img-responsive project" src={TestBashSpringIanMirzaPokekon} alt="Let's test the Pokemon API with REST and GraphQL" />
         <div className="caption">
-          <h3></h3>
-          <p className="DarkGreyHeading">LambdaTest - Blog</p>
+          <h3>TestBash Spring</h3>
+          <p className="DarkGreyHeading">MoT - Conference</p>
           <span className="spacer"></span>
-          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
         </div>
       </div>
     </div> 
-     */}
+
+    <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
+        <div className="caption">
+          <h3>Mobile Testing</h3>
+          <p className="DarkGreyHeading">SQ Mag - Article</p>
+          <span className="spacer"></span>
+          <p><a href="https://www.ministryoftesting.com/dojo/lessons/how-product-owners-with-testing-experience-can-promote-quality" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={SarajevoQaCrewMeetup}
+            alt="How to pass the ISTQB Foundation Level Certification Exam"
+          />
+          <div className="caption">
+            <h3>Pass ISTQB CTFL</h3>
+            <p className="DarkGreyHeading">QA Crew - Meetup</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.eventbrite.com/e/qa-meetup-lets-test-together-5-tickets-410034152187?fbclid=IwAR2xMiMgozNACGOIkpPFJwzVrSdHGKoKcFUGpBIrmI4wM6lE0CfqdUk90zo"
+                className="btn btn-default LightGreyBackground"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Open Link
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    
     </div>
   </div>
 );
