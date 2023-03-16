@@ -25,6 +25,8 @@ import TactaJavaBlog from '../../../src/Images/TactaJavaBlog.png';
 import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
 import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePodcast.jpg';
 import TestBashSpringIanMirzaPokekon from '../../../src/Images/TestBashSpringIanMirzaPokekon.png';
+import MobileTestingISQI from '../../../src/Images/MobileTestingISQI.jpg';
+
 
 const Projects = () => (
   <div className="container">
@@ -548,12 +550,12 @@ const Projects = () => (
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
-        <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
+        <img className="img-responsive project" src={MobileTestingISQI} alt="key factors to consider when testing mobile applications" />
         <div className="caption">
           <h3>Mobile Testing</h3>
-          <p className="DarkGreyHeading">SQ Mag - Article</p>
+          <p className="DarkGreyHeading">iSQI - Blog</p>
           <span className="spacer"></span>
-          <p><a href="https://www.ministryoftesting.com/dojo/lessons/how-product-owners-with-testing-experience-can-promote-quality" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          <p><a href="https://blog.isqi.org/key-factors-to-consider-when-testing-mobile-applications" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
     </div>
@@ -583,6 +585,7 @@ const Projects = () => (
           </div>
         </div>
       </div>
+      
     
     </div>
   </div>
