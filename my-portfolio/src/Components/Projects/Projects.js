@@ -26,6 +26,8 @@ import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
 import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePodcast.jpg';
 import TestBashSpringIanMirzaPokekon from '../../../src/Images/TestBashSpringIanMirzaPokekon.png';
 import MobileTestingISQI from '../../../src/Images/MobileTestingISQI.jpg';
+import BugRaptorsInterview from '../../../src/Images/BugRaptorsInterview.jpeg';
+
 
 
 const Projects = () => (
@@ -574,6 +576,32 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.eventbrite.com/e/qa-meetup-lets-test-together-5-tickets-410034152187?fbclid=IwAR2xMiMgozNACGOIkpPFJwzVrSdHGKoKcFUGpBIrmI4wM6lE0CfqdUk90zo"
+                className="btn btn-default LightGreyBackground"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Open Link
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BugRaptorsInterview}
+            alt="BugRaptors, Tech Talks With Mirza Sisic"
+          />
+          <div className="caption">
+            <h3>Tech Talk</h3>
+            <p className="DarkGreyHeading">BugRaptors - Interview</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.bugraptors.com/blog/tech-talks-with-mirza-sisic"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
