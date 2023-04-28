@@ -27,7 +27,7 @@ import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePod
 import TestBashSpringIanMirzaPokekon from '../../../src/Images/TestBashSpringIanMirzaPokekon.png';
 import MobileTestingISQI from '../../../src/Images/MobileTestingISQI.jpg';
 import BugRaptorsInterview from '../../../src/Images/BugRaptorsInterview.jpeg';
-
+import TestExecutionTime from '../../../src/Images/TestExecutionTime.jpeg';
 
 
 const Projects = () => (
@@ -104,32 +104,6 @@ const Projects = () => (
           <div className="thumbnail">
             <img
               className="img-responsive project"
-              src={MisconceptionsExploratory}
-              alt="Common Misconceptions About Exploratory Testing - article"
-            />
-            <div className="caption">
-              <h3>Common Misconceptions About Exploratory Testing</h3>
-              <p className="DarkGreyHeading">MoT - The Testing Planet</p>
-              <span className="spacer"></span>
-              <p>
-                <a
-                  href="https://www.ministryoftesting.com/articles/7bd1afdc?s_id=14301143"
-                  className="btn btn-default LightGreyBackground"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  role="button"
-                >
-                  Read the article
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-sm-6 col-md-3">
-          <div className="thumbnail">
-            <img
-              className="img-responsive project"
               src={TestingAMA}
               alt="Testing Ask Me Anything - Testing Tools with Mirza Sisic"
             />
@@ -151,30 +125,30 @@ const Projects = () => (
             </div>
           </div>
         </div>
-      </div>
 
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
-            src={ModernTestingPrinciples}
-            alt="Modern Testing Principles - blog article for TestProject, by Mirza Sisic"
-          />
-          <div className="caption">
-            <h3>Modern Testing Principles</h3>
-            <p className="DarkGreyHeading">TestProject - Blog Article</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://blog.testproject.io/2022/04/21/modern-testing-principles/"
-                className="btn btn-default LightGreyBackground"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Read the article
-              </a>
-            </p>
+        <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={MisconceptionsExploratory}
+              alt="Common Misconceptions About Exploratory Testing - article"
+            />
+            <div className="caption">
+              <h3>Common Misconceptions About Exploratory Testing</h3>
+              <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://www.ministryoftesting.com/articles/7bd1afdc?s_id=14301143"
+                  className="btn btn-default LightGreyBackground"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  Read the article
+                </a>
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -193,6 +167,32 @@ const Projects = () => (
             <p>
               <a
                 href="https://blog.testproject.io/08/16/challenges-in-testing-legacy-systems/"
+                className="btn btn-default LightGreyBackground"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={ModernTestingPrinciples}
+            alt="Modern Testing Principles - blog article for TestProject, by Mirza Sisic"
+          />
+          <div className="caption">
+            <h3>Modern Testing Principles</h3>
+            <p className="DarkGreyHeading">TestProject - Blog Article</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://blog.testproject.io/2022/04/21/modern-testing-principles/"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -235,16 +235,16 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={ModernTestingBestPractices}
-            alt="Modern Testing Best Practices with Venkat Ramakrishnan - meetup"
+            src={MotSarajevo1}
+            alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup"
           />
           <div className="caption">
-            <h3>Modern Testing Best Practices</h3>
+            <h3>MoT Sarajevo's First Meetup</h3>
             <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.crowdcast.io/e/mot-sarajevo-3"
+                href="https://www.ministryoftesting.com/talks/93d74186?s_id=14301185"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -258,6 +258,18 @@ const Projects = () => (
       </div>
 
       <div className="col-sm-6 col-md-3">
+      <div className="thumbnail">
+        <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
+        <div className="caption">
+          <h3>ISTQB Certification: where to start?</h3>
+          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+          <span className="spacer"></span>
+          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" disabled type="button" role="button">Recording Unavailable</a></p>
+        </div>
+      </div>
+    </div>
+
+    <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img
             className="img-responsive project"
@@ -287,16 +299,16 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={MotSarajevo1}
-            alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup"
+            src={ModernTestingBestPractices}
+            alt="Modern Testing Best Practices with Venkat Ramakrishnan - meetup"
           />
           <div className="caption">
-            <h3>MoT Sarajevo's First Meetup</h3>
+            <h3>Modern Testing Best Practices</h3>
             <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/talks/93d74186?s_id=14301185"
+                href="https://www.crowdcast.io/e/mot-sarajevo-3"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -308,18 +320,6 @@ const Projects = () => (
           </div>
         </div>
       </div>
-
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
-        <div className="caption">
-          <h3>ISTQB Certification: where to start?</h3>
-          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
-          <span className="spacer"></span>
-          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" disabled type="button" role="button">Recording Unavailable</a></p>
-        </div>
-      </div>
-    </div>
 
       <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
@@ -485,7 +485,7 @@ const Projects = () => (
       </div>
     </div>
 
-    <div className="col-sm-6 col-md-3">
+    {/* <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
         <img className="img-responsive project" src={bddMeme} alt="Modern Testing trough BDD" />
         <div className="caption">
@@ -509,7 +509,7 @@ const Projects = () => (
           <p><a href="https://tacta.io/en/news/tacta-academy-how-i-started-coding-finding-myself-as-quality-assurance-engineer/17" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
         </div>
       </div>
-    </div>
+    </div> */}
 
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
@@ -608,6 +608,32 @@ const Projects = () => (
                 role="button"
               >
                 Open Link
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={TestExecutionTime}
+            alt="Test Execution Time – why is it important and how can we speed it up?"
+          />
+          <div className="caption">
+            <h3>Test Execution Time</h3>
+            <p className="DarkGreyHeading">LambdaTest - Blog</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.lambdatest.com/blog/test-execution-time/"
+                className="btn btn-default LightGreyBackground"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+               Read the article
               </a>
             </p>
           </div>
