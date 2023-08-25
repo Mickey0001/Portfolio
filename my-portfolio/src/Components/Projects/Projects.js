@@ -20,14 +20,13 @@ import Testival2022 from '../../../src/Images/Testival2022.png';
 import SarajevoQaCrewMeetup from '../../../src/Images/SarajevoQaCrewMeetup.jpg';
 import ExploreAgileSpikesShiftLeftBdd from '../../../src/Images/ExploreAgileSpikesShiftLeftBdd.png';
 import MirzaAgileBosniaDays from '../../../src/Images/MirzaAgileBosniaDays.jpg';
-import bddMeme from '../../../src/Images/bddMeme.jpg';
-import TactaJavaBlog from '../../../src/Images/TactaJavaBlog.png';
 import ProductOwnerQA from '../../../src/Images/ProductOwnerQA.jpg';
 import TestshpereRoulettePodcast from '../../../src/Images/TestshpereRoulettePodcast.jpg';
 import TestBashSpringIanMirzaPokekon from '../../../src/Images/TestBashSpringIanMirzaPokekon.png';
 import MobileTestingISQI from '../../../src/Images/MobileTestingISQI.jpg';
 import BugRaptorsInterview from '../../../src/Images/BugRaptorsInterview.jpeg';
 import TestExecutionTime from '../../../src/Images/TestExecutionTime.jpeg';
+import MotSarajevo2023 from '../../../src/Images/MotSarajevo2023.jpg';
 
 
 const Projects = () => (
@@ -485,32 +484,6 @@ const Projects = () => (
       </div>
     </div>
 
-    {/* <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={bddMeme} alt="Modern Testing trough BDD" />
-        <div className="caption">
-          <h3>MTP and BDD</h3>
-          <p className="DarkGreyHeading">STB - Blog</p>
-          <span className="spacer"></span>
-          <p><a href="https://softwaretestingboard.com/blogs/modern-testing-trough-bdd/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
-        </div>
-      </div>
-    </div>
-
-
- 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={TactaJavaBlog} alt="Tacta Academy: How I started coding & finding myself as Quality Assurance Engineer" />
-        <div className="caption">
-          <h3>Java and QA</h3>
-          <p className="DarkGreyHeading">Tacta - Blog</p>
-          <span className="spacer"></span>
-          <p><a href="https://tacta.io/en/news/tacta-academy-how-i-started-coding-finding-myself-as-quality-assurance-engineer/17" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
-        </div>
-      </div>
-    </div> */}
-
     <div className="col-sm-6 col-md-3">
       <div className="thumbnail">
         <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
@@ -619,6 +592,32 @@ const Projects = () => (
           <img
             className="img-responsive project"
             src={TestExecutionTime}
+            alt="Test Execution Time – why is it important and how can we speed it up?"
+          />
+          <div className="caption">
+            <h3>Test Execution Time</h3>
+            <p className="DarkGreyHeading">LambdaTest - Blog</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.lambdatest.com/blog/test-execution-time/"
+                className="btn btn-default LightGreyBackground"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+               Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={MotSarajevo2023}
             alt="Test Execution Time – why is it important and how can we speed it up?"
           />
           <div className="caption">
