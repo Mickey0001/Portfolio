@@ -543,7 +543,7 @@ const Projects = () => (
             alt="How to pass the ISTQB Foundation Level Certification Exam"
           />
           <div className="caption">
-            <h3>Pass ISTQB CTFL</h3>
+            <h3>How to pass ISTQB CTFL Exam</h3>
             <p className="DarkGreyHeading">QA Crew - Meetup</p>
             <span className="spacer"></span>
             <p>
@@ -569,7 +569,7 @@ const Projects = () => (
             alt="BugRaptors, Tech Talks With Mirza Sisic"
           />
           <div className="caption">
-            <h3>Tech Talk</h3>
+            <h3>BugRaptors Tech Talk with Mirza Sisic</h3>
             <p className="DarkGreyHeading">BugRaptors - Interview</p>
             <span className="spacer"></span>
             <p>
@@ -595,7 +595,7 @@ const Projects = () => (
             alt="Test Execution Time – why is it important and how can we speed it up?"
           />
           <div className="caption">
-            <h3>Test Execution Time</h3>
+            <h3>Test Execution Time why is it important</h3>
             <p className="DarkGreyHeading">LambdaTest - Blog</p>
             <span className="spacer"></span>
             <p>
@@ -618,21 +618,21 @@ const Projects = () => (
           <img
             className="img-responsive project"
             src={MotSarajevo2023}
-            alt="Test Execution Time – why is it important and how can we speed it up?"
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
           />
           <div className="caption">
-            <h3>Test Execution Time</h3>
-            <p className="DarkGreyHeading">LambdaTest - Blog</p>
+            <h3>MoT Sarajevo 2023 Summer Meetup</h3>
+            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.lambdatest.com/blog/test-execution-time/"
+                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/293861821"
                 className="btn btn-default LightGreyBackground"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-               Read the article
+               View Event
               </a>
             </p>
           </div>
