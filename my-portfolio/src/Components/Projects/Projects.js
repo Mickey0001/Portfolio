@@ -479,7 +479,7 @@ const Projects = () => (
           <h3>Agile Testing</h3>
           <p className="DarkGreyHeading">Agile Day - Conference</p>
           <span className="spacer"></span>
-          <p><a href="https://conference.agile.ba/en/lectures/145/modern-testing-principles-natural-evolution-of-agile-testing" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+          <p><a href="https://youtu.be/yC8oANjOIis?list=PLopOoidFSFaiCcfllyxMtJmzo6xyhQ2zn" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch Recording</a></p>
         </div>
       </div>
     </div>
