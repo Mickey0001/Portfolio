@@ -308,6 +308,10 @@ h2 {
   margin-right: 0 !important;
 }
 
+.center{
+  text-align: center !important;
+}
+
 .timeline {
   list-style: none;
   padding: 20px 0 20px;

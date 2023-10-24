@@ -275,7 +275,7 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  Junior QA Tester -{" "}
+                  Junior QA Analyst -{" "}
                   <a
                     href="http://www.learninglibrary.com/education"
                     target="_blank"

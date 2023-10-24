@@ -27,6 +27,9 @@ import MobileTestingISQI from '../../../src/Images/MobileTestingISQI.jpg';
 import BugRaptorsInterview from '../../../src/Images/BugRaptorsInterview.jpeg';
 import TestExecutionTime from '../../../src/Images/TestExecutionTime.jpeg';
 import MotSarajevo2023 from '../../../src/Images/MotSarajevo2023.jpg';
+import FreelancingForSoftwareTesters from '../../../src/Images/FreelancingForSoftwareTesters.jpg';
+import NetWorkBih2023 from '../../../src/Images/NetWorkBih2023.png';
+
 
 
 const Projects = () => (
@@ -39,7 +42,7 @@ const Projects = () => (
         <strong>What I've been up to lately</strong>
       </h4>
 
-      <div className="row">
+      <div className="row center">
         <div className="col-sm-6 col-md-3">
           <div className="thumbnail">
             <img
@@ -57,7 +60,7 @@ const Projects = () => (
               <p>
                 <a
                   href="https://www.ministryoftesting.com/articles/f0720cc9?s_id=14301141"
-                  className="btn btn-default LightGreyBackground"
+                  className="btn btn-default LightGreyBackground text-center"
                   target="_blank"
                   rel="noopener noreferrer"
                   role="button"
@@ -87,7 +90,7 @@ const Projects = () => (
               <p>
                 <a
                   href="https://www.ministryoftesting.com/articles/113fa955?s_id=14301142"
-                  className="btn btn-default LightGreyBackground"
+                  className="btn btn-default LightGreyBackground text-center"
                   target="_blank"
                   rel="noopener noreferrer"
                   role="button"
@@ -113,7 +116,7 @@ const Projects = () => (
               <p>
                 <a
                   href="https://www.ministryoftesting.com/ask-me-anythings/607a3cd6?s_id=14301151"
-                  className="btn btn-default LightGreyBackground"
+                  className="btn btn-default LightGreyBackground text-center"
                   target="_blank"
                   rel="noopener noreferrer"
                   role="button"
@@ -139,7 +142,7 @@ const Projects = () => (
               <p>
                 <a
                   href="https://www.ministryoftesting.com/articles/7bd1afdc?s_id=14301143"
-                  className="btn btn-default LightGreyBackground"
+                  className="btn btn-default LightGreyBackground text-center"
                   target="_blank"
                   rel="noopener noreferrer"
                   role="button"
@@ -152,123 +155,128 @@ const Projects = () => (
         </div>
       </div>
 
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
-            src={ChallengesInTestingLegacySystems}
-            alt="Challenges in Testing Legacy Systems - blog article for TestProject, by Mirza Sisic"
-          />
-          <div className="caption">
-            <h3>Challenges in Testing Legacy Systems</h3>
-            <p className="DarkGreyHeading">TestProject - Blog Article</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://blog.testproject.io/08/16/challenges-in-testing-legacy-systems/"
-                className="btn btn-default LightGreyBackground"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Read the article
-              </a>
-            </p>
+      <div className="row   text-align: center">
+
+        <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={ChallengesInTestingLegacySystems}
+              alt="Challenges in Testing Legacy Systems - blog article for TestProject, by Mirza Sisic"
+            />
+            <div className="caption">
+              <h3>Testing Legacy Systems</h3>
+              <p className="DarkGreyHeading">TestProject - Blog Article</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://blog.testproject.io/08/16/challenges-in-testing-legacy-systems/"
+                  className="btn btn-default LightGreyBackground text-center"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  Read the article
+                </a>
+              </p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
-            src={ModernTestingPrinciples}
-            alt="Modern Testing Principles - blog article for TestProject, by Mirza Sisic"
-          />
-          <div className="caption">
-            <h3>Modern Testing Principles</h3>
-            <p className="DarkGreyHeading">TestProject - Blog Article</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://blog.testproject.io/2022/04/21/modern-testing-principles/"
-                className="btn btn-default LightGreyBackground"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Read the article
-              </a>
-            </p>
+        <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={ModernTestingPrinciples}
+              alt="Modern Testing Principles - blog article for TestProject, by Mirza Sisic"
+            />
+            <div className="caption">
+              <h3>Modern Testing Principles</h3>
+              <p className="DarkGreyHeading">TestProject - Blog Article</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://blog.testproject.io/2022/04/21/modern-testing-principles/"
+                  className="btn btn-default LightGreyBackground text-center"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  Read the article
+                </a>
+              </p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
-            src={OrganizingYourVeryOwnTestingMeetup}
-            alt="Organizing Your Very Own Testing Meetup - article"
-          />
-          <div className="caption">
-            <h3>Organizing Your Very Own Testing Meetup</h3>
-            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://www.ministryoftesting.com/articles/042e4019?s_id=14301152"
-                className="btn btn-default LightGreyBackground"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Read the article
-              </a>
-            </p>
+        <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={OrganizingYourVeryOwnTestingMeetup}
+              alt="Organizing Your Very Own Testing Meetup - article"
+            />
+            <div className="caption">
+              <h3>Organizing Your Very Own Testing Meetup</h3>
+              <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://www.ministryoftesting.com/articles/042e4019?s_id=14301152"
+                  className="btn btn-default LightGreyBackground text-center"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  Read the article
+                </a>
+              </p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
-            src={MotSarajevo1}
-            alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup"
-          />
-          <div className="caption">
-            <h3>MoT Sarajevo's First Meetup</h3>
-            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://www.ministryoftesting.com/talks/93d74186?s_id=14301185"
-                className="btn btn-default LightGreyBackground"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Watch the Recording
-              </a>
-            </p>
+        <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={MotSarajevo1}
+              alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup"
+            />
+            <div className="caption">
+              <h3>MoT Sarajevo's First Meetup</h3>
+              <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://www.ministryoftesting.com/talks/93d74186?s_id=14301185"
+                  className="btn btn-default LightGreyBackground text-center"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  Watch the Recording
+                </a>
+              </p>
+            </div>
           </div>
-        </div>
-      </div>
-
-      <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
-        <div className="caption">
-          <h3>ISTQB Certification: where to start?</h3>
-          <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
-          <span className="spacer"></span>
-          <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" disabled type="button" role="button">Recording Unavailable</a></p>
         </div>
       </div>
     </div>
 
-    <div className="col-sm-6 col-md-3">
+    <div className="row   text-align: center">
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={iSQI} alt="MoT Sarajevo's First Meetup with Maaret Pyhäjärvi, Conor Fitzgerald and Larry Goddard - meetup" />
+          <div className="caption">
+            <h3>ISTQB Certification: where to start?</h3>
+            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+            <span className="spacer"></span>
+            <p><a href="https://dms.licdn.com/playlist/C4E05AQEiM-1NDE-aoA/mp4-720p-30fp-crf28/0/1642435046149?e=1652281200&v=beta&t=5VFQTbOqxIFVg-gl4MpXMpQuQCCiNx4LSOgztTpvSmE" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" disabled type="button" role="button">Recording Unavailable</a></p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img
             className="img-responsive project"
@@ -282,7 +290,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.ministryoftesting.com/talks/e384569f?s_id=14301183"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -308,7 +316,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.crowdcast.io/e/mot-sarajevo-3"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -334,7 +342,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://youtu.be/RVDXWiqFX0M?t=594"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -346,6 +354,9 @@ const Projects = () => (
         </div>
       </div>
 
+    </div>
+
+    <div className="row   text-align: center">
       <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img
@@ -360,7 +371,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.ministryoftesting.com/events/testbash-careers-2022"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -386,7 +397,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.ministryoftesting.com/dojo/series/testbash-world-2022"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -412,7 +423,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.lambdatest.com/blog/automation-for-junior-testers/"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -424,118 +435,127 @@ const Projects = () => (
         </div>
       </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
-        <div className="caption">
-          <h3>E2E Testing</h3>
-          <p className="DarkGreyHeading">LambdaTest - Blog</p>
-          <span className="spacer"></span>
-          <p><a href="https://www.lambdatest.com/blog/make-e2e-testing-easier/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={MakeE2eTestingEasierWithTheRightTools} alt="Make e2e Testing Easier With the Right Tools" />
+          <div className="caption">
+            <h3>E2E Testing</h3>
+            <p className="DarkGreyHeading">LambdaTest - Blog</p>
+            <span className="spacer"></span>
+            <p><a href="https://www.lambdatest.com/blog/make-e2e-testing-easier/" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          </div>
         </div>
       </div>
+
     </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={TwitterSpaceLetsExploreBDD} alt="Make e2e Testing Easier With the Right Tools" />
-        <div className="caption">
-          <h3>Explore BDD</h3>
-          <p className="DarkGreyHeading">MoT - Twitter Spaces</p>
-          <span className="spacer"></span>
-          <p><a href="https://www.ministryoftesting.com/events/twitter-space-let-s-explore-bdd-with-co-hosts-mirza-sisic-and-simon-tomes" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+    <div className="row   text-align: center">
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={TwitterSpaceLetsExploreBDD} alt="Make e2e Testing Easier With the Right Tools" />
+          <div className="caption">
+            <h3>Explore BDD</h3>
+            <p className="DarkGreyHeading">MoT - Twitter Spaces</p>
+            <span className="spacer"></span>
+            <p><a href="https://www.ministryoftesting.com/events/twitter-space-let-s-explore-bdd-with-co-hosts-mirza-sisic-and-simon-tomes" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={Testival2022} alt="Make e2e Testing Easier With the Right Tools" />
-        <div className="caption">
-          <h3>Keynote Speech</h3>
-          <p className="DarkGreyHeading">Testival - Conference</p>
-          <span className="spacer"></span>
-          <p><a href="https://testival.eu/testival-osijek-2022-sponsors-and-speakers/" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={Testival2022} alt="Make e2e Testing Easier With the Right Tools" />
+          <div className="caption">
+            <h3>Keynote Speech</h3>
+            <p className="DarkGreyHeading">Testival - Conference</p>
+            <span className="spacer"></span>
+            <p><a href="https://testival.eu/testival-osijek-2022-sponsors-and-speakers/" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Open Link</a></p>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={ExploreAgileSpikesShiftLeftBdd} alt="Let us Explore how Agile Architecture Spikes are used in Shift-Left Behavior Driven Development" />
-        <div className="caption">
-          <h3>Agile Spikes in BDD</h3>
-          <p className="DarkGreyHeading">LambdaTest - Blog</p>
-          <span className="spacer"></span>
-          <p><a href="https://www.lambdatest.com/blog/agile-architecture-spikes-in-shift-left-bdd" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={ExploreAgileSpikesShiftLeftBdd} alt="Let us Explore how Agile Architecture Spikes are used in Shift-Left Behavior Driven Development" />
+          <div className="caption">
+            <h3>Agile Spikes in BDD</h3>
+            <p className="DarkGreyHeading">LambdaTest - Blog</p>
+            <span className="spacer"></span>
+            <p><a href="https://www.lambdatest.com/blog/agile-architecture-spikes-in-shift-left-bdd" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={MirzaAgileBosniaDays} alt="Make e2e Testing Easier With the Right Tools" />
-        <div className="caption">
-          <h3>Agile Testing</h3>
-          <p className="DarkGreyHeading">Agile Day - Conference</p>
-          <span className="spacer"></span>
-          <p><a href="https://youtu.be/yC8oANjOIis?list=PLopOoidFSFaiCcfllyxMtJmzo6xyhQ2zn" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch Recording</a></p>
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={MirzaAgileBosniaDays} alt="Make e2e Testing Easier With the Right Tools" />
+          <div className="caption">
+            <h3>Agile Testing</h3>
+            <p className="DarkGreyHeading">Agile Day - Conference</p>
+            <span className="spacer"></span>
+            <p><a href="https://youtu.be/yC8oANjOIis?list=PLopOoidFSFaiCcfllyxMtJmzo6xyhQ2zn" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Watch Recording</a></p>
+          </div>
         </div>
       </div>
+
     </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
-        <div className="caption">
-          <h3>PO Tester</h3>
-          <p className="DarkGreyHeading">MoT - The Testing Planet</p>
-          <span className="spacer"></span>
-          <p><a href="https://www.ministryoftesting.com/articles/2be3bc75?s_id=14301135" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+
+    <div className="row   text-align: center">
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={ProductOwnerQA} alt="How Product Owners With Testing Experience Can Promote Quality " />
+          <div className="caption">
+            <h3>PO Tester</h3>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+            <span className="spacer"></span>
+            <p><a href="https://www.ministryoftesting.com/articles/2be3bc75?s_id=14301135" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={TestshpereRoulettePodcast} alt="TestSphere Roulette Episode 14 - Lena Pejgan Wiberg and Mirza Sisic. 
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={TestshpereRoulettePodcast} alt="TestSphere Roulette Episode 14 - Lena Pejgan Wiberg and Mirza Sisic. 
             Ministry Of Testing Software Testing / QA Podcast" />
-        <div className="caption">
-          <h3>TestSphere Roulette</h3>
-          <p className="DarkGreyHeading">MoT - Podcast</p>
-          <span className="spacer"></span>
-          <p><a href="https://soundcloud.com/ministryoftesting/1-testsphere-roulette-episode-14-lena-pejgan-wiberg-and-mirza-sisic" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Podcast Recording</a></p>
+          <div className="caption">
+            <h3>TestSphere Roulette</h3>
+            <p className="DarkGreyHeading">MoT - Podcast</p>
+            <span className="spacer"></span>
+            <p><a href="https://soundcloud.com/ministryoftesting/1-testsphere-roulette-episode-14-lena-pejgan-wiberg-and-mirza-sisic" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Podcast Recording</a></p>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={TestBashSpringIanMirzaPokekon} alt="Let's test the Pokemon API with REST and GraphQL" />
+          <div className="caption">
+            <h3>TestBash Spring</h3>
+            <p className="DarkGreyHeading">MoT - Conference</p>
+            <span className="spacer"></span>
+            <p><a href="" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img className="img-responsive project" src={MobileTestingISQI} alt="key factors to consider when testing mobile applications" />
+          <div className="caption">
+            <h3>Mobile Testing</h3>
+            <p className="DarkGreyHeading">iSQI - Blog</p>
+            <span className="spacer"></span>
+            <p><a href="https://blog.isqi.org/key-factors-to-consider-when-testing-mobile-applications" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
+          </div>
         </div>
       </div>
     </div>
-    
-   
 
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={TestBashSpringIanMirzaPokekon} alt="Let's test the Pokemon API with REST and GraphQL" />
-        <div className="caption">
-          <h3>TestBash Spring</h3>
-          <p className="DarkGreyHeading">MoT - Conference</p>
-          <span className="spacer"></span>
-          <p><a href="" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
-        </div>
-      </div>
-    </div> 
-
-    <div className="col-sm-6 col-md-3">
-      <div className="thumbnail">
-        <img className="img-responsive project" src={MobileTestingISQI} alt="key factors to consider when testing mobile applications" />
-        <div className="caption">
-          <h3>Mobile Testing</h3>
-          <p className="DarkGreyHeading">iSQI - Blog</p>
-          <span className="spacer"></span>
-          <p><a href="https://blog.isqi.org/key-factors-to-consider-when-testing-mobile-applications" className="btn btn-default LightGreyBackground" target="_blank" rel="noopener noreferrer" role="button">Read the article</a></p>
-        </div>
-      </div>
-    </div>
-
-    <div className="col-sm-6 col-md-3">
+    <div className="row   text-align: center">
+      <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img
             className="img-responsive project"
@@ -549,7 +569,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.eventbrite.com/e/qa-meetup-lets-test-together-5-tickets-410034152187?fbclid=IwAR2xMiMgozNACGOIkpPFJwzVrSdHGKoKcFUGpBIrmI4wM6lE0CfqdUk90zo"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -575,7 +595,7 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.bugraptors.com/blog/tech-talks-with-mirza-sisic"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
@@ -586,7 +606,7 @@ const Projects = () => (
           </div>
         </div>
       </div>
-      
+
       <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img
@@ -601,12 +621,12 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.lambdatest.com/blog/test-execution-time/"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-               Read the article
+                Read the article
               </a>
             </p>
           </div>
@@ -627,20 +647,127 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.meetup.com/ministry-of-testing-sarajevo/events/293861821"
-                className="btn btn-default LightGreyBackground"
+                className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-               View Event
+                View Event
               </a>
             </p>
           </div>
         </div>
       </div>
-      
-    
     </div>
+
+    <div className="row center">
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={FreelancingForSoftwareTesters}
+            alt="Freelancing For Software Testers"
+          />
+          <div className="caption">
+            <h3>Freelancing For Software Testers</h3>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/7bbd7e69"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={NetWorkBih2023}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3>Team owned quality with Azure DevOps</h3>
+            <p className="DarkGreyHeading">NetWork - Conference</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.networkkonferencija.ba/bs-Latn-BA/2023/lectures/2869/team-owned-quality-with-azure-devops-services"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={MotSarajevo2023}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3> Feature Spotlights JQL in Jira</h3>
+            <p className="DarkGreyHeading">MoT - Conference</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/events/testbash-autumn-2023"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={MotSarajevo2023}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3>Hulp Apps Meetup in Sarajevo</h3>
+            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/293861821"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
   </div>
 );
 
