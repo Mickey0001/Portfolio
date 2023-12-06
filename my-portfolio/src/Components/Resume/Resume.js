@@ -8,38 +8,8 @@ const Resume = () => (
           <strong>Resume</strong>
         </h3>
         <h5 className="text-center  minor-heading">Employment History</h5>
-        <ul className="timeline">
-          <li>
-            <div className="timeline-badge">
-              <i className="fa fa-wrench resume-icons"></i>
-            </div>
-            <div className="timeline-panel">
-              <div className="timeline-heading">
-                <h4 className="timeline-title">
-                  Senior Test Analyst -{" "}
-                  <a
-                    href="https://www.consulteer.com/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    Consulteer
-                  </a>
-                </h4>
-              </div>
-              <p>
-                <small className="text-muted">
-                  <i className="fa fa-calendar-o"></i>June 2022 - Current
-                </small>
-              </p>
-              <div className="timeline-body">
-                <p>
-                  Fintech project, the teams are using BDD and a shift-left
-                  approach to testing.
-                </p>
-              </div>
-            </div>
-          </li>
 
+        <ul className="timeline">
           <li>
             <div className="timeline-badge">
               <i className="fa fa-desktop resume-icons"></i>
@@ -47,7 +17,7 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  Founder -{" "}
+                  QA Consultant -{" "}
                   <a href="/" target="_blank" rel="noopener noreferrer">
                     TestOps
                   </a>
@@ -93,36 +63,6 @@ const Resume = () => (
                 <p>
                   Helping out with mobile testing, on a part-time freelance
                   basis.
-                </p>
-              </div>
-            </div>
-          </li>
-
-          <li>
-            <div className="timeline-badge">
-              <i className="fa fa-book resume-icons"></i>
-            </div>
-            <div className="timeline-panel">
-              <div className="timeline-heading">
-                <h4 className="timeline-title">
-                  Technical Writer -{" "}
-                  <a
-                    href="https://www.lambdatest.com/blog/author/mirzasisictester"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    LambdaTest
-                  </a>
-                </h4>
-              </div>
-              <p>
-                <small className="text-muted">
-                  <i className="fa fa-calendar-o"></i>June 2022 - Present
-                </small>
-              </p>
-              <div className="timeline-body">
-                <p>
-                  Writing articles about software testing for the LambdaTest blog.
                 </p>
               </div>
             </div>
