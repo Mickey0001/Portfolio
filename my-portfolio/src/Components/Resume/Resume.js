@@ -17,7 +17,7 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  QA Consultant -{" "}
+                  QE Consultant -{" "}
                   <a href="/" target="_blank" rel="noopener noreferrer">
                     TestOps
                   </a>
@@ -44,7 +44,7 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  QA Consultant -{" "}
+                  Freelance QE -{" "}
                   <a
                     href="https://snappmobile.io/"
                     target="_blank"

@@ -29,7 +29,10 @@ import TestExecutionTime from '../../../src/Images/TestExecutionTime.jpeg';
 import MotSarajevo2023 from '../../../src/Images/MotSarajevo2023.jpg';
 import FreelancingForSoftwareTesters from '../../../src/Images/FreelancingForSoftwareTesters.jpg';
 import NetWorkBih2023 from '../../../src/Images/NetWorkBih2023.png';
-
+import QualityCoachingRoadLessTraveled from '../../../src/Images/QualityCoachingRoadLessTraveled.jpg';
+import FeatureSpotlightsJQL from '../../../src/Images/FeatureSpotlightsJQL.jpg';
+import MotSarajevo2024 from '../../../src/Images/MotSarajevo2024.jpeg';
+import SystemDuoManualQACourse from '../../../src/Images/SystemDuoManualQACourse.jpg';
 
 
 const Projects = () => (
@@ -718,7 +721,33 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={MotSarajevo2023}
+            src={QualityCoachingRoadLessTraveled}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3>Quality Coaching: A Road Less Traveled</h3>
+            <p className="DarkGreyHeading">MoT - The Testing Plane</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/quality-coaching-a-road-less-traveled"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={FeatureSpotlightsJQL}
             alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
           />
           <div className="caption">
@@ -727,7 +756,37 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/events/testbash-autumn-2023"
+                href="https://www.ministryoftesting.com/testbash-playlists/96ace698"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div className="row center">
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={MotSarajevo2024}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3>MoT Sarajevo 2024 Winter  Meetup</h3>
+            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/298798926"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -744,22 +803,22 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={MotSarajevo2023}
+            src={SystemDuoManualQACourse}
             alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
           />
           <div className="caption">
-            <h3>Hulp Apps Meetup in Sarajevo</h3>
-            <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+            <h3>Manual QA for beginners</h3>
+            <p className="DarkGreyHeading">SystemDuo - Course</p>
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/293861821"
+                href="https://systemduo.ba/ba/home/course/68"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                View Event
+                Course Curriculum
               </a>
             </p>
           </div>
