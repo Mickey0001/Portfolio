@@ -786,13 +786,13 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/298798926"
+                href="https://youtu.be/G9TjeVlk5eM?t=23"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                View Event
+                View recording
               </a>
             </p>
           </div>
