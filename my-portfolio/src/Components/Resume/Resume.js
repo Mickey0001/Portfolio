@@ -39,6 +39,36 @@ const Resume = () => (
 
           <li>
             <div className="timeline-badge">
+              <i className="fa fa-chalkboard resume-icons"></i>
+            </div>
+            <div className="timeline-panel">
+              <div className="timeline-heading">
+                <h4 className="timeline-title">
+                  Course Instructor -{" "}
+                  <a
+                    href="https://systemduo.ba/ba/home/course/68"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    SystemDuo
+                  </a>
+                </h4>
+              </div>
+              <p>
+                <small className="text-muted">
+                  <i className="fa fa-calendar-o"></i>December 2023 - April 2024
+                </small>
+              </p>
+              <div className="timeline-body">
+                <p>
+                  Teaching software testing to begginers.
+                </p>
+              </div>
+            </div>
+          </li>
+
+          <li>
+            <div className="timeline-badge">
               <i className="fa fa-mobile resume-icons"></i>
             </div>
             <div className="timeline-panel">
