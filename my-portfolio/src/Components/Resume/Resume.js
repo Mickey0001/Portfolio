@@ -39,7 +39,7 @@ const Resume = () => (
 
           <li>
             <div className="timeline-badge">
-              <i className="fa fa-chalkboard resume-icons"></i>
+              <i className="fa fa-book resume-icons"></i>
             </div>
             <div className="timeline-panel">
               <div className="timeline-heading">
