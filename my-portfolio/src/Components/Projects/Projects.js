@@ -114,7 +114,7 @@ const Projects = () => (
               alt="Testing Ask Me Anything - Testing Tools with Mirza Sisic"
             />
             <div className="caption">
-              <h3>Testing Ask Me Anything - Testing Tools with Mirza Sisic</h3>
+              <h3>Testing AMA - Ask Me Anything <br/> Testing Tools with Mirza Sisic</h3>
               <p className="DarkGreyHeading">MoT - Testing AMA</p>
               <span className="spacer"></span>
               <p>
