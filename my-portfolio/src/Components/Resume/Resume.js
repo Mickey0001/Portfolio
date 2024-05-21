@@ -205,13 +205,13 @@ const Resume = () => (
             <div className="timeline-panel">
               <div className="timeline-heading">
                 <h4 className="timeline-title">
-                  Freelance QA Consultant -{" "}
+                  Freelancer QA -{" "}
                   <a
                     href="https://www.upwork.com/o/profiles/users/_~01a70d936afbbff30e"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Freelance
+                    Upwork
                   </a>
                 </h4>
                 <p>

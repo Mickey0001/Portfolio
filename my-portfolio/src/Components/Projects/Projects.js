@@ -33,7 +33,8 @@ import QualityCoachingRoadLessTraveled from '../../../src/Images/QualityCoaching
 import FeatureSpotlightsJQL from '../../../src/Images/FeatureSpotlightsJQL.jpg';
 import MotSarajevo2024 from '../../../src/Images/MotSarajevo2024.jpeg';
 import SystemDuoManualQACourse from '../../../src/Images/SystemDuoManualQACourse.jpg';
-
+import BeatingTheOddsMot from '../../../src/Images/BeatingTheOddsMot.jpg';
+BeatingTheOddsMot
 
 const Projects = () => (
   <div className="container">
@@ -726,7 +727,7 @@ const Projects = () => (
           />
           <div className="caption">
             <h3>Quality Coaching: A Road Less Traveled</h3>
-            <p className="DarkGreyHeading">MoT - The Testing Plane</p>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
             <span className="spacer"></span>
             <p>
               <a
@@ -819,6 +820,32 @@ const Projects = () => (
                 role="button"
               >
                 Course Curriculum
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BeatingTheOddsMot}
+            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+          />
+          <div className="caption">
+            <h3>Top Tips For New Software Testers</h3>
+            <p className="DarkGreyHeading">MoT - The Testing Planet</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/beating-the-odds-in-a-competitive-job-market-top-tips-for-new-software-testers"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
               </a>
             </p>
           </div>
