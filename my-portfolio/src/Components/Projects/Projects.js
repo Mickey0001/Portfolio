@@ -34,7 +34,8 @@ import FeatureSpotlightsJQL from '../../../src/Images/FeatureSpotlightsJQL.jpg';
 import MotSarajevo2024 from '../../../src/Images/MotSarajevo2024.jpeg';
 import SystemDuoManualQACourse from '../../../src/Images/SystemDuoManualQACourse.jpg';
 import BeatingTheOddsMot from '../../../src/Images/BeatingTheOddsMot.jpg';
-BeatingTheOddsMot
+import TestCasesMoT from '../../../src/Images/TestCasesMoT.jpg';
+
 
 const Projects = () => (
   <div className="container">
@@ -840,6 +841,32 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.ministryoftesting.com/articles/beating-the-odds-in-a-competitive-job-market-top-tips-for-new-software-testers"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={TestCasesMoT}
+            alt="In this hot topic we we witnessed some spicy opinions regarding test cases."
+          />
+          <div className="caption">
+            <h3>Test cases...don't write them</h3>
+            <p className="DarkGreyHeading">MoT - Testing Tremds</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/testing-trends/test-cases-don-t-write-them"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"

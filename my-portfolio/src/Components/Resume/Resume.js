@@ -166,6 +166,34 @@ const Resume = () => (
 
           <li>
             <div className="timeline-badge">
+              <i className="fa fa-book resume-icons"></i>
+            </div>
+            <div className="timeline-panel">
+              <div className="timeline-heading">
+                <h4 className="timeline-title">
+                  Freelance Writer -{" "}
+                  <a
+                    href="https://www.ministryoftesting.com/search?q=Mirza+Sisic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Ministry of Testing
+                  </a>
+                </h4>
+              </div>
+              <p>
+                <small className="text-muted">
+                  <i className="fa fa-calendar-o"></i>July 2021 - Current
+                </small>
+              </p>
+              <div className="timeline-body">
+                <p>Creating software testing-related content: articles, video tutorials and conference presentations.</p>
+              </div>
+            </div>
+          </li>
+
+          <li>
+            <div className="timeline-badge">
               <i className="fa fa-search-plus resume-icons"></i>
             </div>
             <div className="timeline-panel">
@@ -198,6 +226,7 @@ const Resume = () => (
               </div>
             </div>
           </li>
+
           <li>
             <div className="timeline-badge">
               <i className="fa fa-code resume-icons"></i>
