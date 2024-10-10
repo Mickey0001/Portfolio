@@ -35,6 +35,10 @@ import MotSarajevo2024 from '../../../src/Images/MotSarajevo2024.jpeg';
 import SystemDuoManualQACourse from '../../../src/Images/SystemDuoManualQACourse.jpg';
 import BeatingTheOddsMot from '../../../src/Images/BeatingTheOddsMot.jpg';
 import TestCasesMoT from '../../../src/Images/TestCasesMoT.jpg';
+import ReleaseOnFridays from '../../../src/Images/ReleaseOnFridays.jpg';
+import BrowserStack1stMeetup from '../../../src/Images/BrowserStack1stMeetup.jpg';
+
+
 
 
 const Projects = () => (
@@ -862,11 +866,89 @@ const Projects = () => (
           />
           <div className="caption">
             <h3>Test cases...don't write them</h3>
-            <p className="DarkGreyHeading">MoT - Testing Tremds</p>
+            <p className="DarkGreyHeading">MoT - Testing Trends</p>
             <span className="spacer"></span>
             <p>
               <a
                 href="https://www.ministryoftesting.com/testing-trends/test-cases-don-t-write-them"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={ReleaseOnFridays}
+            alt="Discussion about releasing or not, on Fridays"
+          />
+          <div className="caption">
+            <h3>Brave Enough To Release Software On A Friday?</h3>
+            <p className="DarkGreyHeading">MoT - Testing Trends</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/testing-trends/brave-enough-to-release-software-on-a-friday?s_id=18996432"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStack1stMeetup}
+            alt="First Online QA meetup of the BrowserStack Meetup group in Bosnia and Herzegovina."
+          />
+          <div className="caption">
+            <h3>BrowserStack QA meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack QA Meetup Group BiH</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/303877620/"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={TestCasesMoT}
+            alt="Community discussion on cookie testing"
+          />
+          <div className="caption">
+            <h3>When was the last time your team tested cookies?</h3>
+            <p className="DarkGreyHeading">MoT - Testing Trends</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/testing-trends/when-was-the-last-time-your-team-tested-cookies?s_id=19000021"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
