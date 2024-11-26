@@ -13,6 +13,9 @@ const Contact = () => (
 								<a className="social-icons" title="GitHub" href="https://github.com/Mickey0001" target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-2x"></i></a>
 							</div>
 							<div>
+								<a className="social-icons" title="MoT" href="https://www.ministryoftesting.com/p/mirza" target="_blank" rel="noopener noreferrer"><i className="fa fa-bug fa-2x"></i></a>
+							</div>
+							<div>
 								<a className="social-icons" title="Stack Overflow" href="https://stackoverflow.com/users/7443287/mirza-sisic?tab=profile" target="_blank" rel="noopener noreferrer"><i className="fa fa-stack-overflow fa-2x"></i></a>
 							</div>
                             <div>
