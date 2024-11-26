@@ -37,6 +37,8 @@ import BeatingTheOddsMot from '../../../src/Images/BeatingTheOddsMot.jpg';
 import TestCasesMoT from '../../../src/Images/TestCasesMoT.jpg';
 import ReleaseOnFridays from '../../../src/Images/ReleaseOnFridays.jpg';
 import BrowserStack1stMeetup from '../../../src/Images/BrowserStack1stMeetup.jpg';
+import NetworkBiH2024WhyIAlmostGaveUpOnQA from '../../../src/Images/NetworkBiH2024WhyIAlmostGaveUpOnQA.jpg';
+
 
 
 
@@ -702,7 +704,7 @@ const Projects = () => (
           <img
             className="img-responsive project"
             src={NetWorkBih2023}
-            alt="Ministry of Testing Sarajevo 2023 Summer Meetup"
+            alt="Microsoft Network Bosnia conference in Neum 2023"
           />
           <div className="caption">
             <h3>Team owned quality with Azure DevOps</h3>
@@ -960,6 +962,34 @@ const Projects = () => (
           </div>
         </div>
       </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={NetworkBiH2024WhyIAlmostGaveUpOnQA}
+            alt="Microsoft Network Bosnia conference in Neum 2024"
+          />
+          <div className="caption">
+            <h3>Why I almost gave up on QA</h3>
+            <p className="DarkGreyHeading">Microsoft NetWork Conference</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.networkkonferencija.ba/en/2024/lectures/3031/why-i-almost-gave-up-on-qa"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      
 
     </div>
 
