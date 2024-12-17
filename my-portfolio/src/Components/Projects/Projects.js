@@ -121,7 +121,7 @@ const Projects = () => (
               alt="Testing Ask Me Anything - Testing Tools with Mirza Sisic"
             />
             <div className="caption">
-              <h3>Testing AMA - Ask Me Anything <br/> Testing Tools with Mirza Sisic</h3>
+              <h3>Testing AMA - Ask Me Anything <br /> Testing Tools with Mirza Sisic</h3>
               <p className="DarkGreyHeading">MoT - Testing AMA</p>
               <span className="spacer"></span>
               <p>
@@ -989,7 +989,61 @@ const Projects = () => (
         </div>
       </div>
 
-      
+    </div>
+
+    <div className="row center">
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={TestCasesMoT}
+            alt="Discover how cookies affect privacy and UX to be able to test and secure applications effectively."
+          />
+          <div className="caption">
+            <h3>All about application cookies: Software tester edition</h3>
+            <p className="DarkGreyHeading">MoT - Articles</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/all-about-application-cookies-software-tester-edition"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={TestCasesMoT}
+            alt="Part of the leasson MoT Software Testing Essentials Certificate course"
+          />
+          <div className="caption">
+            <h3>Lesson 7: A guide to risk and documentation</h3>
+            <p className="DarkGreyHeading">MoT - Essentials</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/all-about-application-cookies-software-tester-edition"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
 
     </div>
 
