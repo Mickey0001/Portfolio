@@ -38,6 +38,8 @@ import TestCasesMoT from '../../../src/Images/TestCasesMoT.jpg';
 import ReleaseOnFridays from '../../../src/Images/ReleaseOnFridays.jpg';
 import BrowserStack1stMeetup from '../../../src/Images/BrowserStack1stMeetup.jpg';
 import NetworkBiH2024WhyIAlmostGaveUpOnQA from '../../../src/Images/NetworkBiH2024WhyIAlmostGaveUpOnQA.jpg';
+import AllAboutApplicationCookies from '../../../src/Images/AllAboutApplicationCookies.jpg';
+
 
 
 
@@ -997,7 +999,7 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={TestCasesMoT}
+            src={AllAboutApplicationCookies}
             alt="Discover how cookies affect privacy and UX to be able to test and secure applications effectively."
           />
           <div className="caption">
