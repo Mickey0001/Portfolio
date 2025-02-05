@@ -39,6 +39,7 @@ import ReleaseOnFridays from '../../../src/Images/ReleaseOnFridays.jpg';
 import BrowserStack1stMeetup from '../../../src/Images/BrowserStack1stMeetup.jpg';
 import NetworkBiH2024WhyIAlmostGaveUpOnQA from '../../../src/Images/NetworkBiH2024WhyIAlmostGaveUpOnQA.jpg';
 import AllAboutApplicationCookies from '../../../src/Images/AllAboutApplicationCookies.jpg';
+import BrowserStackFeb2025 from '../../../src/Images/sarajevo_browserstack_mirza_february.png';
 
 
 
@@ -922,7 +923,7 @@ const Projects = () => (
           />
           <div className="caption">
             <h3>BrowserStack QA meetup</h3>
-            <p className="DarkGreyHeading">BrowserStack QA Meetup Group BiH</p>
+            <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
             <span className="spacer"></span>
             <p>
               <a
@@ -1041,6 +1042,32 @@ const Projects = () => (
                 role="button"
               >
                 Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStackFeb2025}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>BrowserStack QA meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/305228457"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
               </a>
             </p>
           </div>
