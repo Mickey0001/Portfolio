@@ -1026,32 +1026,6 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={TestCasesMoT}
-            alt="Part of the leasson MoT Software Testing Essentials Certificate course"
-          />
-          <div className="caption">
-            <h3>Lesson 7: A guide to risk and documentation</h3>
-            <p className="DarkGreyHeading">MoT - Essentials</p>
-            <span className="spacer"></span>
-            <p>
-              <a
-                href="https://www.ministryoftesting.com/articles/all-about-application-cookies-software-tester-edition"
-                className="btn btn-default LightGreyBackground text-center"
-                target="_blank"
-                rel="noopener noreferrer"
-                role="button"
-              >
-                Read the article
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div className="col-sm-6 col-md-3">
-        <div className="thumbnail">
-          <img
-            className="img-responsive project"
             src={BrowserStackFeb2025}
             alt="Building a Culture of Testing in Agile Teams with BrowserStack"
           />
