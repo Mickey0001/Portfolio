@@ -40,8 +40,7 @@ import BrowserStack1stMeetup from '../../../src/Images/BrowserStack1stMeetup.jpg
 import NetworkBiH2024WhyIAlmostGaveUpOnQA from '../../../src/Images/NetworkBiH2024WhyIAlmostGaveUpOnQA.jpg';
 import AllAboutApplicationCookies from '../../../src/Images/AllAboutApplicationCookies.jpg';
 import BrowserStackFeb2025 from '../../../src/Images/sarajevo_browserstack_mirza_february.png';
-
-
+import BrowserStackMay2025 from '../../../src/Images/BrowserStack2ndtMeetup.jpg';
 
 
 
@@ -922,7 +921,7 @@ const Projects = () => (
             alt="First Online QA meetup of the BrowserStack Meetup group in Bosnia and Herzegovina."
           />
           <div className="caption">
-            <h3>BrowserStack QA meetup</h3>
+            <h3>November 2024 meetup</h3>
             <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
             <span className="spacer"></span>
             <p>
@@ -1030,12 +1029,38 @@ const Projects = () => (
             alt="Building a Culture of Testing in Agile Teams with BrowserStack"
           />
           <div className="caption">
-            <h3>BrowserStack QA meetup</h3>
+            <h3>February 2025 meetup</h3>
             <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
             <span className="spacer"></span>
             <p>
               <a
                 href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/305228457"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStackMay2025}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>BrowserStack May 2025 meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/307064691"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
