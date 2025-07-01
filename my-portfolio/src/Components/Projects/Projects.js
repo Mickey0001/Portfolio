@@ -540,8 +540,6 @@ const Projects = () => (
         </div>
       </div>
 
-
-
       <div className="col-sm-6 col-md-3">
         <div className="thumbnail">
           <img className="img-responsive project" src={TestBashSpringIanMirzaPokekon} alt="Let's test the Pokemon API with REST and GraphQL" />
@@ -549,7 +547,7 @@ const Projects = () => (
             <h3>TestBash Spring</h3>
             <p className="DarkGreyHeading">MoT - Conference</p>
             <span className="spacer"></span>
-            <p><a href="" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
+            <p><a href="https://www.ministryoftesting.com/testbash-playlists/testbash-spring-2023" className="btn btn-default LightGreyBackground text-center" target="_blank" rel="noopener noreferrer" role="button">Watch the Recording</a></p>
           </div>
         </div>
       </div>
