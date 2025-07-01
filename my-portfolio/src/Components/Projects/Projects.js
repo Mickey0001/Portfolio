@@ -820,13 +820,13 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://systemduo.ba/ba/home/course/68"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfgp0_lxzu7tmNq6JJ6JmmPOe-PEnMSFuFu4XnaUaEFYb97PA/viewform"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                Course Curriculum
+                Course Details
               </a>
             </p>
           </div>
