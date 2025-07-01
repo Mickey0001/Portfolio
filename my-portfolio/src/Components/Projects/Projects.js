@@ -328,13 +328,13 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.crowdcast.io/e/mot-sarajevo-3"
+                href="https://www.meetup.com/ministry-of-testing-sarajevo/events/284819119/"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                Watch the Recording
+                View the event
               </a>
             </p>
           </div>
@@ -409,13 +409,13 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.ministryoftesting.com/dojo/series/testbash-world-2022"
+                href="https://www.ministryoftesting.com/collections/testbash-world-2022-d2ca5028-91a6-40ac-a0d4-2c37ea0bc3de"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                Watch the Recording
+                Watch the Recordings
               </a>
             </p>
           </div>
