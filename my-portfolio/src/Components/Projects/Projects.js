@@ -41,7 +41,7 @@ import NetworkBiH2024WhyIAlmostGaveUpOnQA from '../../../src/Images/NetworkBiH20
 import AllAboutApplicationCookies from '../../../src/Images/AllAboutApplicationCookies.jpg';
 import BrowserStackFeb2025 from '../../../src/Images/sarajevo_browserstack_mirza_february.png';
 import BrowserStackMay2025 from '../../../src/Images/BrowserStack2ndtMeetup.jpg';
-
+import LowCodeTestTutomationTools from '../../../src/Images/LowCodeTestTutomationTools.jpg';
 
 
 
@@ -1003,7 +1003,7 @@ const Projects = () => (
             alt="Discover how cookies affect privacy and UX to be able to test and secure applications effectively."
           />
           <div className="caption">
-            <h3>All about application cookies: Software tester edition</h3>
+            <h3>All about application cookies</h3>
             <p className="DarkGreyHeading">MoT - Articles</p>
             <span className="spacer"></span>
             <p>
@@ -1030,7 +1030,7 @@ const Projects = () => (
           />
           <div className="caption">
             <h3>February 2025 meetup</h3>
-            <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
+            <p className="DarkGreyHeading">BrowserStack Bosnia</p>
             <span className="spacer"></span>
             <p>
               <a
@@ -1056,7 +1056,7 @@ const Projects = () => (
           />
           <div className="caption">
             <h3>BrowserStack May 2025 meetup</h3>
-            <p className="DarkGreyHeading">BrowserStack Bosnia Chapter</p>
+            <p className="DarkGreyHeading">BrowserStack Bosnia</p>
             <span className="spacer"></span>
             <p>
               <a
@@ -1067,6 +1067,32 @@ const Projects = () => (
                 role="button"
               >
                 View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+            <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={LowCodeTestTutomationTools}
+            alt="Low-code test automation tools: First impressions and recommendations for beginners"
+          />
+          <div className="caption">
+            <h3>Low-code test automation tools </h3>
+            <p className="DarkGreyHeading">MoT - Articles</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/low-code-test-automation-tools-first-impressions-and-recommendations-for-beginners"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
               </a>
             </p>
           </div>
