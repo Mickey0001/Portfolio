@@ -42,6 +42,9 @@ import AllAboutApplicationCookies from '../../../src/Images/AllAboutApplicationC
 import BrowserStackFeb2025 from '../../../src/Images/sarajevo_browserstack_mirza_february.png';
 import BrowserStackMay2025 from '../../../src/Images/BrowserStack2ndtMeetup.jpg';
 import LowCodeTestTutomationTools from '../../../src/Images/LowCodeTestTutomationTools.jpg';
+import BugBash2025 from '../../../src/Images/BugBash2025.jpg';
+import MotFairPay from '../../../src/Images/MotFairPay.jpg';
+MotFairPay
 
 
 
@@ -1091,6 +1094,88 @@ const Projects = () => (
                 role="button"
               >
                 Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+     <div className="row center">
+
+            <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BugBash2025}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>October 2025 BugBash meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack Bosnia</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/310745376/"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={MotFairPay}
+            alt="Discover how cookies affect privacy and UX to be able to test and secure applications effectively."
+          />
+          <div className="caption">
+            <h3>Getting a fair pay as a software tester</h3>
+            <p className="DarkGreyHeading">MoT - Articles</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/articles/all-about-application-cookies-software-tester-edition"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                Read the article
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+            <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={NetworkBiH2024WhyIAlmostGaveUpOnQA}
+            alt="Microsoft Network Bosnia conference in Neum 2024"
+          />
+          <div className="caption">
+            <h3>AI-powered automation tools</h3>
+            <p className="DarkGreyHeading">NetWork Conference</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.networkkonferencija.ba/en/2025/lectures/3178/experiences-with-low-code-ai-powered-automation-tools"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View Event
               </a>
             </p>
           </div>
