@@ -1182,6 +1182,32 @@ const Projects = () => (
         </div>
       </div>
 
+              <div className="col-sm-6 col-md-3">
+          <div className="thumbnail">
+            <img
+              className="img-responsive project"
+              src={MotSarajevo1}
+              alt="MoT Sarajevo's 2025  Meetup at Academy387 featuring Sladjana Klacar"
+            />
+            <div className="caption">
+              <h3>MoT Sarajevo 2025 Winter Meetup</h3>
+              <p className="DarkGreyHeading">MoT Sarajevo - Meetup</p>
+              <span className="spacer"></span>
+              <p>
+                <a
+                  href="https://www.meetup.com/ministry-of-testing-sarajevo/events/311957014"
+                  className="btn btn-default LightGreyBackground text-center"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="button"
+                >
+                  View Event
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+
     </div>
 
   </div>
