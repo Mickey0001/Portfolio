@@ -44,8 +44,7 @@ import BrowserStackMay2025 from '../../../src/Images/BrowserStack2ndtMeetup.jpg'
 import LowCodeTestTutomationTools from '../../../src/Images/LowCodeTestTutomationTools.jpg';
 import BugBash2025 from '../../../src/Images/BugBash2025.jpg';
 import MotFairPay from '../../../src/Images/MotFairPay.jpg';
-MotFairPay
-
+import MotSarajevo2025Meetup from '../../../src/Images/MotSarajevo2025Meetup.jpg';
 
 
 const Projects = () => (
@@ -1186,7 +1185,7 @@ const Projects = () => (
           <div className="thumbnail">
             <img
               className="img-responsive project"
-              src={MotSarajevo1}
+              src={MotSarajevo2025Meetup}
               alt="MoT Sarajevo's 2025  Meetup at Academy387 featuring Sladjana Klacar"
             />
             <div className="caption">
