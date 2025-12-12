@@ -45,6 +45,8 @@ import LowCodeTestTutomationTools from '../../../src/Images/LowCodeTestTutomatio
 import BugBash2025 from '../../../src/Images/BugBash2025.jpg';
 import MotFairPay from '../../../src/Images/MotFairPay.jpg';
 import MotSarajevo2025Meetup from '../../../src/Images/MotSarajevo2025Meetup.jpg';
+import Network2025 from '../../../src/Images/Network2025.png';
+import BrowserStackDecember2025 from '../../../src/Images/BrowserStackDecember2025.png';
 
 
 const Projects = () => (
@@ -1159,7 +1161,7 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={NetworkBiH2024WhyIAlmostGaveUpOnQA}
+            src={Network2025}
             alt="Microsoft Network Bosnia conference in Neum 2024"
           />
           <div className="caption">
@@ -1206,6 +1208,36 @@ const Projects = () => (
             </div>
           </div>
         </div>
+
+    </div>
+
+     <div className="row center">
+
+            <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStackDecember2025}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>December 2025 Browserstack meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack Bosnia</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/312152212"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
 
     </div>
 
