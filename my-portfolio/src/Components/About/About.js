@@ -40,7 +40,24 @@ const About = () => (
             >
               Ministry of Testing Sarajevo
             </a>{" "}
-            community meetup. When I get stuck I resort to{" "}
+            community meetup, co-organizer of the {" "}
+            <a
+              href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+             BrowserStack QA Meetup Group
+            </a>{" "}in Bosnia and Herzegovina and a regular speaker at the local  {" "}
+             <a
+              href="hhttps://www.networkkonferencija.ba/bs-latn-ba/2026"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+             Network
+            </a>{" "}
+            conference.
+            
+            When I get stuck I resort to{" "}
             <strong>Google-fu</strong> and usually end up finding answers on
             sites like <strong>MoT Club</strong> forum and{" "}
             <strong>StackOverflow</strong>. I write a technical blog, called{" "}

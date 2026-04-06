@@ -47,7 +47,7 @@ import MotFairPay from '../../../src/Images/MotFairPay.jpg';
 import MotSarajevo2025Meetup from '../../../src/Images/MotSarajevo2025Meetup.jpg';
 import Network2025 from '../../../src/Images/Network2025.png';
 import BrowserStackDecember2025 from '../../../src/Images/BrowserStackDecember2025.png';
-
+import BrowserStackmarch2026 from '../../../src/Images/BrowserStackmarch2026.png';
 
 const Projects = () => (
   <div className="container">
@@ -1227,6 +1227,32 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/312152212"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+       <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStackmarch2026}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>March 2026 Browserstack meetup</h3>
+            <p className="DarkGreyHeading">BrowserStack Bosnia</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/312842977/"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
