@@ -49,6 +49,11 @@ import Network2025 from '../../../src/Images/Network2025.png';
 import BrowserStackDecember2025 from '../../../src/Images/BrowserStackDecember2025.png';
 import BrowserStackmarch2026 from '../../../src/Images/BrowserStackmarch2026.png';
 
+import SoftwareTestingInRegulatedIndustriesCourse from '../../../src/Images/SoftwareTestingInRegulatedIndustriesCourse.jpg';
+
+
+
+
 const Projects = () => (
   <div className="container">
     <div className="container" id="workwrap">
@@ -1253,6 +1258,58 @@ const Projects = () => (
             <p>
               <a
                 href="https://www.meetup.com/browserstack-qa-meetup-group-bosnia-and-herzegovina/events/312842977/"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View event
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={SoftwareTestingInRegulatedIndustriesCourse}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>Software Testing in Regulated Industries</h3>
+            <p className="DarkGreyHeading">MoT course</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.ministryoftesting.com/courses/software-testing-in-regulated-industries-a-beginner-s-guide"
+                className="btn btn-default LightGreyBackground text-center"
+                target="_blank"
+                rel="noopener noreferrer"
+                role="button"
+              >
+                View course
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-sm-6 col-md-3">
+        <div className="thumbnail">
+          <img
+            className="img-responsive project"
+            src={BrowserStackmarch2026}
+            alt="Building a Culture of Testing in Agile Teams with BrowserStack"
+          />
+          <div className="caption">
+            <h3>&lt;break&gt;point conference</h3>
+            <p className="DarkGreyHeading">BrowserStack conference</p>
+            <span className="spacer"></span>
+            <p>
+              <a
+                href="https://www.browserstack.com/events/breakpoint-2026"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"

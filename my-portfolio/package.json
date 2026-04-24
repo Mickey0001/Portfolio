@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "ajv": "^6.5.4",
+    "axios": "^1.15.0",
     "cli": "^1.0.1",
+    "csv-parser": "^3.2.0",
     "cypress": "^4.2.0",
     "firebase": "^9.8.4",
     "firebase-cli": "^1.1.4",
@@ -30,5 +32,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
