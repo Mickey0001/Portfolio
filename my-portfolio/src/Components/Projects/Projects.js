@@ -48,9 +48,8 @@ import MotSarajevo2025Meetup from '../../../src/Images/MotSarajevo2025Meetup.jpg
 import Network2025 from '../../../src/Images/Network2025.png';
 import BrowserStackDecember2025 from '../../../src/Images/BrowserStackDecember2025.png';
 import BrowserStackmarch2026 from '../../../src/Images/BrowserStackmarch2026.png';
-
 import SoftwareTestingInRegulatedIndustriesCourse from '../../../src/Images/SoftwareTestingInRegulatedIndustriesCourse.jpg';
-
+import breakpoint2026 from '../../../src/Images/breakpoint2026.jpg';
 
 
 
@@ -1300,7 +1299,7 @@ const Projects = () => (
         <div className="thumbnail">
           <img
             className="img-responsive project"
-            src={BrowserStackmarch2026}
+            src={breakpoint2026}
             alt="Building a Culture of Testing in Agile Teams with BrowserStack"
           />
           <div className="caption">
