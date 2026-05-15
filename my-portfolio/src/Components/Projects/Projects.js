@@ -1308,13 +1308,13 @@ const Projects = () => (
             <span className="spacer"></span>
             <p>
               <a
-                href="https://www.browserstack.com/events/breakpoint-2026"
+                href="https://events.hubilo.com/breakpoint-2026-us-emea-edition/session/272759?messageId=6a05f17282f676ac087ae4f3"
                 className="btn btn-default LightGreyBackground text-center"
                 target="_blank"
                 rel="noopener noreferrer"
                 role="button"
               >
-                View event
+               Watch recording
               </a>
             </p>
           </div>
